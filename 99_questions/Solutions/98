@@ -1,0 +1,574 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" dir="ltr">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+		<meta name="generator" content="MediaWiki 1.19.5-1+deb7u1" />
+<link rel="canonical" href="/haskellwiki/Nonogram" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/haskellwiki/opensearch_desc.php" title="HaskellWiki (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="http://www.haskell.org/haskellwiki/api.php?action=rsd" />
+<link rel="copyright" href="/haskellwiki/HaskellWiki:Copyrights" />
+<link rel="alternate" type="application/atom+xml" title="HaskellWiki Atom feed" href="/haskellwiki/index.php?title=Special:RecentChanges&amp;feed=atom" />		<title>Nonogram - HaskellWiki</title>
+		<style type="text/css" media="screen, projection">/*<![CDATA[*/
+			@import "/wikistatic/skins//common/shared.css?303";
+			@import "/wikistatic/skins//hawiki/main.css?303";
+		/*]]>*/</style>
+		<link rel="stylesheet" type="text/css" media="print" href="/wikistatic/skins//common/commonPrint.css?303" />
+		<!--[if lt IE 5.5000]><style type="text/css">@import "/wikistatic/skins//hawiki/IE50Fixes.css?303";</style><![endif]-->
+		<!--[if IE 5.5000]><style type="text/css">@import "/wikistatic/skins//hawiki/IE55Fixes.css?303";</style><![endif]-->
+		<!--[if IE 6]><style type="text/css">@import "/wikistatic/skins//hawiki/IE60Fixes.css?303";</style><![endif]-->
+		<!--[if IE 7]><style type="text/css">@import "/wikistatic/skins//hawiki/IE70Fixes.css?303";</style><![endif]-->
+		<!--[if lte IE 7]><script type="text/javascript" src="/wikistatic/skins//hawiki/IEFixes.js?303"></script>
+		<meta http-equiv="imagetoolbar" content="no" /><![endif]-->
+                                                <script type="text/javascript">
+                        var isMSIE55 = (window.showModalDialog && window.clipboardData && window.createPopup); /*alert("test: " + isMSIE55);*/</script>
+
+		<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Nonogram","wgTitle":"Nonogram","wgCurRevisionId":33723,"wgArticleId":2612,"wgIsArticle":true,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Code"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgRelevantPageName":"Nonogram","wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"99_questions/Solutions/98"});
+}</script>
+		<script type="text/javascript" src="/wikistatic/skins//common/wikibits.js?303"><!-- wikibits js --></script>
+		<!-- Head Scripts -->
+<script src="http://www.haskell.org/haskellwiki/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=hawiki&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Nonogram","wgTitle":"Nonogram","wgCurRevisionId":33723,"wgArticleId":2612,"wgIsArticle":true,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Code"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgRelevantPageName":"Nonogram","wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"99_questions/Solutions/98"});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"externaldiff":0,"externaleditor":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"highlightbroken":1,"imagesize":2,"justify":0,"math":1,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":1,"previewonfirst":0,"previewontop":1,"quickbar":5,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":0,"showjumplinks":1,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"hawiki","stubthreshold":0,"thumbsize":2,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":0,"watchdefault":0,"watchdeletion":0,
+"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"variant":"en","language":"en","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false});;},{},{});mw.loader.implement("user.tokens",function($){mw.user.tokens.set({"editToken":"+\\","watchToken":false});;},{},{});
+
+/* cache key: wikidb:resourceloader:filter:minify-js:7:befcdb5e3b24ff89f900613de9ed4ea3 */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax"]);
+}</script><style type="text/css">/*<![CDATA[*/
+.source-haskell {line-height: normal;}
+.source-haskell li, .source-haskell pre {
+	line-height: normal; border: 0px none white;
+}
+/**
+ * GeSHi Dynamically Generated Stylesheet
+ * --------------------------------------
+ * Dynamically generated stylesheet for haskell
+ * CSS class: source-haskell, CSS id: 
+ * GeSHi (C) 2004 - 2007 Nigel McNie, 2007 - 2008 Benny Baumann
+ * (http://qbnz.com/highlighter/ and http://geshi.org/)
+ * --------------------------------------
+ */
+.haskell.source-haskell .de1, .haskell.source-haskell .de2 {font: normal normal 1em/1.2em monospace; margin:0; padding:0; background:none; vertical-align:top;}
+.haskell.source-haskell  {font-family:monospace;}
+.haskell.source-haskell .imp {font-weight: bold; color: red;}
+.haskell.source-haskell li, .haskell.source-haskell .li1 {font-weight: normal; vertical-align:top;}
+.haskell.source-haskell .ln {width:1px;text-align:right;margin:0;padding:0 2px;vertical-align:top;}
+.haskell.source-haskell .li2 {font-weight: bold; vertical-align:top;}
+.haskell.source-haskell .kw1 {color: #06c; font-weight: bold;}
+.haskell.source-haskell .kw2 {color: #06c; font-weight: bold;}
+.haskell.source-haskell .kw3 {font-weight: bold;}
+.haskell.source-haskell .kw4 {color: #cccc00; font-weight: bold;}
+.haskell.source-haskell .kw5 {color: maroon;}
+.haskell.source-haskell .co1 {color: #5d478b; font-style: italic;}
+.haskell.source-haskell .co2 {color: #339933; font-weight: bold;}
+.haskell.source-haskell .coMULTI {color: #5d478b; font-style: italic;}
+.haskell.source-haskell .es0 {background-color: #3cb371; font-weight: bold;}
+.haskell.source-haskell .br0 {color: green;}
+.haskell.source-haskell .sy0 {color: #339933; font-weight: bold;}
+.haskell.source-haskell .st0 {background-color: #3cb371;}
+.haskell.source-haskell .nu0 {color: red;}
+.haskell.source-haskell .me1 {color: #060;}
+.haskell.source-haskell .ln-xtra, .haskell.source-haskell li.ln-xtra, .haskell.source-haskell div.ln-xtra {background-color: #ffc;}
+.haskell.source-haskell span.xtra { display:block; }
+
+/*]]>*/
+</style>	</head>
+<body class="mediawiki ltr ns-0 ns-subject page-Nonogram skin-hawiki">
+   <div id="topbar" class="noprint">
+	<div class="portlet noprint" id="p-personal">
+		<h5>Personal tools</h5>
+		<div class="pBody">
+			<ul><li><a class="homebutton" href="/haskellwiki/Haskell">Home</a></li>
+				<li id="pt-login"><a href="/haskellwiki/index.php?title=Special:UserLogin&amp;returnto=99+questions%2FSolutions%2F98">Log in</a></li>
+			</ul>
+		</div>
+	</div>
+        	  <div id="p-search">
+	    <div id="searchBody" class="pBody">
+	       <form action="/haskellwiki/index.php" id="searchform"><div>
+	          <input type='hidden' name="title" value="Special:Search"/>
+	          <input id="searchInput" name="search" type="text" value="" />
+				<input type='submit' name="go" class="searchButton" id="searchGoButton"	value="Go" />&nbsp;
+				<input type='submit' name="fulltext" class="searchButton" id="mw-searchButton" value="Search" />
+
+	         </div></form>
+	    </div>
+	  </div>
+   </div>
+	<div id="globalWrapper">
+	<div class="portlet" id="p-logo">
+		<a style="background-image: url(/wikistatic/haskellwiki_logo.png);" href="/haskellwiki/Haskell"></a>
+	</div>
+	<div id="column-content">
+        <div id="notice-area" class="noprint">
+        <!-- ?php $this->data['sitenotice'] = 'This is a test instance.  Do not edit, your changes will be lost.'; ? -->
+			        </div>
+        <div id="content-wrapper">
+	<div id="p-cactions" class="portlet noprint">
+		<h5>Views</h5>
+		<div class="pBody">
+			<ul>
+	
+				 <li id="ca-nstab-main" class="selected"><a href="/haskellwiki/Nonogram">Page</a></li>
+				 <li id="ca-talk"><a href="/haskellwiki/Talk:Nonogram">Discussion</a></li>
+				 <li id="ca-viewsource"><a href="/haskellwiki/index.php?title=Nonogram&amp;action=edit">View source</a></li>
+				 <li id="ca-history"><a href="/haskellwiki/index.php?title=Nonogram&amp;action=history">History</a></li>			</ul>
+		</div>
+	</div>
+                        <div id="content">
+		<a name="top" id="top"></a>
+                        <h1 id="firstHeading" class="firstHeading">Nonogram</h1>
+		<div id="bodyContent">
+			<h3 id="siteSub">From HaskellWiki</h3>
+			<div id="contentSub">(Redirected from <a href="/haskellwiki/index.php?title=99_questions/Solutions/98&amp;redirect=no" title="99 questions/Solutions/98">99 questions/Solutions/98</a>)</div>
+			<div id="jump-to-nav">Jump to: <a href="#column-one">navigation</a>, <a href="#searchInput">search</a></div>			<!-- start content -->
+			<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><p>Here are some solvers for Nonogram puzzles. A description of what a nonogram is can be found in <a href="/haskellwiki/99_questions/95_to_99#Problem_98" title="99 questions/95 to 99">Ninety-Nine Haskell Problems</a>.
+</p>
+<h2> <span class="mw-headline" id="Backtracking_solver">1  Backtracking solver </span></h2>
+<p>The first solution is a simple backtracking algorithm, but is quite slow for larger problems.
+</p>
+<div dir="ltr" class="mw-geshi mw-content-ltr"><div class="haskell source-haskell" style="font-family:monospace;"><pre class="de1"><span class="kw1">data</span> Square <span class="sy0">=</span> Blank <span class="sy0">|</span> Cross <span class="kw1">deriving</span> <span class="br0">&#40;</span><span class="kw4">Eq</span><span class="br0">&#41;</span>
+<span class="kw1">instance</span> <span class="kw4">Show</span> Square <span class="kw1">where</span>
+    <span class="kw3">show</span> Blank <span class="sy0">=</span> <span class="st0">&quot; &quot;</span>
+    <span class="kw3">show</span> Cross <span class="sy0">=</span> <span class="st0">&quot;X&quot;</span>
+&#160;
+<span class="co1">-- create all possibilities of arranging the given blocks in a line of &quot;n&quot; elements</span>
+rows n <span class="br0">&#91;</span><span class="br0">&#93;</span>             <span class="sy0">=</span> <span class="br0">&#91;</span>replicate n Blank<span class="br0">&#93;</span>
+rows n <span class="br0">&#40;</span>k:ks<span class="br0">&#41;</span> <span class="sy0">|</span> n <span class="sy0">&lt;</span> k <span class="sy0">=</span> <span class="br0">&#91;</span><span class="br0">&#93;</span>
+rows n <span class="br0">&#40;</span>k:ks<span class="br0">&#41;</span>         <span class="sy0">=</span> 
+    <span class="br0">&#91;</span>Blank&#160;: row <span class="sy0">|</span> row <span class="sy0">&lt;-</span> rows <span class="br0">&#40;</span>n<span class="sy0">-</span>1<span class="br0">&#41;</span> <span class="br0">&#40;</span>k:ks<span class="br0">&#41;</span><span class="br0">&#93;</span> <span class="sy0">++</span>
+    <span class="kw1">if</span> <span class="kw3">null</span> ks <span class="kw1">then</span> <span class="br0">&#91;</span>replicate k Cross <span class="sy0">++</span> replicate <span class="br0">&#40;</span>n<span class="sy0">-</span>k<span class="br0">&#41;</span> Blank<span class="br0">&#93;</span>
+               <span class="kw1">else</span> <span class="br0">&#91;</span>replicate k Cross <span class="sy0">++</span> Blank&#160;: row <span class="sy0">|</span> row <span class="sy0">&lt;-</span> rows <span class="br0">&#40;</span>n<span class="sy0">-</span>k<span class="sy0">-</span><span class="nu0">1</span><span class="br0">&#41;</span> ks<span class="br0">&#93;</span>
+&#160;
+<span class="co1">-- contract a given line into the block format</span>
+<span class="co1">-- i.e. contract [Cross,Blank,Cross] == [1,1]</span>
+contract <span class="sy0">=</span> <span class="kw3">map</span> <span class="kw3">length</span> <span class="sy0">.</span> <span class="kw3">filter</span> <span class="br0">&#40;</span>\<span class="br0">&#40;</span>x:<span class="sy0">_</span><span class="br0">&#41;</span> <span class="sy0">-&gt;</span> x<span class="sy0">==</span>Cross<span class="br0">&#41;</span> <span class="sy0">.</span> group
+&#160;
+<span class="co1">-- create all solutions by combining all possible rows in all possible ways</span>
+<span class="co1">-- then pick a solution and check whether its block signature fits</span>
+solver horz vert <span class="sy0">=</span> <span class="kw3">filter</span> fitsVert possSolution
+    <span class="kw1">where</span> possSolution <span class="sy0">=</span> <span class="kw3">mapM</span> <span class="br0">&#40;</span>rows <span class="br0">&#40;</span><span class="kw3">length</span> vert<span class="br0">&#41;</span><span class="br0">&#41;</span> horz
+          fitsVert rs  <span class="sy0">=</span> <span class="kw3">map</span> contract <span class="br0">&#40;</span>transpose rs<span class="br0">&#41;</span> <span class="sy0">==</span> vert
+&#160;
+<span class="co1">-- output the (first) solution</span>
+nonogram horz vert <span class="sy0">=</span> printSolution <span class="sy0">$</span> <span class="kw3">head</span> <span class="sy0">$</span> solver horz vert
+    <span class="kw1">where</span> printSolution <span class="sy0">=</span> <span class="kw3">putStr</span> <span class="sy0">.</span> <span class="kw3">unlines</span> <span class="sy0">.</span> <span class="kw3">map</span> <span class="br0">&#40;</span><span class="kw3">concatMap</span> <span class="kw3">show</span><span class="br0">&#41;</span> <span class="sy0">.</span> transpose</pre></div></div>
+<p>This is a solution done for simplicity rather than performance. It's SLOOOOW. If I were to check intermediate solutions against the blocks that should come out instead of sequencing everything, the List monad would fail much earlier...
+</p><p>It builds all combinations of blocks in a row (stolen from solution 2&#160;:) and then builds all combinations of rows. The resulting columns are then contracted into the short block block form and the signature compared to the target.
+</p>
+<h2> <span class="mw-headline" id="Deducing_solver">2  Deducing solver </span></h2>
+<p>We can make the search much faster (but more obscure) by deducing the values of as many squares as possible before guessing, as in this solution:
+</p>
+<div dir="ltr" class="mw-geshi mw-content-ltr"><div class="haskell source-haskell" style="font-family:monospace;"><pre class="de1"><span class="kw1">module</span> Nonogram <span class="kw1">where</span>
+&#160;
+<span class="kw1">import</span> Control<span class="sy0">.</span><span class="kw4">Monad</span>
+<span class="kw1">import</span> Data<span class="sy0">.</span>List
+<span class="kw1">import</span> Data<span class="sy0">.</span><span class="kw4">Maybe</span>
+&#160;
+<span class="kw1">type</span> Row s <span class="sy0">=</span> <span class="br0">&#91;</span>s<span class="br0">&#93;</span>
+<span class="kw1">type</span> Grid s <span class="sy0">=</span> <span class="br0">&#91;</span>Row s<span class="br0">&#93;</span>
+&#160;
+<span class="co1">-- partial information about a square</span>
+<span class="kw1">type</span> Square <span class="sy0">=</span> <span class="kw4">Maybe</span> <span class="kw4">Bool</span>
+&#160;
+<span class="co1">-- Print the first solution (if any) to the nonogram</span>
+nonogram <span class="sy0">::</span> <span class="br0">&#91;</span><span class="br0">&#91;</span><span class="kw4">Int</span><span class="br0">&#93;</span><span class="br0">&#93;</span> <span class="sy0">-&gt;</span> <span class="br0">&#91;</span><span class="br0">&#91;</span><span class="kw4">Int</span><span class="br0">&#93;</span><span class="br0">&#93;</span> <span class="sy0">-&gt;</span> <span class="kw4">String</span>
+nonogram rs cs <span class="sy0">=</span> <span class="kw1">case</span> solve rs cs <span class="kw1">of</span>
+        <span class="br0">&#91;</span><span class="br0">&#93;</span> <span class="sy0">-&gt;</span> <span class="st0">&quot;Inconsistent<span class="es0">\n</span>&quot;</span>
+        <span class="br0">&#40;</span>grid:<span class="sy0">_</span><span class="br0">&#41;</span> <span class="sy0">-&gt;</span> showGrid rs cs grid
+&#160;
+<span class="co1">-- All solutions to the nonogram</span>
+solve <span class="sy0">::</span> <span class="br0">&#91;</span><span class="br0">&#91;</span><span class="kw4">Int</span><span class="br0">&#93;</span><span class="br0">&#93;</span> <span class="sy0">-&gt;</span> <span class="br0">&#91;</span><span class="br0">&#91;</span><span class="kw4">Int</span><span class="br0">&#93;</span><span class="br0">&#93;</span> <span class="sy0">-&gt;</span> <span class="br0">&#91;</span>Grid <span class="kw4">Bool</span><span class="br0">&#93;</span>
+solve rs cs <span class="sy0">=</span> <span class="br0">&#91;</span>grid' <span class="sy0">|</span>
+                        <span class="co1">-- deduce as many squares as we can</span>
+                grid <span class="sy0">&lt;-</span> maybeToList <span class="br0">&#40;</span>deduction rs cs<span class="br0">&#41;</span><span class="sy0">,</span>
+                        <span class="co1">-- guess the rest, governed by rs</span>
+                grid' <span class="sy0">&lt;-</span> zipWithM <span class="br0">&#40;</span>rowsMatching nc<span class="br0">&#41;</span> rs grid<span class="sy0">,</span>
+                        <span class="co1">-- check each guess against cs</span>
+                <span class="kw3">map</span> contract <span class="br0">&#40;</span>transpose grid'<span class="br0">&#41;</span> <span class="sy0">==</span> cs<span class="br0">&#93;</span>
+  <span class="kw1">where</span> nc <span class="sy0">=</span> <span class="kw3">length</span> cs
+        contract <span class="sy0">=</span> <span class="kw3">map</span> <span class="kw3">length</span> <span class="sy0">.</span> <span class="kw3">filter</span> <span class="kw3">head</span> <span class="sy0">.</span> group
+&#160;
+<span class="co1">-- A nonogram with all the values we can deduce</span>
+deduction <span class="sy0">::</span> <span class="br0">&#91;</span><span class="br0">&#91;</span><span class="kw4">Int</span><span class="br0">&#93;</span><span class="br0">&#93;</span> <span class="sy0">-&gt;</span> <span class="br0">&#91;</span><span class="br0">&#91;</span><span class="kw4">Int</span><span class="br0">&#93;</span><span class="br0">&#93;</span> <span class="sy0">-&gt;</span> <span class="kw4">Maybe</span> <span class="br0">&#40;</span>Grid Square<span class="br0">&#41;</span>
+deduction rs cs <span class="sy0">=</span> converge step <span class="kw3">init</span>
+  <span class="kw1">where</span> nr <span class="sy0">=</span> <span class="kw3">length</span> rs
+        nc <span class="sy0">=</span> <span class="kw3">length</span> cs
+        <span class="kw3">init</span> <span class="sy0">=</span> replicate nr <span class="br0">&#40;</span>replicate nc Nothing<span class="br0">&#41;</span>
+        step <span class="sy0">=</span> <span class="br0">&#40;</span>improve nc rs <span class="sy0">.</span> transpose<span class="br0">&#41;</span> <span class="sy0">&lt;.&gt;</span> <span class="br0">&#40;</span>improve nr cs <span class="sy0">.</span> transpose<span class="br0">&#41;</span>
+        improve n <span class="sy0">=</span> zipWithM <span class="br0">&#40;</span>common n<span class="br0">&#41;</span>
+        <span class="br0">&#40;</span>g <span class="sy0">&lt;.&gt;</span> f<span class="br0">&#41;</span> x <span class="sy0">=</span> f x <span class="sy0">&gt;&gt;=</span> g
+&#160;
+<span class="co1">-- repeatedly apply f until a fixed point is reached</span>
+converge <span class="sy0">::</span> <span class="br0">&#40;</span><span class="kw4">Monad</span> m<span class="sy0">,</span> <span class="kw4">Eq</span> a<span class="br0">&#41;</span> <span class="sy0">=&gt;</span> <span class="br0">&#40;</span>a <span class="sy0">-&gt;</span> m a<span class="br0">&#41;</span> <span class="sy0">-&gt;</span> a <span class="sy0">-&gt;</span> m a
+converge f s <span class="sy0">=</span> <span class="kw1">do</span>
+        s' <span class="sy0">&lt;-</span> f s
+        <span class="kw1">if</span> s' <span class="sy0">==</span> s <span class="kw1">then</span> <span class="kw3">return</span> s <span class="kw1">else</span> converge f s'
+&#160;
+<span class="co1">-- common n ks partial = commonality between all possible ways of</span>
+<span class="co1">-- placing blocks of length ks in a row of length n that match partial.</span>
+common <span class="sy0">::</span> <span class="kw4">Int</span> <span class="sy0">-&gt;</span> <span class="br0">&#91;</span><span class="kw4">Int</span><span class="br0">&#93;</span> <span class="sy0">-&gt;</span> Row Square <span class="sy0">-&gt;</span> <span class="kw4">Maybe</span> <span class="br0">&#40;</span>Row Square<span class="br0">&#41;</span>
+common n ks partial <span class="sy0">=</span> <span class="kw1">case</span> rowsMatching n ks partial <span class="kw1">of</span>
+        <span class="br0">&#91;</span><span class="br0">&#93;</span> <span class="sy0">-&gt;</span> Nothing
+        rs <span class="sy0">-&gt;</span> Just <span class="br0">&#40;</span><span class="kw3">foldr1</span> <span class="br0">&#40;</span><span class="kw3">zipWith</span> unify<span class="br0">&#41;</span> <span class="br0">&#40;</span><span class="kw3">map</span> <span class="br0">&#40;</span><span class="kw3">map</span> Just<span class="br0">&#41;</span> rs<span class="br0">&#41;</span><span class="br0">&#41;</span>
+  <span class="kw1">where</span> unify <span class="sy0">::</span> Square <span class="sy0">-&gt;</span> Square <span class="sy0">-&gt;</span> Square
+        unify x y
+          <span class="sy0">|</span> x <span class="sy0">==</span> y <span class="sy0">=</span> x
+          <span class="sy0">|</span> <span class="kw3">otherwise</span> <span class="sy0">=</span> Nothing
+&#160;
+<span class="co1">-- rowsMatching n ks partial = all possible ways of placing blocks of</span>
+<span class="co1">-- length ks in a row of length n that match partial.</span>
+rowsMatching <span class="sy0">::</span> <span class="kw4">Int</span> <span class="sy0">-&gt;</span> <span class="br0">&#91;</span><span class="kw4">Int</span><span class="br0">&#93;</span> <span class="sy0">-&gt;</span> Row Square <span class="sy0">-&gt;</span> <span class="br0">&#91;</span>Row <span class="kw4">Bool</span><span class="br0">&#93;</span>
+rowsMatching n <span class="br0">&#91;</span><span class="br0">&#93;</span> <span class="br0">&#91;</span><span class="br0">&#93;</span> <span class="sy0">=</span> <span class="br0">&#91;</span><span class="br0">&#91;</span><span class="br0">&#93;</span><span class="br0">&#93;</span>
+rowsMatching n ks <span class="br0">&#91;</span><span class="br0">&#93;</span> <span class="sy0">=</span> <span class="br0">&#91;</span><span class="br0">&#93;</span>
+rowsMatching n ks <span class="br0">&#40;</span>Nothing:partial<span class="br0">&#41;</span> <span class="sy0">=</span>
+        rowsMatchingAux n ks True partial <span class="sy0">++</span>
+        rowsMatchingAux n ks False partial
+rowsMatching n ks <span class="br0">&#40;</span>Just s:partial<span class="br0">&#41;</span> <span class="sy0">=</span> 
+        rowsMatchingAux n ks s partial
+&#160;
+rowsMatchingAux <span class="sy0">::</span> <span class="kw4">Int</span> <span class="sy0">-&gt;</span> <span class="br0">&#91;</span><span class="kw4">Int</span><span class="br0">&#93;</span> <span class="sy0">-&gt;</span> <span class="kw4">Bool</span> <span class="sy0">-&gt;</span> Row Square <span class="sy0">-&gt;</span> <span class="br0">&#91;</span>Row <span class="kw4">Bool</span><span class="br0">&#93;</span>
+rowsMatchingAux n ks False partial <span class="sy0">=</span>
+        <span class="br0">&#91;</span>False&#160;: row <span class="sy0">|</span> row <span class="sy0">&lt;-</span> rowsMatching <span class="br0">&#40;</span>n<span class="sy0">-</span>1<span class="br0">&#41;</span> ks partial<span class="br0">&#93;</span>
+rowsMatchingAux n <span class="br0">&#91;</span>k<span class="br0">&#93;</span> True partial <span class="sy0">=</span>
+        <span class="br0">&#91;</span>replicate k True <span class="sy0">++</span> replicate <span class="br0">&#40;</span>n<span class="sy0">-</span>k<span class="br0">&#41;</span> False <span class="sy0">|</span>
+                n <span class="sy0">&gt;=</span> k <span class="sy0">&amp;&amp;</span> <span class="kw3">all</span> <span class="br0">&#40;</span><span class="sy0">/=</span> Just False<span class="br0">&#41;</span> front <span class="sy0">&amp;&amp;</span> <span class="kw3">all</span> <span class="br0">&#40;</span><span class="sy0">/=</span> Just True<span class="br0">&#41;</span> back<span class="br0">&#93;</span>
+  <span class="kw1">where</span> <span class="br0">&#40;</span>front<span class="sy0">,</span> back<span class="br0">&#41;</span> <span class="sy0">=</span> <span class="kw3">splitAt</span> <span class="br0">&#40;</span>k<span class="sy0">-</span>1<span class="br0">&#41;</span> partial
+rowsMatchingAux n <span class="br0">&#40;</span>k:ks<span class="br0">&#41;</span> True partial <span class="sy0">=</span>
+        <span class="br0">&#91;</span>replicate k True <span class="sy0">++</span> False&#160;: row <span class="sy0">|</span>
+                n <span class="sy0">&gt;</span> k<span class="sy0">+</span>1 <span class="sy0">&amp;&amp;</span> <span class="kw3">all</span> <span class="br0">&#40;</span><span class="sy0">/=</span> Just False<span class="br0">&#41;</span> front <span class="sy0">&amp;&amp;</span> blank <span class="sy0">/=</span> Just True<span class="sy0">,</span>
+                row <span class="sy0">&lt;-</span> rowsMatching <span class="br0">&#40;</span>n<span class="sy0">-</span>k<span class="sy0">-</span>1<span class="br0">&#41;</span> ks partial'<span class="br0">&#93;</span>
+  <span class="kw1">where</span> <span class="br0">&#40;</span>front<span class="sy0">,</span> blank:partial'<span class="br0">&#41;</span> <span class="sy0">=</span> <span class="kw3">splitAt</span> <span class="br0">&#40;</span>k<span class="sy0">-</span>1<span class="br0">&#41;</span> partial
+&#160;
+showGrid <span class="sy0">::</span> <span class="br0">&#91;</span><span class="br0">&#91;</span><span class="kw4">Int</span><span class="br0">&#93;</span><span class="br0">&#93;</span> <span class="sy0">-&gt;</span> <span class="br0">&#91;</span><span class="br0">&#91;</span><span class="kw4">Int</span><span class="br0">&#93;</span><span class="br0">&#93;</span> <span class="sy0">-&gt;</span> Grid <span class="kw4">Bool</span> <span class="sy0">-&gt;</span> <span class="kw4">String</span>
+showGrid rs cs ss <span class="sy0">=</span> <span class="kw3">unlines</span> <span class="br0">&#40;</span><span class="kw3">zipWith</span> showRow rs ss <span class="sy0">++</span> showCols cs<span class="br0">&#41;</span>
+  <span class="kw1">where</span> showRow rs ss <span class="sy0">=</span> <span class="kw3">concat</span> <span class="br0">&#91;</span><span class="br0">&#91;</span>'<span class="sy0">|</span>'<span class="sy0">,</span> cellChar s<span class="br0">&#93;</span> <span class="sy0">|</span> s <span class="sy0">&lt;-</span> ss<span class="br0">&#93;</span> <span class="sy0">++</span> <span class="st0">&quot;| &quot;</span> <span class="sy0">++</span>
+                <span class="kw3">unwords</span> <span class="br0">&#40;</span><span class="kw3">map</span> <span class="kw3">show</span> rs<span class="br0">&#41;</span>
+        showCols cs
+          <span class="sy0">|</span> <span class="kw3">all</span> <span class="kw3">null</span> cs <span class="sy0">=</span> <span class="br0">&#91;</span><span class="br0">&#93;</span>
+          <span class="sy0">|</span> <span class="kw3">otherwise</span> <span class="sy0">=</span> <span class="kw3">concatMap</span> showCol cs&#160;: showCols <span class="br0">&#40;</span><span class="kw3">map</span> advance cs<span class="br0">&#41;</span>
+        showCol <span class="br0">&#40;</span>k:<span class="sy0">_</span><span class="br0">&#41;</span>
+          <span class="sy0">|</span> k <span class="sy0">&lt;</span> 10 <span class="sy0">=</span> ' ':<span class="kw3">show</span> k
+          <span class="sy0">|</span> <span class="kw3">otherwise</span> <span class="sy0">=</span> <span class="kw3">show</span> k
+        showCol <span class="br0">&#91;</span><span class="br0">&#93;</span> <span class="sy0">=</span> <span class="st0">&quot;  &quot;</span>
+        cellChar True <span class="sy0">=</span> 'X'
+        cellChar False <span class="sy0">=</span> '<span class="sy0">_</span>'
+        advance <span class="br0">&#91;</span><span class="br0">&#93;</span> <span class="sy0">=</span> <span class="br0">&#91;</span><span class="br0">&#93;</span>
+        advance <span class="br0">&#40;</span>x:xs<span class="br0">&#41;</span> <span class="sy0">=</span> xs</pre></div></div>
+<p>We build up knowledge of which squares must be filled and which must be blank, until we can't make any more deductions.
+Some puzzles cannot be completely solved in this way, so then we guess values by the same method as the first solution for any remaining squares.
+</p>
+<h2> <span class="mw-headline" id="Set_based_solver">3  Set based solver </span></h2>
+<p>By: Twan van Laarhoven
+</p><p>The idea behind this solver is similair to that of most <a href="/haskellwiki/Sudoku" title="Sudoku">Sudoku</a> solvers, in each cell a set of its possible values are stored, and these sets are iterativly reduced until a single value remains. Instead of only using the possible values black and white this solver uses positions. If for some row the lengths [4,3] are given, then there are 10 possible positions: 
+</p>
+<ul><li> white, left of both sections of black
+</li><li> 4 positions inside the first black section.
+</li><li> between the two black sections
+</li><li> 3 positions inside the second black section.
+</li><li> after both sections.
+</li></ul>
+<p>Each cell has a both a horizontal and a vertical set of possible positions/values.
+</p><p>There are two kinds of passes that are made:
+</p>
+<ul><li> hStep: for each cell, it can only have values that can follow that of its left neighbour.
+</li><li> efStep: If a cell is guaranteed to be white/black according to its horizontal value its vertical value must also be white/black, and vice-versa.
+</li></ul>
+<p>The hStep is applied in all four directions by reversing and transposing the board.
+</p><p>If no more progress can be made using this algorithm, the solver makes a guess. In the first cell that still has multiple choices all these choices are inspected individually by 'splitting' the puzzle into a list of puzzles. These are then solved using the deterministic algorithm. Puzzles that lead to a contradiction (no possible values in a cell) are removed from the list.
+</p>
+<div dir="ltr" class="mw-geshi mw-content-ltr"><div class="haskell source-haskell" style="font-family:monospace;"><pre class="de1"><span class="kw1">module</span> Nonogram <span class="kw1">where</span>
+&#160;
+<span class="kw1">import</span> <span class="kw1">qualified</span> Data<span class="sy0">.</span>Set <span class="kw1">as</span> Set
+<span class="kw1">import</span> Data<span class="sy0">.</span>Set <span class="br0">&#40;</span>Set<span class="br0">&#41;</span>
+<span class="kw1">import</span> <span class="kw1">qualified</span> Data<span class="sy0">.</span>Map <span class="kw1">as</span> Map
+<span class="kw1">import</span> Data<span class="sy0">.</span>Map <span class="br0">&#40;</span>Map<span class="br0">&#41;</span>
+<span class="kw1">import</span> Data<span class="sy0">.</span>List
+&#160;
+<span class="co1">------------------------------------------------------------------------</span>
+<span class="co1">-- Cells</span>
+&#160;
+<span class="co1">-- | The value of a single cell</span>
+<span class="kw1">newtype</span> Value <span class="sy0">=</span> Value <span class="kw4">Int</span>
+	<span class="kw1">deriving</span> <span class="br0">&#40;</span><span class="kw4">Eq</span><span class="sy0">,</span> <span class="kw4">Ord</span><span class="sy0">,</span> <span class="kw4">Show</span><span class="br0">&#41;</span>
+&#160;
+<span class="co1">-- | Negative values encode empty cells, positive values filled cells</span>
+empty <span class="br0">&#40;</span>Value n<span class="br0">&#41;</span> <span class="sy0">=</span> n <span class="sy0">&lt;=</span> 0
+full <span class="sy0">=</span> <span class="kw3">not</span> <span class="sy0">.</span> empty
+&#160;
+<span class="kw1">type</span> Choice <span class="sy0">=</span> Set Value
+&#160;
+<span class="co1">------------------------------------------------------------------------</span>
+<span class="co1">-- Puzzle</span>
+&#160;
+<span class="kw1">type</span> Grid <span class="sy0">=</span> <span class="br0">&#91;</span><span class="br0">&#91;</span>Choice<span class="br0">&#93;</span><span class="br0">&#93;</span>
+&#160;
+<span class="co1">-- | Datatype for solved and unsolved puzzles</span>
+<span class="kw1">data</span> Puzzle <span class="sy0">=</span> Puzzle
+	<span class="co1">-- | List of rows, containing horizontal choices for each cell</span>
+	<span class="br0">&#123;</span> gridH <span class="sy0">::</span> Grid
+	<span class="co1">-- | List of columns, containing vertical choices for each cell</span>
+	<span class="sy0">,</span> gridV <span class="sy0">::</span> Grid
+	<span class="co1">-- | What is allowed before/after a specific value?</span>
+	<span class="co1">--   (after (Value 0)) are the values allowed on the first position</span>
+	<span class="sy0">,</span> afterH<span class="sy0">,</span> beforeH <span class="sy0">::</span> <span class="br0">&#91;</span>Value <span class="sy0">-&gt;</span> Choice<span class="br0">&#93;</span>
+	<span class="sy0">,</span> afterV<span class="sy0">,</span> beforeV <span class="sy0">::</span> <span class="br0">&#91;</span>Value <span class="sy0">-&gt;</span> Choice<span class="br0">&#93;</span>
+	<span class="br0">&#125;</span>
+&#160;
+<span class="kw1">instance</span> <span class="kw4">Eq</span> Puzzle <span class="kw1">where</span>
+	p <span class="sy0">==</span> q <span class="sy0">=</span> gridH p <span class="sy0">==</span> gridH q
+&#160;
+<span class="kw1">instance</span> <span class="kw4">Show</span> Puzzle <span class="kw1">where</span>
+	<span class="kw3">show</span> <span class="sy0">=</span> dispGrid <span class="sy0">.</span> gridH
+&#160;
+<span class="co1">-- | Transpose a puzzle (swap horizontal and vertical components)</span>
+transposeP <span class="sy0">::</span> Puzzle <span class="sy0">-&gt;</span> Puzzle
+transposeP p <span class="sy0">=</span> Puzzle
+	<span class="br0">&#123;</span> gridH      <span class="sy0">=</span> gridV p
+	<span class="sy0">,</span> gridV      <span class="sy0">=</span> gridH p
+	<span class="sy0">,</span> afterH     <span class="sy0">=</span> afterV p
+	<span class="sy0">,</span> beforeH    <span class="sy0">=</span> beforeV p
+	<span class="sy0">,</span> afterV     <span class="sy0">=</span> afterH p
+	<span class="sy0">,</span> beforeV    <span class="sy0">=</span> beforeH p
+	<span class="br0">&#125;</span>
+&#160;
+<span class="co1">-- | Display a puzzle</span>
+dispGrid <span class="sy0">=</span> <span class="kw3">concatMap</span> <span class="br0">&#40;</span>\r <span class="sy0">-&gt;</span> <span class="st0">&quot;[&quot;</span> <span class="sy0">++</span> <span class="kw3">map</span> disp'' r <span class="sy0">++</span> <span class="st0">&quot;]<span class="es0">\n</span>&quot;</span><span class="br0">&#41;</span>
+ <span class="kw1">where</span>	disp'' x
+	 <span class="sy0">|</span> Set<span class="sy0">.</span><span class="kw3">null</span>     x <span class="sy0">=</span> 'E'
+	 <span class="sy0">|</span> setAll full  x <span class="sy0">=</span> '#'
+	 <span class="sy0">|</span> setAll empty x <span class="sy0">=</span> '<span class="sy0">.</span>'
+	 <span class="sy0">|</span> <span class="kw3">otherwise</span>      <span class="sy0">=</span> '<span class="sy0">/</span>'
+&#160;
+<span class="co1">------------------------------------------------------------------------</span>
+<span class="co1">-- Making puzzles</span>
+&#160;
+<span class="co1">-- | Make a puzzle, when given the numbers at the edges</span>
+puzzle <span class="sy0">::</span> <span class="br0">&#91;</span><span class="br0">&#91;</span><span class="kw4">Int</span><span class="br0">&#93;</span><span class="br0">&#93;</span> <span class="sy0">-&gt;</span> <span class="br0">&#91;</span><span class="br0">&#91;</span><span class="kw4">Int</span><span class="br0">&#93;</span><span class="br0">&#93;</span> <span class="sy0">-&gt;</span> Puzzle
+puzzle h v <span class="sy0">=</span> Puzzle
+	<span class="br0">&#123;</span> gridH   <span class="sy0">=</span> <span class="kw3">map</span> <span class="br0">&#40;</span>replicate cols <span class="sy0">.</span> Set<span class="sy0">.</span>fromList<span class="br0">&#41;</span> ordersH
+	<span class="sy0">,</span> gridV   <span class="sy0">=</span> <span class="kw3">map</span> <span class="br0">&#40;</span>replicate rows <span class="sy0">.</span> Set<span class="sy0">.</span>fromList<span class="br0">&#41;</span> ordersV
+	<span class="sy0">,</span> afterH  <span class="sy0">=</span> <span class="kw3">map</span> mkAfter ordersH
+	<span class="sy0">,</span> beforeH <span class="sy0">=</span> <span class="kw3">map</span> mkAfter <span class="br0">&#40;</span><span class="kw3">map</span> <span class="kw3">reverse</span> ordersH<span class="br0">&#41;</span>
+	<span class="sy0">,</span> afterV  <span class="sy0">=</span> <span class="kw3">map</span> mkAfter ordersV
+	<span class="sy0">,</span> beforeV <span class="sy0">=</span> <span class="kw3">map</span> mkAfter <span class="br0">&#40;</span><span class="kw3">map</span> <span class="kw3">reverse</span> ordersV<span class="br0">&#41;</span>
+	<span class="br0">&#125;</span>
+ <span class="kw1">where</span>	rows <span class="sy0">=</span> <span class="kw3">length</span> h
+	cols <span class="sy0">=</span> <span class="kw3">length</span> v
+	ordersH <span class="sy0">=</span> <span class="kw3">map</span> order h
+	ordersV <span class="sy0">=</span> <span class="kw3">map</span> order v
+&#160;
+<span class="co1">-- | Order of allowed values in a single row/column</span>
+<span class="co1">--   Input = list of lengths of filled cells, which are separated by empty cells</span>
+<span class="co1">--   Repeats empty values, because those values may be repeated</span>
+<span class="co1">--   example:</span>
+<span class="co1">--     order [1,2,3] = map Value [-1,-1, 1, -2,-2, 2,3, -4,-4, 4,5,6, -7,-7]</span>
+order <span class="sy0">::</span> <span class="br0">&#91;</span><span class="kw4">Int</span><span class="br0">&#93;</span> <span class="sy0">-&gt;</span> <span class="br0">&#91;</span>Value<span class="br0">&#93;</span>
+order <span class="sy0">=</span> order' 1
+ <span class="kw1">where</span>	order' n <span class="br0">&#91;</span><span class="br0">&#93;</span>     <span class="sy0">=</span> <span class="br0">&#91;</span>Value <span class="br0">&#40;</span><span class="sy0">-</span>n<span class="br0">&#41;</span><span class="sy0">,</span> Value <span class="br0">&#40;</span><span class="sy0">-</span>n<span class="br0">&#41;</span><span class="br0">&#93;</span> <span class="co1">-- repeated empty cells allowed at the end</span>
+	order' n <span class="br0">&#40;</span>x:xs<span class="br0">&#41;</span> <span class="sy0">=</span> <span class="br0">&#91;</span>Value <span class="br0">&#40;</span><span class="sy0">-</span>n<span class="br0">&#41;</span><span class="sy0">,</span> Value <span class="br0">&#40;</span><span class="sy0">-</span>n<span class="br0">&#41;</span><span class="br0">&#93;</span> <span class="sy0">++</span> <span class="kw3">map</span> Value <span class="br0">&#91;</span>n<span class="sy0">..</span>n<span class="sy0">+</span>x<span class="sy0">-</span><span class="nu0">1</span><span class="br0">&#93;</span> <span class="sy0">++</span> order' <span class="br0">&#40;</span>n<span class="sy0">+</span>x<span class="br0">&#41;</span> xs
+&#160;
+<span class="co1">-- | What values are allowed after a given value in the given order?</span>
+mkAfter <span class="sy0">::</span> <span class="br0">&#91;</span>Value<span class="br0">&#93;</span> <span class="sy0">-&gt;</span> Value <span class="sy0">-&gt;</span> Choice
+mkAfter order <span class="sy0">=</span> <span class="br0">&#40;</span>mkAfterM order Map<span class="sy0">.!</span><span class="br0">&#41;</span>
+&#160;
+mkAfterM order  <span class="sy0">=</span> Map<span class="sy0">.</span>fromListWith <span class="br0">&#40;</span>Set<span class="sy0">.</span>union<span class="br0">&#41;</span> aftersL
+ <span class="kw1">where</span>	aftersL <span class="sy0">=</span> <span class="co1">-- after the start (0) the first non empty value, at position 2 is allowed</span>
+	          <span class="co1">-- this is a bit of a hack</span>
+	          <span class="br0">&#40;</span><span class="kw1">if</span> <span class="kw3">length</span> order <span class="sy0">&gt;</span> 2
+	            <span class="kw1">then</span> <span class="br0">&#91;</span><span class="br0">&#40;</span>Value 0<span class="sy0">,</span> Set<span class="sy0">.</span>singleton <span class="br0">&#40;</span>order <span class="sy0">!!</span> 2<span class="br0">&#41;</span><span class="br0">&#41;</span><span class="br0">&#93;</span>
+	            <span class="kw1">else</span> <span class="br0">&#91;</span><span class="br0">&#93;</span><span class="br0">&#41;</span> <span class="sy0">++</span>
+	          <span class="co1">-- after each value comes the next one in the list</span>
+	          <span class="kw3">zip</span> <span class="br0">&#40;</span>Value 0:order<span class="br0">&#41;</span> <span class="br0">&#40;</span><span class="kw3">map</span> Set<span class="sy0">.</span>singleton order<span class="br0">&#41;</span>
+&#160;
+<span class="co1">------------------------------------------------------------------------</span>
+<span class="co1">-- Classifying puzzles</span>
+&#160;
+<span class="co1">-- | Is a puzzle completely solved?</span>
+done <span class="sy0">::</span> Puzzle <span class="sy0">-&gt;</span> <span class="kw4">Bool</span>
+done <span class="sy0">=</span> <span class="kw3">all</span> <span class="br0">&#40;</span><span class="kw3">all</span> <span class="br0">&#40;</span><span class="br0">&#40;</span><span class="sy0">==</span><span class="nu0">1</span><span class="br0">&#41;</span> <span class="sy0">.</span> Set<span class="sy0">.</span>size<span class="br0">&#41;</span><span class="br0">&#41;</span> <span class="sy0">.</span> gridH
+&#160;
+<span class="co1">-- | Is a puzzle invalid?</span>
+invalid <span class="sy0">::</span> Puzzle <span class="sy0">-&gt;</span> <span class="kw4">Bool</span>
+invalid <span class="sy0">=</span> <span class="kw3">any</span> <span class="br0">&#40;</span><span class="kw3">any</span> Set<span class="sy0">.</span><span class="kw3">null</span><span class="br0">&#41;</span> <span class="sy0">.</span> gridH
+&#160;
+<span class="co1">------------------------------------------------------------------------</span>
+<span class="co1">-- Solving</span>
+&#160;
+<span class="co1">-- | Solve a puzzle deterministicly, i.e. don't make any guesses</span>
+<span class="co1">-- make sure</span>
+solveD <span class="sy0">::</span> Puzzle <span class="sy0">-&gt;</span> Puzzle
+solveD <span class="sy0">=</span> takeSame <span class="sy0">.</span> <span class="kw3">iterate</span> step
+&#160;
+<span class="co1">-- | All solving steps combined, the orientation after a step is the same as before</span>
+step <span class="sy0">=</span> efStep <span class="sy0">.</span> transposeP <span class="sy0">.</span> hStep <span class="sy0">.</span> transposeP <span class="sy0">.</span> hStep
+&#160;
+<span class="co1">-- | A step in the solving process.</span>
+<span class="co1">--   Propagate allowed values after from left to right</span>
+hStep p <span class="sy0">=</span> p <span class="br0">&#123;</span> gridH <span class="sy0">=</span> gridH'' <span class="br0">&#125;</span>
+ <span class="kw1">where</span>	gridH'  <span class="sy0">=</span> <span class="kw3">zipWith</span> hStepLTR <span class="br0">&#40;</span>afterH  p<span class="br0">&#41;</span> <span class="br0">&#40;</span>gridH p<span class="br0">&#41;</span> <span class="co1">-- left to right</span>
+	gridH'' <span class="sy0">=</span> <span class="kw3">zipWith</span> hStepRTL <span class="br0">&#40;</span>beforeH p<span class="br0">&#41;</span> <span class="br0">&#40;</span>gridH'<span class="br0">&#41;</span>  <span class="co1">-- right to left</span>
+&#160;
+<span class="co1">-- | hStep on a single row, from left to right, after is a function that gives the allowed after values</span>
+hStepLTR after row <span class="sy0">=</span> hStepLTR' <span class="br0">&#40;</span>after <span class="br0">&#40;</span>Value 0<span class="br0">&#41;</span><span class="br0">&#41;</span> row
+ <span class="kw1">where</span>	hStepLTR' <span class="sy0">_</span>         <span class="br0">&#91;</span><span class="br0">&#93;</span>     <span class="sy0">=</span> <span class="br0">&#91;</span><span class="br0">&#93;</span>
+	hStepLTR' afterPrev <span class="br0">&#40;</span>x:xs<span class="br0">&#41;</span> <span class="sy0">=</span> x'&#160;: hStepLTR' afterX' xs
+	 <span class="kw1">where</span>	x'      <span class="sy0">=</span> Set<span class="sy0">.</span>intersection x afterPrev
+		afterX' <span class="sy0">=</span> Set<span class="sy0">.</span>unions <span class="sy0">$</span> <span class="kw3">map</span> after <span class="sy0">$</span> Set<span class="sy0">.</span>toList x'
+<span class="co1">-- | Same as hStepRTL, but from right to left, should be given allowed before values</span>
+hStepRTL before <span class="sy0">=</span> <span class="kw3">reverse</span> <span class="sy0">.</span> hStepLTR before <span class="sy0">.</span> <span class="kw3">reverse</span>
+&#160;
+<span class="co1">-- | A step in the solving process</span>
+<span class="co1">--   Combine horizontal and verticall grids, empty/full in one &lt;-&gt; empty/full in the oter</span>
+<span class="co1">--   Note: we transpose gridV, to make it compatible with gridH (row-of-cells)</span>
+efStep puzzle <span class="sy0">=</span> puzzle <span class="br0">&#123;</span> gridH <span class="sy0">=</span> gridH'<span class="sy0">,</span> gridV <span class="sy0">=</span> transpose gridV't <span class="br0">&#125;</span>
+ <span class="kw1">where</span>  <span class="br0">&#40;</span>gridH'<span class="sy0">,</span> gridV't<span class="br0">&#41;</span> <span class="sy0">=</span> zzMap ef <span class="br0">&#40;</span>gridH puzzle<span class="br0">&#41;</span> <span class="br0">&#40;</span>transpose <span class="br0">&#40;</span>gridV puzzle<span class="br0">&#41;</span><span class="br0">&#41;</span>
+	<span class="co1">-- Step on a single cell</span>
+	ef h v <span class="sy0">=</span> filterCell empty <span class="sy0">.</span> filterCell full <span class="sy0">$</span> <span class="br0">&#40;</span>h<span class="sy0">,</span>v<span class="br0">&#41;</span>
+	<span class="co1">-- Step on a single cell, for a single predicate, if either h or v satisfies the predicate</span>
+	<span class="co1">-- then the other is filtered so it will satisfy as well</span>
+	filterCell <span class="kw3">pred</span> <span class="br0">&#40;</span>h<span class="sy0">,</span>v<span class="br0">&#41;</span> 
+	 <span class="sy0">|</span> setAll <span class="kw3">pred</span> h <span class="sy0">=</span> <span class="br0">&#40;</span>h<span class="sy0">,</span> Set<span class="sy0">.</span><span class="kw3">filter</span> <span class="kw3">pred</span> v<span class="br0">&#41;</span>
+	 <span class="sy0">|</span> setAll <span class="kw3">pred</span> v <span class="sy0">=</span> <span class="br0">&#40;</span>Set<span class="sy0">.</span><span class="kw3">filter</span> <span class="kw3">pred</span> h<span class="sy0">,</span> v<span class="br0">&#41;</span>
+	 <span class="sy0">|</span> <span class="kw3">otherwise</span>     <span class="sy0">=</span> <span class="br0">&#40;</span>h<span class="sy0">,</span> v<span class="br0">&#41;</span>
+&#160;
+<span class="co1">------------------------------------------------------------------------</span>
+<span class="co1">-- Guessing</span>
+&#160;
+<span class="co1">-- | Solve a puzzle, gives all solutions</span>
+solve <span class="sy0">::</span> Puzzle <span class="sy0">-&gt;</span> <span class="br0">&#91;</span>Puzzle<span class="br0">&#93;</span>
+solve puzzle
+ <span class="sy0">|</span> done    puzzle' <span class="sy0">=</span> <span class="br0">&#91;</span>puzzle'<span class="br0">&#93;</span> <span class="co1">-- single solution</span>
+ <span class="sy0">|</span> invalid puzzle' <span class="sy0">=</span> <span class="br0">&#91;</span><span class="br0">&#93;</span>        <span class="co1">-- no solutions</span>
+ <span class="sy0">|</span> <span class="kw3">otherwise</span>       <span class="sy0">=</span> <span class="kw3">concatMap</span> solve <span class="br0">&#40;</span>guess puzzle'<span class="br0">&#41;</span> <span class="co1">-- we have to guess</span>
+ <span class="kw1">where</span> puzzle' <span class="sy0">=</span> solveD puzzle
+&#160;
+<span class="co1">-- | Split a puzzle into multiple puzzles, by making a guess at the first position with multiple choices</span>
+<span class="co1">--   we return all possible puzzles for making a guess at that position</span>
+guess <span class="sy0">::</span> Puzzle <span class="sy0">-&gt;</span> <span class="br0">&#91;</span>Puzzle<span class="br0">&#93;</span>
+guess puzzle <span class="sy0">=</span> <span class="kw3">map</span> <span class="br0">&#40;</span>\gh <span class="sy0">-&gt;</span> puzzle <span class="br0">&#123;</span>gridH <span class="sy0">=</span> gh<span class="br0">&#125;</span> <span class="br0">&#41;</span> gridHs
+ <span class="kw1">where</span> gridHs <span class="sy0">=</span> trySplit <span class="br0">&#40;</span>trySplit splitCell<span class="br0">&#41;</span> <span class="br0">&#40;</span>gridH puzzle<span class="br0">&#41;</span>
+&#160;
+<span class="co1">-- | Try to split a cell into multiple alternatives</span>
+splitCell <span class="sy0">::</span> Choice <span class="sy0">-&gt;</span> <span class="br0">&#91;</span>Choice<span class="br0">&#93;</span>
+splitCell <span class="sy0">=</span> <span class="kw3">map</span> Set<span class="sy0">.</span>singleton <span class="sy0">.</span> Set<span class="sy0">.</span>toList
+&#160;
+<span class="co1">-- | Try to split a single item in a list using the function f</span>
+<span class="co1">--   Stops at the first position where f has more than 1 result.</span>
+<span class="co1">--   TODO: A more soffisticated guessing strategy might be faster.</span>
+trySplit <span class="sy0">::</span> <span class="br0">&#40;</span>a <span class="sy0">-&gt;</span> <span class="br0">&#91;</span>a<span class="br0">&#93;</span><span class="br0">&#41;</span> <span class="sy0">-&gt;</span> <span class="br0">&#91;</span>a<span class="br0">&#93;</span> <span class="sy0">-&gt;</span> <span class="br0">&#91;</span><span class="br0">&#91;</span>a<span class="br0">&#93;</span><span class="br0">&#93;</span>
+trySplit f <span class="br0">&#91;</span><span class="br0">&#93;</span>     <span class="sy0">=</span> <span class="br0">&#91;</span><span class="br0">&#93;</span>
+trySplit f <span class="br0">&#40;</span>x:xs<span class="br0">&#41;</span>
+ <span class="sy0">|</span> <span class="kw3">length</span> fx  <span class="sy0">&gt;</span> 1 <span class="sy0">=</span> <span class="kw3">map</span> <span class="br0">&#40;</span>:xs<span class="br0">&#41;</span> fx <span class="co1">-- This element is split, don't look further</span>
+ <span class="sy0">|</span> <span class="kw3">length</span> fxs <span class="sy0">&gt;</span> 1 <span class="sy0">=</span> <span class="kw3">map</span> <span class="br0">&#40;</span>x:<span class="br0">&#41;</span> fxs <span class="co1">-- The list is split furter on</span>
+ <span class="sy0">|</span> <span class="kw3">otherwise</span>      <span class="sy0">=</span> <span class="br0">&#91;</span><span class="br0">&#93;</span>
+ <span class="kw1">where</span>	fx  <span class="sy0">=</span> f x
+	fxs <span class="sy0">=</span> trySplit f xs
+&#160;
+<span class="co1">------------------------------------------------------------------------</span>
+<span class="co1">-- Utilities</span>
+&#160;
+<span class="co1">-- | Set.all, similair to Data.List.all</span>
+setAll f <span class="sy0">=</span> <span class="kw3">all</span> f <span class="sy0">.</span> Set<span class="sy0">.</span>toList
+&#160;
+<span class="co1">-- | Map a function simultaniously over two lists, like zip</span>
+zMap <span class="sy0">::</span> <span class="br0">&#40;</span>a <span class="sy0">-&gt;</span> b <span class="sy0">-&gt;</span> <span class="br0">&#40;</span>c<span class="sy0">,</span> d<span class="br0">&#41;</span><span class="br0">&#41;</span> <span class="sy0">-&gt;</span> <span class="br0">&#91;</span>a<span class="br0">&#93;</span> <span class="sy0">-&gt;</span> <span class="br0">&#91;</span>b<span class="br0">&#93;</span> <span class="sy0">-&gt;</span> <span class="br0">&#40;</span><span class="br0">&#91;</span>c<span class="br0">&#93;</span><span class="sy0">,</span> <span class="br0">&#91;</span>d<span class="br0">&#93;</span><span class="br0">&#41;</span>
+zMap f a b <span class="sy0">=</span> <span class="kw3">unzip</span> <span class="sy0">$</span> <span class="kw3">zipWith</span> f a b
+&#160;
+<span class="co1">-- | Map a function simultaniously over two lists of lists, like zip</span>
+zzMap <span class="sy0">::</span> <span class="br0">&#40;</span>a <span class="sy0">-&gt;</span> b <span class="sy0">-&gt;</span> <span class="br0">&#40;</span>c<span class="sy0">,</span> d<span class="br0">&#41;</span><span class="br0">&#41;</span> <span class="sy0">-&gt;</span> <span class="br0">&#91;</span><span class="br0">&#91;</span>a<span class="br0">&#93;</span><span class="br0">&#93;</span> <span class="sy0">-&gt;</span> <span class="br0">&#91;</span><span class="br0">&#91;</span>b<span class="br0">&#93;</span><span class="br0">&#93;</span> <span class="sy0">-&gt;</span> <span class="br0">&#40;</span><span class="br0">&#91;</span><span class="br0">&#91;</span>c<span class="br0">&#93;</span><span class="br0">&#93;</span><span class="sy0">,</span> <span class="br0">&#91;</span><span class="br0">&#91;</span>d<span class="br0">&#93;</span><span class="br0">&#93;</span><span class="br0">&#41;</span>
+zzMap f a b <span class="sy0">=</span> <span class="kw3">unzip</span> <span class="sy0">$</span> <span class="kw3">zipWith</span> <span class="br0">&#40;</span>zMap f<span class="br0">&#41;</span> a b
+&#160;
+<span class="co1">-- | Find the first item in a list that is repeated</span>
+takeSame <span class="sy0">::</span> <span class="kw4">Eq</span> a <span class="sy0">=&gt;</span> <span class="br0">&#91;</span>a<span class="br0">&#93;</span> <span class="sy0">-&gt;</span> a
+takeSame <span class="br0">&#40;</span>a:b:xs<span class="br0">&#41;</span>
+ <span class="sy0">|</span> a <span class="sy0">==</span> b    <span class="sy0">=</span> a
+ <span class="sy0">|</span> <span class="kw3">otherwise</span> <span class="sy0">=</span> takeSame <span class="br0">&#40;</span>b:xs<span class="br0">&#41;</span>
+&#160;
+<span class="co1">------------------------------------------------------------------------</span>
+<span class="co1">-- Test</span></pre></div></div>
+<p>Here is a test puzzle that can be used in the solver:
+</p>
+<div dir="ltr" class="mw-geshi mw-content-ltr"><div class="haskell source-haskell" style="font-family:monospace;"><pre class="de1"><span class="co1">-- | A test puzzle</span>
+test <span class="sy0">=</span> puzzle <span class="br0">&#91;</span><span class="br0">&#91;</span><span class="nu0">6</span><span class="br0">&#93;</span><span class="sy0">,</span><span class="br0">&#91;</span><span class="nu0">3</span><span class="sy0">,</span><span class="nu0">1</span><span class="sy0">,</span><span class="nu0">3</span><span class="br0">&#93;</span><span class="sy0">,</span><span class="br0">&#91;</span><span class="nu0">1</span><span class="sy0">,</span><span class="nu0">3</span><span class="sy0">,</span><span class="nu0">1</span><span class="sy0">,</span><span class="nu0">3</span><span class="br0">&#93;</span><span class="sy0">,</span><span class="br0">&#91;</span><span class="nu0">3</span><span class="sy0">,</span><span class="nu0">14</span><span class="br0">&#93;</span><span class="sy0">,</span><span class="br0">&#91;</span><span class="nu0">1</span><span class="sy0">,</span><span class="nu0">1</span><span class="sy0">,</span><span class="nu0">1</span><span class="br0">&#93;</span><span class="sy0">,</span>
+               <span class="br0">&#91;</span><span class="nu0">1</span><span class="sy0">,</span><span class="nu0">1</span><span class="sy0">,</span><span class="nu0">2</span><span class="sy0">,</span><span class="nu0">2</span><span class="br0">&#93;</span><span class="sy0">,</span><span class="br0">&#91;</span><span class="nu0">5</span><span class="sy0">,</span><span class="nu0">2</span><span class="sy0">,</span><span class="nu0">2</span><span class="br0">&#93;</span><span class="sy0">,</span><span class="br0">&#91;</span><span class="nu0">5</span><span class="sy0">,</span><span class="nu0">1</span><span class="sy0">,</span><span class="nu0">1</span><span class="br0">&#93;</span><span class="sy0">,</span><span class="br0">&#91;</span><span class="nu0">5</span><span class="sy0">,</span><span class="nu0">3</span><span class="sy0">,</span><span class="nu0">3</span><span class="sy0">,</span><span class="nu0">3</span><span class="br0">&#93;</span><span class="sy0">,</span><span class="br0">&#91;</span><span class="nu0">8</span><span class="sy0">,</span><span class="nu0">3</span><span class="sy0">,</span><span class="nu0">3</span><span class="sy0">,</span><span class="nu0">3</span><span class="br0">&#93;</span><span class="br0">&#93;</span>
+              <span class="br0">&#91;</span><span class="br0">&#91;</span><span class="nu0">4</span><span class="br0">&#93;</span><span class="sy0">,</span><span class="br0">&#91;</span><span class="nu0">4</span><span class="br0">&#93;</span><span class="sy0">,</span><span class="br0">&#91;</span><span class="nu0">1</span><span class="sy0">,</span><span class="nu0">5</span><span class="br0">&#93;</span><span class="sy0">,</span><span class="br0">&#91;</span><span class="nu0">3</span><span class="sy0">,</span><span class="nu0">4</span><span class="br0">&#93;</span><span class="sy0">,</span><span class="br0">&#91;</span><span class="nu0">1</span><span class="sy0">,</span><span class="nu0">5</span><span class="br0">&#93;</span><span class="sy0">,</span><span class="br0">&#91;</span><span class="nu0">1</span><span class="br0">&#93;</span><span class="sy0">,</span><span class="br0">&#91;</span><span class="nu0">4</span><span class="sy0">,</span><span class="nu0">1</span><span class="br0">&#93;</span><span class="sy0">,</span><span class="br0">&#91;</span><span class="nu0">2</span><span class="sy0">,</span><span class="nu0">2</span><span class="sy0">,</span><span class="nu0">2</span><span class="br0">&#93;</span><span class="sy0">,</span>
+               <span class="br0">&#91;</span><span class="nu0">3</span><span class="sy0">,</span><span class="nu0">3</span><span class="br0">&#93;</span><span class="sy0">,</span><span class="br0">&#91;</span><span class="nu0">1</span><span class="sy0">,</span><span class="nu0">1</span><span class="sy0">,</span><span class="nu0">2</span><span class="br0">&#93;</span><span class="sy0">,</span><span class="br0">&#91;</span><span class="nu0">2</span><span class="sy0">,</span><span class="nu0">1</span><span class="sy0">,</span><span class="nu0">1</span><span class="br0">&#93;</span><span class="sy0">,</span><span class="br0">&#91;</span><span class="nu0">1</span><span class="sy0">,</span><span class="nu0">1</span><span class="sy0">,</span><span class="nu0">2</span><span class="br0">&#93;</span><span class="sy0">,</span><span class="br0">&#91;</span><span class="nu0">4</span><span class="sy0">,</span><span class="nu0">1</span><span class="br0">&#93;</span><span class="sy0">,</span><span class="br0">&#91;</span><span class="nu0">1</span><span class="sy0">,</span><span class="nu0">1</span><span class="sy0">,</span><span class="nu0">2</span><span class="br0">&#93;</span><span class="sy0">,</span>
+               <span class="br0">&#91;</span><span class="nu0">1</span><span class="sy0">,</span><span class="nu0">1</span><span class="sy0">,</span><span class="nu0">1</span><span class="br0">&#93;</span><span class="sy0">,</span><span class="br0">&#91;</span><span class="nu0">2</span><span class="sy0">,</span><span class="nu0">1</span><span class="sy0">,</span><span class="nu0">2</span><span class="br0">&#93;</span><span class="sy0">,</span><span class="br0">&#91;</span><span class="nu0">1</span><span class="sy0">,</span><span class="nu0">1</span><span class="sy0">,</span><span class="nu0">1</span><span class="br0">&#93;</span><span class="sy0">,</span><span class="br0">&#91;</span><span class="nu0">3</span><span class="sy0">,</span><span class="nu0">4</span><span class="br0">&#93;</span><span class="sy0">,</span><span class="br0">&#91;</span><span class="nu0">2</span><span class="sy0">,</span><span class="nu0">2</span><span class="sy0">,</span><span class="nu0">1</span><span class="br0">&#93;</span><span class="sy0">,</span><span class="br0">&#91;</span><span class="nu0">4</span><span class="sy0">,</span><span class="nu0">1</span><span class="br0">&#93;</span><span class="br0">&#93;</span></pre></div></div>
+
+<!-- 
+NewPP limit report
+Preprocessor node count: 35/1000000
+Post‐expand include size: 0/2097152 bytes
+Template argument size: 0/2097152 bytes
+Expensive parser function count: 0/100
+-->
+
+<!-- Saved in parser cache with key wikidb:pcache:idhash:2612-0!*!0!1!*!*!* and timestamp 20141002180207 -->
+</div><div class="printfooter">
+Retrieved from "<a href="http://www.haskell.org/haskellwiki/index.php?title=Nonogram&amp;oldid=33723">http://www.haskell.org/haskellwiki/index.php?title=Nonogram&amp;oldid=33723</a>"</div>
+			<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/haskellwiki/Special:Categories" title="Special:Categories">Category</a>: <ul><li><a href="/haskellwiki/Category:Code" title="Category:Code">Code</a></li></ul></div></div>			<!-- end content -->
+						<div class="visualClear"></div>
+		</div>
+	</div>
+		</div></div>
+		<div id="column-one">
+	<script type="text/javascript"> if (window.isMSIE55) fixalpha(); </script>
+	<div class='generated-sidebar portlet' id='p-navigation'>
+		<h5>Navigation</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-mainpage"><a href="/haskellwiki/Haskell">Haskell</a></li>
+				<li id="n-portal"><a href="/haskellwiki/HaskellWiki:Community">Wiki community</a></li>
+				<li id="n-recentchanges"><a href="/haskellwiki/Special:RecentChanges">Recent changes</a></li>
+				<li id="n-randompage"><a href="/haskellwiki/Special:Random">Random page</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-tb">
+		<h5>Toolbox</h5>
+		<div class="pBody">
+			<ul>
+				<li id="t-whatlinkshere"><a href="/haskellwiki/Special:WhatLinksHere/Nonogram">What links here</a></li>
+				<li id="t-recentchangeslinked"><a href="/haskellwiki/Special:RecentChangesLinked/Nonogram">Related changes</a></li>
+<li id="t-specialpages"><a href="/haskellwiki/Special:SpecialPages">Special pages</a></li>
+				<li id="t-print"><a href="/haskellwiki/index.php?title=Nonogram&amp;printable=yes" rel="alternate">Printable version</a></li>				<li id="t-permalink"><a href="/haskellwiki/index.php?title=Nonogram&amp;oldid=33723">Permanent link</a></li>			</ul>
+		</div>
+	</div>
+		</div><!-- end of the left (by default at least) column -->
+			<div class="visualClear"></div>
+			<div id="footer">
+				<div id="f-poweredbyico"><a href="//www.mediawiki.org/"><img src="/wikistatic/skins//common/images/poweredby_mediawiki_88x31.png" height="31" width="88" alt="Powered by MediaWiki" /></a></div>
+			<ul id="f-list">
+					<li id="lastmod"> This page was last modified on 21 February 2010, at 05:23.</li>
+					<li id="viewcount">This page has been accessed 14,925 times.</li>
+					<li id="copyright">Recent content is available under <a href="/haskellwiki/HaskellWiki:Copyrights" title="HaskellWiki:Copyrights">a simple permissive license</a>.</li>
+					<li id="privacy"><a href="/haskellwiki/HaskellWiki:Privacy_policy" title="HaskellWiki:Privacy policy">Privacy policy</a></li>
+					<li id="about"><a href="/haskellwiki/HaskellWiki:About" title="HaskellWiki:About">About HaskellWiki</a></li>
+					<li id="disclaimer"><a href="/haskellwiki/HaskellWiki:General_disclaimer" title="HaskellWiki:General disclaimer">Disclaimers</a></li>
+			</ul>
+		</div>
+</div>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.user","mediawiki.page.ready"], null, true);
+}</script>
+<script src="http://www.haskell.org/haskellwiki/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=hawiki&amp;*"></script>
+<!-- Served in 0.100 secs. --><script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-15375175-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+</body></html>

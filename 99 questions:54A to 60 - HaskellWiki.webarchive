@@ -1,0 +1,3052 @@
+bplist00“_WebMainResource_WebSubresources’	
+_WebResourceFrameName^WebResourceURL_WebResourceData_WebResourceMIMEType_WebResourceTextEncodingNameP_9http://www.haskell.org/haskellwiki/99_questions/54A_to_60OÇ<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" dir="ltr"><head>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+		<meta name="generator" content="MediaWiki 1.19.5-1+deb7u1">
+<link rel="shortcut icon" href="/favicon.ico">
+<link rel="search" type="application/opensearchdescription+xml" href="/haskellwiki/opensearch_desc.php" title="HaskellWiki (en)">
+<link rel="EditURI" type="application/rsd+xml" href="http://www.haskell.org/haskellwiki/api.php?action=rsd">
+<link rel="copyright" href="/haskellwiki/HaskellWiki:Copyrights">
+<link rel="alternate" type="application/atom+xml" title="HaskellWiki Atom feed" href="/haskellwiki/index.php?title=Special:RecentChanges&amp;feed=atom">		<title>99 questions/54A to 60 - HaskellWiki</title>
+		<style type="text/css" media="screen, projection">/*<![CDATA[*/
+			@import "/wikistatic/skins//common/shared.css?303";
+			@import "/wikistatic/skins//hawiki/main.css?303";
+		/*]]>*/</style>
+		<link rel="stylesheet" type="text/css" media="print" href="/wikistatic/skins//common/commonPrint.css?303">
+		<!--[if lt IE 5.5000]><style type="text/css">@import "/wikistatic/skins//hawiki/IE50Fixes.css?303";</style><![endif]-->
+		<!--[if IE 5.5000]><style type="text/css">@import "/wikistatic/skins//hawiki/IE55Fixes.css?303";</style><![endif]-->
+		<!--[if IE 6]><style type="text/css">@import "/wikistatic/skins//hawiki/IE60Fixes.css?303";</style><![endif]-->
+		<!--[if IE 7]><style type="text/css">@import "/wikistatic/skins//hawiki/IE70Fixes.css?303";</style><![endif]-->
+		<!--[if lte IE 7]><script type="text/javascript" src="/wikistatic/skins//hawiki/IEFixes.js?303"></script>
+		<meta http-equiv="imagetoolbar" content="no" /><![endif]-->
+                                                <script type="text/javascript" async="" src="http://www.google-analytics.com/ga.js"></script><script type="text/javascript">
+                        var isMSIE55 = (window.showModalDialog && window.clipboardData && window.createPopup); /*alert("test: " + isMSIE55);*/</script>
+
+		<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"99_questions/54A_to_60","wgTitle":"99 questions/54A to 60","wgCurRevisionId":57746,"wgArticleId":2470,"wgIsArticle":true,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Tutorials"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgRelevantPageName":"99_questions/54A_to_60","wgRestrictionEdit":[],"wgRestrictionMove":[]});
+}</script>
+		<script type="text/javascript" src="/wikistatic/skins//common/wikibits.js?303"><!-- wikibits js --></script>
+		<!-- Head Scripts -->
+<script src="http://www.haskell.org/haskellwiki/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=hawiki&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"99_questions/54A_to_60","wgTitle":"99 questions/54A to 60","wgCurRevisionId":57746,"wgArticleId":2470,"wgIsArticle":true,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Tutorials"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgRelevantPageName":"99_questions/54A_to_60","wgRestrictionEdit":[],"wgRestrictionMove":[]});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"externaldiff":0,"externaleditor":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"highlightbroken":1,"imagesize":2,"justify":0,"math":1,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":1,"previewonfirst":0,"previewontop":1,"quickbar":5,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":0,"showjumplinks":1,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"hawiki","stubthreshold":0,"thumbsize":2,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":0,"watchdefault":0,"watchdeletion":0,
+"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"variant":"en","language":"en","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false});;},{},{});mw.loader.implement("user.tokens",function($){mw.user.tokens.set({"editToken":"+\\","watchToken":false});;},{},{});
+
+/* cache key: wikidb:resourceloader:filter:minify-js:7:befcdb5e3b24ff89f900613de9ed4ea3 */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax"]);
+}</script><style type="text/css">/*<![CDATA[*/
+.source-haskell {line-height: normal;}
+.source-haskell li, .source-haskell pre {
+	line-height: normal; border: 0px none white;
+}
+/**
+ * GeSHi Dynamically Generated Stylesheet
+ * --------------------------------------
+ * Dynamically generated stylesheet for haskell
+ * CSS class: source-haskell, CSS id: 
+ * GeSHi (C) 2004 - 2007 Nigel McNie, 2007 - 2008 Benny Baumann
+ * (http://qbnz.com/highlighter/ and http://geshi.org/)
+ * --------------------------------------
+ */
+.haskell.source-haskell .de1, .haskell.source-haskell .de2 {font: normal normal 1em/1.2em monospace; margin:0; padding:0; background:none; vertical-align:top;}
+.haskell.source-haskell  {font-family:monospace;}
+.haskell.source-haskell .imp {font-weight: bold; color: red;}
+.haskell.source-haskell li, .haskell.source-haskell .li1 {font-weight: normal; vertical-align:top;}
+.haskell.source-haskell .ln {width:1px;text-align:right;margin:0;padding:0 2px;vertical-align:top;}
+.haskell.source-haskell .li2 {font-weight: bold; vertical-align:top;}
+.haskell.source-haskell .kw1 {color: #06c; font-weight: bold;}
+.haskell.source-haskell .kw2 {color: #06c; font-weight: bold;}
+.haskell.source-haskell .kw3 {font-weight: bold;}
+.haskell.source-haskell .kw4 {color: #cccc00; font-weight: bold;}
+.haskell.source-haskell .kw5 {color: maroon;}
+.haskell.source-haskell .co1 {color: #5d478b; font-style: italic;}
+.haskell.source-haskell .co2 {color: #339933; font-weight: bold;}
+.haskell.source-haskell .coMULTI {color: #5d478b; font-style: italic;}
+.haskell.source-haskell .es0 {background-color: #3cb371; font-weight: bold;}
+.haskell.source-haskell .br0 {color: green;}
+.haskell.source-haskell .sy0 {color: #339933; font-weight: bold;}
+.haskell.source-haskell .st0 {background-color: #3cb371;}
+.haskell.source-haskell .nu0 {color: red;}
+.haskell.source-haskell .me1 {color: #060;}
+.haskell.source-haskell .ln-xtra, .haskell.source-haskell li.ln-xtra, .haskell.source-haskell div.ln-xtra {background-color: #ffc;}
+.haskell.source-haskell span.xtra { display:block; }
+
+/*]]>*/
+</style>	<script type="text/javascript" src="safari-extension://com.diigo.safari.awesomeScreenshot-5DXNM3K2CT/bec3e854/javascripts/presto/prestosavings.js"></script></head>
+<body class="mediawiki ltr ns-0 ns-subject page-99_questions_54A_to_60 skin-hawiki" style="">
+   <div id="topbar" class="noprint">
+	<div class="portlet noprint" id="p-personal">
+		<h5>Personal tools</h5>
+		<div class="pBody">
+			<ul><li><a class="homebutton" href="/haskellwiki/Haskell">Home</a></li>
+				<li id="pt-login"><a href="/haskellwiki/index.php?title=Special:UserLogin&amp;returnto=99+questions%2F54A+to+60">Log in</a></li>
+			</ul>
+		</div>
+	</div>
+        	  <div id="p-search">
+	    <div id="searchBody" class="pBody">
+	       <form action="/haskellwiki/index.php" id="searchform"><div>
+	          <input type="hidden" name="title" value="Special:Search">
+	          <input id="searchInput" name="search" type="text" value="">
+				<input type="submit" name="go" class="searchButton" id="searchGoButton" value="Go">&nbsp;
+				<input type="submit" name="fulltext" class="searchButton" id="mw-searchButton" value="Search">
+
+	         </div></form>
+	    </div>
+	  </div>
+   </div>
+	<div id="globalWrapper">
+	<div class="portlet" id="p-logo">
+		<a style="background-image: url(/wikistatic/haskellwiki_logo.png);" href="/haskellwiki/Haskell"></a>
+	</div>
+	<div id="column-content">
+        <div id="notice-area" class="noprint">
+        <!-- ?php $this->data['sitenotice'] = 'This is a test instance.  Do not edit, your changes will be lost.'; ? -->
+			        </div>
+        <div id="content-wrapper">
+	<div id="p-cactions" class="portlet noprint">
+		<h5>Views</h5>
+		<div class="pBody">
+			<ul>
+	
+				 <li id="ca-nstab-main" class="selected"><a href="/haskellwiki/99_questions/54A_to_60">Page</a></li>
+				 <li id="ca-talk" class="new"><a href="/haskellwiki/index.php?title=Talk:99_questions/54A_to_60&amp;action=edit&amp;redlink=1">Discussion</a></li>
+				 <li id="ca-viewsource"><a href="/haskellwiki/index.php?title=99_questions/54A_to_60&amp;action=edit">View source</a></li>
+				 <li id="ca-history"><a href="/haskellwiki/index.php?title=99_questions/54A_to_60&amp;action=history">History</a></li>			</ul>
+		</div>
+	</div>
+                        <div id="content">
+		<a name="top" id="top"></a>
+                        <h1 id="firstHeading" class="firstHeading">99 questions/54A to 60</h1>
+		<div id="bodyContent">
+			<h3 id="siteSub">From HaskellWiki</h3>
+			<div id="contentSub"><span class="subpages">&lt; <a href="/haskellwiki/99_questions" title="99 questions">99 questions</a></span></div>
+			<div id="jump-to-nav">Jump to: <a href="#column-one">navigation</a>, <a href="#searchInput">search</a></div>			<!-- start content -->
+			<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><p><br>
+This is part of <a href="/haskellwiki/H-99:_Ninety-Nine_Haskell_Problems" title="H-99: Ninety-Nine Haskell Problems">Ninety-Nine Haskell Problems</a>, based on <a rel="nofollow" class="external text" href="https://prof.ti.bfh.ch/hew1/informatik3/prolog/p-99/">Ninety-Nine Prolog Problems</a>.
+</p>
+<h2> <span class="mw-headline" id="Binary_trees">1  Binary trees </span></h2>
+<p>A binary tree is either empty or it is composed of a root element and two successors, which are binary trees themselves.
+</p><p><img src="https://prof.ti.bfh.ch/hew1/informatik3/prolog/p-99/p67.gif" alt="p67.gif">
+</p><p>In Haskell, we can characterize binary trees with a datatype definition:
+</p>
+<div dir="ltr" class="mw-geshi mw-content-ltr"><div class="haskell source-haskell" style="font-family:monospace;"><pre class="de1"><span class="kw1">data</span> Tree a <span class="sy0">=</span> Empty <span class="sy0">|</span> Branch a <span class="br0">(</span>Tree a<span class="br0">)</span> <span class="br0">(</span>Tree a<span class="br0">)</span>
+              <span class="kw1">deriving</span> <span class="br0">(</span><span class="kw4">Show</span><span class="sy0">,</span> <span class="kw4">Eq</span><span class="br0">)</span></pre></div></div>
+<p>This says that a <tt>Tree</tt> of type <tt>a</tt> consists of either an <tt>Empty</tt> node, or a <tt>Branch</tt> containing one value of type <tt>a</tt> with exactly two subtrees of type <tt>a</tt>.
+</p><p>Given this definition, the tree in the diagram above would be represented as:
+</p>
+<div dir="ltr" class="mw-geshi mw-content-ltr"><div class="haskell source-haskell" style="font-family:monospace;"><pre class="de1">tree1 <span class="sy0">=</span> Branch 'a' <span class="br0">(</span>Branch 'b' <span class="br0">(</span>Branch 'd' Empty Empty<span class="br0">)</span>
+                               <span class="br0">(</span>Branch 'e' Empty Empty<span class="br0">)</span><span class="br0">)</span>
+                   <span class="br0">(</span>Branch 'c' Empty
+                               <span class="br0">(</span>Branch 'f' <span class="br0">(</span>Branch 'g' Empty Empty<span class="br0">)</span>
+                                           Empty<span class="br0">)</span><span class="br0">)</span></pre></div></div>
+<p>Since a "leaf" node is a branch with two empty subtrees, it can be useful to define a shorthand function:
+</p>
+<div dir="ltr" class="mw-geshi mw-content-ltr"><div class="haskell source-haskell" style="font-family:monospace;"><pre class="de1">leaf x <span class="sy0">=</span> Branch x Empty Empty</pre></div></div>
+<p>Then the tree diagram above could be expressed more simply as:
+</p>
+<div dir="ltr" class="mw-geshi mw-content-ltr"><div class="haskell source-haskell" style="font-family:monospace;"><pre class="de1">tree1' <span class="sy0">=</span> Branch 'a' <span class="br0">(</span>Branch 'b' <span class="br0">(</span>leaf 'd'<span class="br0">)</span>
+                                <span class="br0">(</span>leaf 'e'<span class="br0">)</span><span class="br0">)</span>
+                    <span class="br0">(</span>Branch 'c' Empty
+                                <span class="br0">(</span>Branch 'f' <span class="br0">(</span>leaf 'g'<span class="br0">)</span>
+                                            Empty<span class="br0">)</span><span class="br0">)</span><span class="br0">)</span></pre></div></div>
+<p>Other examples of binary trees:
+</p>
+<div dir="ltr" class="mw-geshi mw-content-ltr"><div class="haskell source-haskell" style="font-family:monospace;"><pre class="de1"><span class="co1">-- A binary tree consisting of a root node only</span>
+tree2 <span class="sy0">=</span> Branch 'a' Empty Empty
+&nbsp;
+<span class="co1">-- An empty binary tree</span>
+tree3 <span class="sy0">=</span> Empty
+&nbsp;
+<span class="co1">-- A tree of integers</span>
+tree4 <span class="sy0">=</span> Branch <span class="nu0">1</span> <span class="br0">(</span>Branch <span class="nu0">2</span> Empty <span class="br0">(</span>Branch <span class="nu0">4</span> Empty Empty<span class="br0">)</span><span class="br0">)</span>
+                 <span class="br0">(</span>Branch <span class="nu0">2</span> Empty Empty<span class="br0">)</span></pre></div></div>
+<h2> <span class="mw-headline" id="Problem_54A">2  Problem 54A </span></h2>
+<p>(*) Check whether a given term represents a binary tree
+</p><p>In Prolog or Lisp, one writes a predicate to do this.
+</p><p>Example in Lisp:
+</p>
+<pre>* (istree (a (b nil nil) nil))
+T
+* (istree (a (b nil nil)))
+NIL
+</pre>
+<p>Non-solution:
+</p>
+Haskell's type system ensures that all terms of type <div class="inline-code"><div dir="ltr" class="mw-geshi mw-content-ltr"><div class="haskell source-haskell" style="font-family:monospace;">Tree a</div></div></div> are binary trees: it is just not possible to construct an invalid tree with this type. Hence, it is redundant to introduce a predicate to check this property: it would always return <div class="inline-code"><div dir="ltr" class="mw-geshi mw-content-ltr"><div class="haskell source-haskell" style="font-family:monospace;">True</div></div></div>.
+<p><br>
+</p>
+<h2> <span class="mw-headline" id="Problem_55">3  Problem 55 </span></h2>
+<p>(**) Construct completely balanced binary trees
+</p><p>In a completely balanced binary tree, the following property holds for every node: The number of nodes in its left subtree and the number of nodes in its right subtree are almost equal, which means their difference is not greater than one.
+</p><p>Write a function cbal-tree to construct completely balanced binary trees for a given number of nodes. The predicate should generate all solutions via backtracking. Put the letter 'x' as information into all nodes of the tree.
+</p><p>Example:
+</p>
+<pre>* cbal-tree(4,T).
+T = t(x, t(x, nil, nil), t(x, nil, t(x, nil, nil)))&nbsp;;
+T = t(x, t(x, nil, nil), t(x, t(x, nil, nil), nil))&nbsp;;
+etc......No
+</pre>
+<p>Example in Haskell, whitespace and "comment diagrams" added for clarity and exposition:
+</p>
+<div dir="ltr" class="mw-geshi mw-content-ltr"><div class="haskell source-haskell" style="font-family:monospace;"><pre class="de1"><span class="sy0">*</span>Main<span class="sy0">&gt;</span> cbalTree <span class="nu0">4</span>
+<span class="br0">[</span>
+<span class="co1">-- permutation 1</span>
+<span class="co1">--     x</span>
+<span class="co1">--    / \</span>
+<span class="co1">--   x   x</span>
+<span class="co1">--        \</span>
+<span class="co1">--         x</span>
+Branch 'x' <span class="br0">(</span>Branch 'x' Empty Empty<span class="br0">)</span> 
+           <span class="br0">(</span>Branch 'x' Empty 
+                       <span class="br0">(</span>Branch 'x' Empty Empty<span class="br0">)</span><span class="br0">)</span><span class="sy0">,</span>
+&nbsp;
+<span class="co1">-- permutation 2</span>
+<span class="co1">--     x</span>
+<span class="co1">--    / \</span>
+<span class="co1">--   x   x</span>
+<span class="co1">--      /</span>
+<span class="co1">--     x</span>
+Branch 'x' <span class="br0">(</span>Branch 'x' Empty Empty<span class="br0">)</span> 
+           <span class="br0">(</span>Branch 'x' <span class="br0">(</span>Branch 'x' Empty Empty<span class="br0">)</span> 
+                       Empty<span class="br0">)</span><span class="sy0">,</span>
+&nbsp;
+<span class="co1">-- permutation 3</span>
+<span class="co1">--     x</span>
+<span class="co1">--    / \</span>
+<span class="co1">--   x   x</span>
+<span class="co1">--    \</span>
+<span class="co1">--     x</span>
+Branch 'x' <span class="br0">(</span>Branch 'x' Empty 
+                       <span class="br0">(</span>Branch 'x' Empty Empty<span class="br0">)</span><span class="br0">)</span> 
+           <span class="br0">(</span>Branch 'x' Empty Empty<span class="br0">)</span><span class="sy0">,</span>
+&nbsp;
+<span class="co1">-- permutation 4</span>
+<span class="co1">--     x</span>
+<span class="co1">--    / \</span>
+<span class="co1">--   x   x</span>
+<span class="co1">--  /</span>
+<span class="co1">-- x</span>
+Branch 'x' <span class="br0">(</span>Branch 'x' <span class="br0">(</span>Branch 'x' Empty Empty<span class="br0">)</span> 
+                       Empty<span class="br0">)</span> 
+           <span class="br0">(</span>Branch 'x' Empty Empty<span class="br0">)</span>
+<span class="br0">]</span></pre></div></div>
+<p><a href="/haskellwiki/99_questions/Solutions/55" title="99 questions/Solutions/55"> Solutions</a>
+</p><p><br>        
+</p>
+<h2> <span class="mw-headline" id="Problem_56">4  Problem 56 </span></h2>
+<p>(**) Symmetric binary trees
+</p><p>Let us call a binary tree symmetric if you can draw a vertical line through the root node and then the right subtree is the mirror image of the left subtree. Write a predicate symmetric/1 to check whether a given binary tree is symmetric. Hint: Write a predicate mirror/2 first to check whether one tree is the mirror image of another. We are only interested in the structure, not in the contents of the nodes.
+</p><p>Example in Haskell:
+</p>
+<div dir="ltr" class="mw-geshi mw-content-ltr"><div class="haskell source-haskell" style="font-family:monospace;"><pre class="de1"><span class="sy0">*</span>Main<span class="sy0">&gt;</span> symmetric <span class="br0">(</span>Branch 'x' <span class="br0">(</span>Branch 'x' Empty Empty<span class="br0">)</span> Empty<span class="br0">)</span>
+False
+<span class="sy0">*</span>Main<span class="sy0">&gt;</span> symmetric <span class="br0">(</span>Branch 'x' <span class="br0">(</span>Branch 'x' Empty Empty<span class="br0">)</span> <span class="br0">(</span>Branch 'x' Empty Empty<span class="br0">)</span><span class="br0">)</span>
+True</pre></div></div>
+<p><a href="/haskellwiki/99_questions/Solutions/56" title="99 questions/Solutions/56"> Solutions</a>
+</p><p><br>        
+</p>
+<h2> <span class="mw-headline" id="Problem_57">5  Problem 57 </span></h2>
+<p>(**) Binary search trees (dictionaries)
+</p><p>Use the predicate add/3, developed in chapter 4 of the course, to write a predicate to construct a binary search tree from a list of integer numbers.
+</p><p>Example:
+</p>
+<pre>* construct([3,2,5,7,1],T).
+T = t(3, t(2, t(1, nil, nil), nil), t(5, nil, t(7, nil, nil)))
+</pre>
+<p>Then use this predicate to test the solution of the problem P56.
+</p><p>Example:
+</p>
+<pre>* test-symmetric([5,3,18,1,4,12,21]).
+Yes
+* test-symmetric([3,2,5,7,4]).
+No
+</pre>
+<p>Example in Haskell:
+</p>
+<div dir="ltr" class="mw-geshi mw-content-ltr"><div class="haskell source-haskell" style="font-family:monospace;"><pre class="de1"><span class="sy0">*</span>Main<span class="sy0">&gt;</span> construct <span class="br0">[</span><span class="nu0">3</span><span class="sy0">,</span> <span class="nu0">2</span><span class="sy0">,</span> <span class="nu0">5</span><span class="sy0">,</span> <span class="nu0">7</span><span class="sy0">,</span> <span class="nu0">1</span><span class="br0">]</span>
+Branch <span class="nu0">3</span> <span class="br0">(</span>Branch <span class="nu0">2</span> <span class="br0">(</span>Branch <span class="nu0">1</span> Empty Empty<span class="br0">)</span> Empty<span class="br0">)</span> <span class="br0">(</span>Branch <span class="nu0">5</span> Empty <span class="br0">(</span>Branch <span class="nu0">7</span> Empty Empty<span class="br0">)</span><span class="br0">)</span>
+<span class="sy0">*</span>Main<span class="sy0">&gt;</span> symmetric <span class="sy0">.</span> construct <span class="sy0">$</span> <span class="br0">[</span><span class="nu0">5</span><span class="sy0">,</span> <span class="nu0">3</span><span class="sy0">,</span> <span class="nu0">18</span><span class="sy0">,</span> <span class="nu0">1</span><span class="sy0">,</span> <span class="nu0">4</span><span class="sy0">,</span> <span class="nu0">12</span><span class="sy0">,</span> <span class="nu0">21</span><span class="br0">]</span>
+True
+<span class="sy0">*</span>Main<span class="sy0">&gt;</span> symmetric <span class="sy0">.</span> construct <span class="sy0">$</span> <span class="br0">[</span><span class="nu0">3</span><span class="sy0">,</span> <span class="nu0">2</span><span class="sy0">,</span> <span class="nu0">5</span><span class="sy0">,</span> <span class="nu0">7</span><span class="sy0">,</span> <span class="nu0">1</span><span class="br0">]</span>
+True</pre></div></div>
+<p><a href="/haskellwiki/99_questions/Solutions/57" title="99 questions/Solutions/57"> Solutions</a>
+</p><p><br>        
+</p>
+<h2> <span class="mw-headline" id="Problem_58">6  Problem 58 </span></h2>
+<p>(**) Generate-and-test paradigm
+</p><p>Apply the generate-and-test paradigm to construct all symmetric, completely balanced binary trees with a given number of nodes.
+</p><p>Example:
+</p>
+<pre>* sym-cbal-trees(5,Ts).
+Ts = [t(x, t(x, nil, t(x, nil, nil)), t(x, t(x, nil, nil), nil)), t(x, t(x, t(x, nil, nil), nil), t(x, nil, t(x, nil, nil)))] 
+</pre>
+<p>Example in Haskell:
+</p>
+<div dir="ltr" class="mw-geshi mw-content-ltr"><div class="haskell source-haskell" style="font-family:monospace;"><pre class="de1"><span class="sy0">*</span>Main<span class="sy0">&gt;</span> symCbalTrees <span class="nu0">5</span>
+<span class="br0">[</span>Branch 'x' <span class="br0">(</span>Branch 'x' Empty <span class="br0">(</span>Branch 'x' Empty Empty<span class="br0">)</span><span class="br0">)</span> <span class="br0">(</span>Branch 'x' <span class="br0">(</span>Branch 'x' Empty Empty<span class="br0">)</span> Empty<span class="br0">)</span><span class="sy0">,</span>Branch 'x' <span class="br0">(</span>Branch 'x' <span class="br0">(</span>Branch 'x' Empty Empty<span class="br0">)</span> Empty<span class="br0">)</span> <span class="br0">(</span>Branch 'x' Empty <span class="br0">(</span>Branch 'x' Empty Empty<span class="br0">)</span><span class="br0">)</span><span class="br0">]</span></pre></div></div>
+<p><a href="/haskellwiki/99_questions/Solutions/58" title="99 questions/Solutions/58"> Solutions</a>
+</p><p><br>        
+</p>
+<h2> <span class="mw-headline" id="Problem_59">7  Problem 59 </span></h2>
+<p>(**) Construct height-balanced binary trees
+</p><p>In a height-balanced binary tree, the following property holds for every node: The height of its left subtree and the height of its right subtree are almost equal, which means their difference is not greater than one.
+</p><p>Construct a list of all height-balanced binary trees with the given element and the given maximum height.
+</p><p>Example:
+</p>
+<pre>?- hbal_tree(3,T).
+T = t(x, t(x, t(x, nil, nil), t(x, nil, nil)), t(x, t(x, nil, nil), t(x, nil, nil)))&nbsp;;
+T = t(x, t(x, t(x, nil, nil), t(x, nil, nil)), t(x, t(x, nil, nil), nil))&nbsp;;
+etc......No
+</pre>
+<p>Example in Haskell:
+</p>
+<div dir="ltr" class="mw-geshi mw-content-ltr"><div class="haskell source-haskell" style="font-family:monospace;"><pre class="de1"><span class="sy0">*</span>Main<span class="sy0">&gt;</span> <span class="kw3">take</span> <span class="nu0">4</span> <span class="sy0">$</span> hbalTree 'x' <span class="nu0">3</span>
+<span class="br0">[</span>Branch 'x' <span class="br0">(</span>Branch 'x' Empty Empty<span class="br0">)</span> <span class="br0">(</span>Branch 'x' Empty <span class="br0">(</span>Branch 'x' Empty Empty<span class="br0">)</span><span class="br0">)</span><span class="sy0">,</span>
+ Branch 'x' <span class="br0">(</span>Branch 'x' Empty Empty<span class="br0">)</span> <span class="br0">(</span>Branch 'x' <span class="br0">(</span>Branch 'x' Empty Empty<span class="br0">)</span> Empty<span class="br0">)</span><span class="sy0">,</span>
+ Branch 'x' <span class="br0">(</span>Branch 'x' Empty Empty<span class="br0">)</span> <span class="br0">(</span>Branch 'x' <span class="br0">(</span>Branch 'x' Empty Empty<span class="br0">)</span> <span class="br0">(</span>Branch 'x' Empty Empty<span class="br0">)</span><span class="br0">)</span><span class="sy0">,</span>
+ Branch 'x' <span class="br0">(</span>Branch 'x' Empty <span class="br0">(</span>Branch 'x' Empty Empty<span class="br0">)</span><span class="br0">)</span> <span class="br0">(</span>Branch 'x' Empty Empty<span class="br0">)</span><span class="br0">]</span></pre></div></div>
+<p><a href="/haskellwiki/99_questions/Solutions/59" title="99 questions/Solutions/59"> Solutions</a>
+</p>
+<h2> <span class="mw-headline" id="Problem_60">8  Problem 60 </span></h2>
+<p>(**) Construct height-balanced binary trees with a given number of nodes
+</p><p>Consider a height-balanced binary tree of height H. What is the maximum number of nodes it can contain?
+</p>
+Clearly, MaxN = 2**H - 1. However, what is the minimum number MinN? This question is more difficult. Try to find a recursive statement and turn it into a function <div class="inline-code"><div dir="ltr" class="mw-geshi mw-content-ltr"><div class="haskell source-haskell" style="font-family:monospace;">minNodes</div></div></div> that returns the minimum number of nodes in a height-balanced binary tree of height H.
+On the other hand, we might ask: what is the maximum height H a height-balanced binary tree with N nodes can have? Write a function <div class="inline-code"><div dir="ltr" class="mw-geshi mw-content-ltr"><div class="haskell source-haskell" style="font-family:monospace;">maxHeight</div></div></div> that computes this.
+<p>Now, we can attack the main problem: construct all the height-balanced binary trees with a given number of nodes. Find out how many height-balanced trees exist for N = 15.
+</p><p>Example in Prolog:
+</p>
+<pre>?- count_hbal_trees(15,C).
+C = 1553
+</pre>
+<p>Example in Haskell:
+</p>
+<div dir="ltr" class="mw-geshi mw-content-ltr"><div class="haskell source-haskell" style="font-family:monospace;"><pre class="de1"><span class="sy0">*</span>Main<span class="sy0">&gt;</span> <span class="kw3">length</span> <span class="sy0">$</span> hbalTreeNodes 'x' 15
+1553
+<span class="sy0">*</span>Main<span class="sy0">&gt;</span> <span class="kw3">map</span> <span class="br0">(</span>hbalTreeNodes 'x'<span class="br0">)</span> <span class="br0">[</span>0<span class="sy0">..</span>3<span class="br0">]</span>
+<span class="br0">[</span><span class="br0">[</span>Empty<span class="br0">]</span><span class="sy0">,</span>
+ <span class="br0">[</span>Branch 'x' Empty Empty<span class="br0">]</span><span class="sy0">,</span>
+ <span class="br0">[</span>Branch 'x' Empty <span class="br0">(</span>Branch 'x' Empty Empty<span class="br0">)</span><span class="sy0">,</span>Branch 'x' <span class="br0">(</span>Branch 'x' Empty Empty<span class="br0">)</span> Empty<span class="br0">]</span><span class="sy0">,</span>
+ <span class="br0">[</span>Branch 'x' <span class="br0">(</span>Branch 'x' Empty Empty<span class="br0">)</span> <span class="br0">(</span>Branch 'x' Empty Empty<span class="br0">)</span><span class="br0">]</span><span class="br0">]</span></pre></div></div>
+<p><a href="/haskellwiki/99_questions/Solutions/60" title="99 questions/Solutions/60"> Solutions</a>
+</p>
+<!-- 
+NewPP limit report
+Preprocessor node count: 205/1000000
+Post‚Äêexpand include size: 0/2097152 bytes
+Template argument size: 0/2097152 bytes
+Expensive parser function count: 0/100
+-->
+
+<!-- Saved in parser cache with key wikidb:pcache:idhash:2470-0!*!0!1!*!*!* and timestamp 20141002091036 -->
+</div><div class="printfooter">
+Retrieved from "<a href="http://www.haskell.org/haskellwiki/index.php?title=99_questions/54A_to_60&amp;oldid=57746">http://www.haskell.org/haskellwiki/index.php?title=99_questions/54A_to_60&amp;oldid=57746</a>"</div>
+			<div id="catlinks" class="catlinks"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/haskellwiki/Special:Categories" title="Special:Categories">Category</a>: <ul><li><a href="/haskellwiki/Category:Tutorials" title="Category:Tutorials">Tutorials</a></li></ul></div></div>			<!-- end content -->
+						<div class="visualClear"></div>
+		</div>
+	</div>
+		</div></div>
+		<div id="column-one">
+	<script type="text/javascript"> if (window.isMSIE55) fixalpha(); </script>
+	<div class="generated-sidebar portlet" id="p-navigation">
+		<h5>Navigation</h5>
+		<div class="pBody">
+			<ul>
+				<li id="n-mainpage"><a href="/haskellwiki/Haskell">Haskell</a></li>
+				<li id="n-portal"><a href="/haskellwiki/HaskellWiki:Community">Wiki community</a></li>
+				<li id="n-recentchanges"><a href="/haskellwiki/Special:RecentChanges">Recent changes</a></li>
+				<li id="n-randompage"><a href="/haskellwiki/Special:Random">Random page</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-tb">
+		<h5>Toolbox</h5>
+		<div class="pBody">
+			<ul>
+				<li id="t-whatlinkshere"><a href="/haskellwiki/Special:WhatLinksHere/99_questions/54A_to_60">What links here</a></li>
+				<li id="t-recentchangeslinked"><a href="/haskellwiki/Special:RecentChangesLinked/99_questions/54A_to_60">Related changes</a></li>
+<li id="t-specialpages"><a href="/haskellwiki/Special:SpecialPages">Special pages</a></li>
+				<li id="t-print"><a href="/haskellwiki/index.php?title=99_questions/54A_to_60&amp;printable=yes" rel="alternate">Printable version</a></li>				<li id="t-permalink"><a href="/haskellwiki/index.php?title=99_questions/54A_to_60&amp;oldid=57746">Permanent link</a></li>			</ul>
+		</div>
+	</div>
+		</div><!-- end of the left (by default at least) column -->
+			<div class="visualClear"></div>
+			<div id="footer">
+				<div id="f-poweredbyico"><a href="//www.mediawiki.org/"><img src="/wikistatic/skins//common/images/poweredby_mediawiki_88x31.png" height="31" width="88" alt="Powered by MediaWiki"></a></div>
+			<ul id="f-list">
+					<li id="lastmod"> This page was last modified on 3 April 2014, at 19:08.</li>
+					<li id="viewcount">This page has been accessed 42,585 times.</li>
+					<li id="copyright">Recent content is available under <a href="/haskellwiki/HaskellWiki:Copyrights" title="HaskellWiki:Copyrights">a simple permissive license</a>.</li>
+					<li id="privacy"><a href="/haskellwiki/HaskellWiki:Privacy_policy" title="HaskellWiki:Privacy policy">Privacy policy</a></li>
+					<li id="about"><a href="/haskellwiki/HaskellWiki:About" title="HaskellWiki:About">About HaskellWiki</a></li>
+					<li id="disclaimer"><a href="/haskellwiki/HaskellWiki:General_disclaimer" title="HaskellWiki:General disclaimer">Disclaimers</a></li>
+			</ul>
+		</div>
+</div>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.user","mediawiki.page.ready"], null, true);
+}</script>
+<script src="http://www.haskell.org/haskellwiki/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=hawiki&amp;*"></script>
+<!-- Served in 0.101 secs. --><script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-15375175-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+</body></html>Ytext/htmlUUTF-8®$).3‘_WebResourceResponse_>http://www.haskell.org/wikistatic/skins//common/shared.css?303Oèbplist00‘noX$versionX$objectsY$archiverT$top Ü†Ø#"()012NOPQRSTUVWXYZ[\]^_`abcdghiU$null›	
+ !R$6S$10R$2R$7R$3S$11R$8V$classR$4R$9R$0R$5R$1ÄÄÄ Ä Ä"ÄÄ!Ä”#$%&'WNS.base[NS.relativeÄ ÄÄ_>http://www.haskell.org/wikistatic/skins//common/shared.css?303“*+,-Z$classnameX$classesUNSURL¢./UNSURLXNSObject#AπﬁTïÛ	Í»”345AMWNS.keysZNS.objects´6789:;<=>?@Ä	Ä
+ÄÄÄÄÄÄÄÄÄ´BCDEFGHIJKLÄÄÄÄÄÄÄÄÄÄÄÄVServer\Content-TypeTVary]Last-ModifiedTEtagTDate]Accept-Ranges_Content-Encoding^Content-LengthZKeep-AliveZConnection_Apache/2.2.22 (Debian)Xtext/css_Accept-Encoding_Sun, 14 Jul 2013 15:57:00 GMT_"9dc06e-6c5-4e17acb4e2b00"_Fri, 03 Oct 2014 03:50:42 GMTUbytesTgzipS771_timeout=5, max=100ZKeep-Alive“*+ef\NSDictionary¢e/ˇˇˇˇˇˇˇˇXtext/css“*+jk_NSHTTPURLResponse£lm/_NSHTTPURLResponse]NSURLResponse_NSKeyedArchiver—pq_WebResourceResponseÄ    # - 2 7 ] c ~ Å Ö à ã é í ï ú ü ¢ • ® ´ ≠ Ø ± ≥ µ ∑ π ª Ω ø ¡ √   “ ﬁ ‡ ‚ ‰%*5>DGMV_ahp{áâãçèëìïóôõù©´≠Ø±≥µ∑πªΩø¡»’⁄ËÌÚ "-8QZlå©…œ‘ÿÌ¯˝
+$8<P^psâ             r              ãO≈/**
+ * CSS in this file is used by *all* skins (that have any CSS at all).  Be
+ * careful what you put in here, since what looks good in one skin may not in
+ * another, but don't ignore the poor non-Monobook users either.
+ */
+.mw-plusminus-null { color: #aaa; }
+
+.texvc { direction: ltr; unicode-bidi: embed; }
+img.tex { vertical-align: middle; }
+span.texhtml { font-family: serif; }
+
+/* Stop floats from intruding into edit area in previews */
+#toolbar, #wpTextbox1 { clear: both; }
+
+div#mw-js-message {
+	margin: 1em 5%;
+	padding: 0.5em 2.5%;
+	border: solid 1px #ddd;
+	background-color: #fcfcfc;
+}
+
+/* Edit section links */
+.editsection {
+	float: right;
+	margin-left: 5px;
+}
+
+/**
+ * File histories
+ */
+table.filehistory {
+	border:1px solid #ccc;
+	border-collapse:collapse;
+}
+
+table.filehistory th,
+table.filehistory td {
+	padding: 0 0.2em 0 0.2em;
+	vertical-align:top;
+	border:1px solid #ccc;
+}
+table.filehistory th {
+	text-align: left;
+}
+table.filehistory td.mw-imagepage-filesize,
+table.filehistory th.mw-imagepage-filesize {
+	white-space:nowrap;
+}
+
+/*
+ * rev_deleted stuff
+ */
+li span.deleted, span.history-deleted {
+	text-decoration: line-through;
+	color: #888;
+	font-style: italic;
+}
+
+/**
+ * Forms
+ */
+body.ltr td.mw-label { text-align: right; }
+body.ltr td.mw-input { text-align: left; }
+body.ltr td.mw-submit { text-align: left; }
+body.rtl td.mw-label { text-align: left; }
+body.rtl td.mw-input { text-align: right; }
+body.rtl td.mw-submit { text-align: right; }
+
+td.mw-label { vertical-align: top; }
+td.mw-submit { white-space: nowrap; }
+
+/**
+ * Image captions
+ */
+body.rtl .thumbcaption { text-align:right; }
+body.rtl .magnify { float:left; }
+
+body.ltr .thumbcaption { text-align:left; }
+body.ltr .magnify { float:right; }
+Xtext/css‘_<http://www.haskell.org/wikistatic/skins//hawiki/main.css?303Oébplist00‘noX$versionX$objectsY$archiverT$top Ü†Ø#"()012NOPQRSTUVWXYZ[\]^_`abcdghiU$null›	
+ !R$6S$10R$2R$7R$3S$11R$8V$classR$4R$9R$0R$5R$1ÄÄÄ Ä Ä"ÄÄ!Ä”#$%&'WNS.base[NS.relativeÄ ÄÄ_<http://www.haskell.org/wikistatic/skins//hawiki/main.css?303“*+,-Z$classnameX$classesUNSURL¢./UNSURLXNSObject#AπﬁTïG“ÿ»”345AMWNS.keysZNS.objects´6789:;<=>?@Ä	Ä
+ÄÄÄÄÄÄÄÄÄ´BCDEFGHIJKLÄÄÄÄÄÄÄÄÄÄÄÄVServer\Content-TypeTVary]Last-ModifiedTEtagTDate]Accept-Ranges_Content-Encoding^Content-LengthZKeep-AliveZConnection_Apache/2.2.22 (Debian)Xtext/css_Accept-Encoding_Sun, 14 Jul 2013 15:57:00 GMT_"9dc08f-345b-4e17acb4e2b00"_Fri, 03 Oct 2014 03:50:42 GMTUbytesTgzipT3781_timeout=5, max=99ZKeep-Alive“*+ef\NSDictionary¢e/ˇˇˇˇˇˇˇˇXtext/css“*+jk_NSHTTPURLResponse£lm/_NSHTTPURLResponse]NSURLResponse_NSKeyedArchiver—pq_WebResourceResponseÄ    # - 2 7 ] c ~ Å Ö à ã é í ï ú ü ¢ • ® ´ ≠ Ø ± ≥ µ ∑ π ª Ω ø ¡ √   “ ﬁ ‡ ‚ ‰#(3<BEKT]_fnyÖáâãçèëìïóôõß©´≠Ø±≥µ∑πªΩø∆”ÿÊÎ˛ +6OXjä®»Œ”ÿÏ˜¸	#7;O]orà             r              äO4[@font-face {
+  font-family: "Adelle Basic"; font-weight: bold;
+  src: url('/wikistatic/fonts/AdelleBasic_Bold.otf'); }
+
+/* @group Fundamentals */
+
+* { margin: 0; padding: 0 }
+
+/* Is this portable? */
+html {
+  background-color: white;
+  width: 100%;
+  height: 100%;
+}
+
+body {
+  background: white;
+  color: black;
+  text-align: left;
+  min-height: 100%;
+  position: relative;
+}
+
+p {
+  margin: 0.8em 0;
+}
+
+ul, ol {
+  margin: 0.8em 0 0.8em 2em;
+}
+
+dl {
+  margin: 0.8em 0;
+}
+
+dt {
+  font-weight: bold;
+}
+dd {
+  margin-left: 2em;
+}
+
+a { text-decoration: none; }
+a[href]:link { color: rgb(196,69,29); }
+a[href]:visited { color: rgb(171,105,84); }
+a[href]:hover { background: #f4f2e2; color: black;
+  border-bottom: 1px solid #785; 
+}
+a[href].new { color: #666; }
+
+/* @end */
+
+/* @group Fonts & Sizes */
+
+/* Basic technique & IE workarounds from YUI 3
+   For reasons, see:
+      http://yui.yahooapis.com/3.1.1/build/cssfonts/fonts.css
+ */
+ 
+h1 { font-size: 146.5%; /* 19pt */ } 
+h2 { font-size: 131%;   /* 17pt */ }
+h3 { font-size: 116%;   /* 15pt */ }
+h4 { font-size: 100%;   /* 13pt */ }
+h5 { font-size: 100%;   /* 13pt */ }
+
+select, input, button, textarea {
+	font:99% sans-serif;
+}
+
+table {
+	font-size:inherit;
+	font:100%;
+}
+
+pre, code, kbd, samp, tt, .src {
+	font-family:monospace;
+	*font-size:108%;
+	line-height: 124%;
+}
+
+/* @end */
+
+h1, h2, h3, h4, h5, h6 { 
+  font-weight: bold;
+  color: rgb(78,98,114);
+  margin: 0.8em 0 0.4em;
+}
+
+body {
+/*   font-size:13px; */
+  line-height:1.4;
+  font-family: "Liberation Sans", "proxima-nova-1","proxima-nova-2", "Helvetica Neue", Calibri, Arial, Helvetica, sans-serif;
+  *font-size:small; /* for IE */
+  *font:x-small; /* for IE in quirks mode */
+  text-align: center;
+  margin: 0;
+  padding: 0;
+  background: white;
+  color: black;
+}
+
+#content { 
+  background: white;
+  color: black;
+  font-family: "Helvetica Neue", Arial, Helvetica, sans-serif; 
+  line-height: 1.4;
+  padding: 1em;
+}
+
+pre {
+  line-height: 1.2;
+  overflow: auto;
+}
+
+div > pre.source-haskell { margin: 0.8em }
+
+img { border: 0; }
+
+th { font-weight: bold; background: #eee; }
+td { padding: 0 0.5em; }
+
+a:link, a:visited { text-decoration: none; }
+//a:link { color: #b33; }
+a:link { color: rgb(196,69,29); }
+a:visited { 
+  color: rgb(196,69,29);
+  //color: rgb(171,105,84);
+  border-bottom: 0;
+}
+
+div.floatleft, table.floatleft {
+  float: left;
+  clear: left;
+}
+
+div.floatright, table.floatright {
+  float: right;
+  clear: right;
+}
+
+div.floatleft, table.floatleft {
+  margin: 0 .5em .5em 0;
+}
+
+div.floatright, table.floatright {
+  margin: 0 0 .5em .5em;
+}
+
+blockquote {
+  margin-left: 2em;
+}
+
+
+a.new { color: #666; }
+/* #content .external { border-bottom: 1px dotted #999; } */
+
+#p-logo {
+  top: 2em;
+  left: 0;
+  position: absolute; /*needed to use z-index */
+  clear: both;
+  z-index: 3;
+  height: 155px;
+  width: 180px;
+  overflow: visible;
+}
+#p-logo h5 {
+	display: none;
+}
+#p-logo a,
+#p-logo a:hover {
+	display: block;
+	height: 155px;
+	width: 100%;
+	background-repeat: no-repeat;
+	background-position: 35% 50% !important;
+	text-decoration: none;
+        background-color: inherit;
+}
+
+#globalWrapper {
+  margin: 0 0;
+  text-align: left;
+  clear: both;
+  position: relative;
+}
+
+#bodyContent {
+}
+
+#siteSub {
+  display: none;
+}
+
+#toc, .toc {
+  background: rgb(239,238,209);
+  padding: 0 1em 0.5em 1em;
+  border: 1px solid rgba(196,69,29,0.2);
+}
+
+#toc h2, .toc h2 {
+  display: inline;
+  padding: 0;
+  font-size: 100%;
+  font-weight: bold;
+  margin-right: 1em;
+}
+
+#toc #toctitle, .toc #toctitle {
+  padding: 0.5em 0;
+}
+
+#toc ul, .toc ul { margin: 0; padding: 0; list-style: none; }
+#toc ul ul, .toc ul ul { margin: 0 0 0 2em; }
+
+.toc .toctoggle, #toc .toctoggle {
+  font-size: 90%;
+  color: #ccc;
+}
+
+#firstHeading {
+  margin: 0.5em 0 0.25em 0;
+/*  font-family: "Adelle Basic", sans-serif; */
+}
+
+#topbar { 
+  background: rgb(41,56,69); 
+  border-top: 5px solid rgb(78,98,114);
+  color: #ddd;
+  padding: 0;
+  font-size: smaller;
+  text-align: right;
+  margin: 0 0;
+  float: left;
+  width:100%;
+}
+
+#topbar a:hover { color: white; background: rgb(78,98,114); }
+#p-personal * { margin: 0; padding: 0; }
+#p-personal { float: left; padding: 5px 0 5px 0; margin: 0 10px 0 30px;}
+#p-personal h5 { display: none; }
+#p-personal li { display: inline; text-align: left;}
+#p-personal a { color: white; padding: 5px 10px; }
+
+/* So that we can position #p-cactions relative to this */
+#content-wrapper { position: relative; }
+
+#p-cactions {
+  background: #eee;
+  position: absolute;
+  right: 5px;
+  float: right;
+  font-size: 80%;
+  margin: 5px;
+}
+
+#searchBody { float: right; padding: 2px; margin-right: 10px; }
+
+
+#p-cactions {
+  text-shadow: white 0 1px 0;
+  border: 1px solid #eee;
+}
+
+#p-cactions .pBody { display: inline; }
+#p-cactions h5 { display: none; }
+#p-cactions ul {
+  display: inline;
+  margin: 0; padding: 0;
+}
+
+#preftoc ul { display: block; padding: 0; margin: 0; }
+#preftoc li {
+  list-style-type: none;
+  float: left;
+  padding: 1px 5px;
+  border-right: 1px solid #ccc;  
+}
+#preftoc li.selected { background: white; }
+
+#preferences { clear: both; }
+
+#p-cactions ul li { display: inline; }
+#p-cactions ul li a { 
+  float: left; padding: 5px;
+}
+
+#p-cactions a { color: #333; }
+#p-cactions .selected a { background: white; color: #999; }
+#p-cactions a:hover { color: white; background: rgb(78,98,114); text-shadow: 0 0; }
+#p-cactions .new a { color: #999; }
+
+.editsection { font-size: 60%; margin-right: 1em; }
+.editsection, .editsection a { 
+  color: #999; font-weight: normal;
+}
+
+.printfooter { display: none; }
+
+h1, h2, h3, h4, h5, h6 {
+color: rgb(41,56,69);
+}
+
+#content h1, #content h2, #content h3, #content h4 {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-weight: normal;
+}
+
+code, pre, .inline-code, div.source-haskell li { background: #f0f0f0; }
+
+pre {
+border: 1px solid #ddd;
+	margin-left: 1em;
+padding: 0.3em;
+}
+
+.inline-code, .inline-code > div, .inline-code > div > div {
+display: inline;
+}
+
+.inline-code .source-haskell { display: inline; }
+
+.source-haskell .co1 { color: #999 !important; }
+.source-haskell .kw1 { color: black !important; font-weight: bold; }
+.source-haskell .kw3 { color: #548 !important; font-weight: inherit !important; }
+.source-haskell .kw4 { color: #900 !important; }
+.source-haskell .nu0 { color: #458 !important; }
+.source-haskell .st0 { color: #d14 !important; background: #ddd !important; }
+.source-haskell .sy0, .source-haskell .br0 {
+color: #666 !important; font-weight: normal !important; }
+.source-haskell .es0 { color: #a78 !important; background: #ddd !important; }
+
+.visualClear { clear: both; }
+.pad { padding: 1em; }
+
+#column-content {
+	margin-left: 160px;
+	max-width: 50em;
+}
+
+#column-one {
+margin: 0;
+}
+
+#footer {
+  clear: both;
+  background: #ddd;
+  border-top: 1px solid #999;
+  padding: 0.5em;
+  margin: 0;
+  font-size: 80%;
+  min-height: 4em;
+  text-align: center;
+}
+
+#footer ul li { display: inline; margin: 0.5em 1em; }
+
+#f-poweredbyico {
+display: none;
+}
+
+#f-copyrightico {
+float: left;
+height: 1%;
+margin: 0.5em;
+}
+
+#content form {
+background: #eee;
+	    /*   border: 1px solid #ccc; */
+	    /*   font-family: sans-serif; */
+padding: 0.5em;
+}
+
+fieldset {
+border: 1px solid #ddd;
+margin: 0.5em;
+}
+
+textarea {
+	font-size: 100%;
+	font-family: monospace;
+}
+
+#jump-to-nav {
+	text-align: right;
+background: #f0f0f0;
+float: right;
+}
+
+.intro {
+  margin: 1em 10% 1em 1em;
+  line-height: 1.5em;
+}
+
+.intro p { padding: 1em; margin: 0; }
+
+.intro a:link, .intro a:visited {
+ color: rgb(239,238,209);
+ /* color: inherit; */
+ text-decoration: none; font-weight: normal;
+ border-bottom: 1px dotted rgb(239,238,209) !important;
+}
+.intro .external {  border-bottom: 1px dotted rgb(158,82,0) !important; }
+.intro a[href]:hover { background: inherit; }
+
+
+#p-navigation ul, #p-tb ul { list-style: none; margin-left: 0; padding-left: 1em; }
+
+/*** Front page stuff ***/
+
+.title { font-size: 200%;  margin: 0.5em 0 0.5em 0;
+  font-family: "Adelle Basic", Helvetica, Arial, sans-serif; font-weight: bold;
+}
+
+.subtitle {
+  font-family: "Adelle Basic", Helvetica, Arial, sans-serif;
+  font-weight: bold;
+  font-size: 120%;
+  color: rgb(78,98,114);
+  margin: 0.5em 0;
+}
+
+.bg-image {
+  background: rgb(78,98,114) repeat-x url(/wikistatic/gradient.png);
+  color: white;
+  padding: 0.5em 0.5em 0.5em 200px;
+  position: relative;
+  z-index: 0;
+}
+
+#siteNotice {
+  background: rgb(255,238,209);
+  border: 2px solid #900;
+  color: #c00;
+  padding: 0.5em;
+  text-align: center;
+}
+
+.homepage #siteNotice {
+  display: none;
+  background: #900;
+  color: white;
+  border: 0;
+}
+
+.page-Haskell .homebutton { display: none; }
+
+#contentSub {
+  padding-left: 2em;
+  margin-bottom: 1em;
+  border-bottom: 1px solid #ccc;
+  font-size: 80%;
+}
+
+.highlight {
+  background: rgb(239,238,209);
+}
+
+.catlinks {
+  border-top: 1px solid #ccc;
+  background: #f0f0f0;
+}
+
+#contentSub2, .usermessage {
+  background: rgb(255,238,209);
+  padding: 0.5em;
+  text-align: center;
+}
+
+.homepage #content { padding: 0; margin-top: 0; }
+.homepage #firstHeading, .homepage #contentSub { display: none; }
+.homepage #bodyContent > p { display: none; }
+.homepage #column-one { display: none; }
+.homepage #column-content {
+  max-width: none; margin: 0;
+}
+.homepage #content .external { border-bottom: 0; }
+
+.homepage #p-cactions {
+//  display: static;
+  z-index: 100;
+}
+
+.homepage #p-cactions {
+  background: inherit;
+  border: 0;
+  color: #ccc;
+  text-shadow: 0 0;
+}
+/* .homepage #p-cactions a { color: rgb(211,210,185); } */
+.homepage #p-cactions a { color: #ccc; }
+.homepage #p-cactions a:hover {
+  color: white; background: rgb(78,98,114); }
+
+.homepage #p-cactions .selected { display: none; }
+.homepage #ca-talk { display: none; }
+
+.home-content {
+  clear: both;
+  position: relative;
+  padding: 0; margin: 0;
+  border: 1px solid white;
+  float: left;
+  width:100%;
+}
+
+.home-static { float: left; }
+
+.home-dynamic {
+  background: #eeeeee repeat-x url(/wikistatic/gradient-gray.png);
+}
+
+.home-dynamic ul {
+  margin-left: 0; padding-left: 1em;
+}
+
+
+/* Generic Column Stuff */
+
+.cols3 {
+  width: 100%; float: left; background: inherit;
+  margin: 0; padding: 0; 
+}
+
+.cols3 > .c1, .cols3 > .c2, .cols3 > .c3 {
+  min-height: 10em; width: 33.3%; float: left;
+  margin: 0; padding: 0;
+}
+
+.w1000 { max-width: 1280px; margin: 0 auto; }
+
+.homepage .wrap { margin: 0 auto; padding: 0 1em; max-width: 1280px; }
+
+.content { padding: 1em; }
+
+@media screen and (max-width: 1000px) {
+  .cols3.w1000 > .c1, .cols3.w1000 > .c2, .cols3.w1000 > .c3 {
+    width: 50%; }
+}
+
+@media screen and (max-width: 500px) {
+  .cols3.w1000 > .c1, .cols3.w1000 > .c2, .cols3.w1000 > .c3 {
+    width: 100%; }
+}
+
+
+@media screen and (min-width: 1024px) {
+  #column-one {
+     width: 199px;   // float: right;
+     position: absolute; top: 80px; right: 0;
+     border-left: 1px solid #ddd; padding: 0.5em;
+     z-index: 1; background: white;
+  }
+  #column-content { margin-right: 220px; }
+  #jump-to-nav { display: none; }
+  #footer { padding-right: 220px; z-index: 0; }
+}
+
+@media screen and (max-width: 1023px) {
+  #column-one {
+    padding: 0.5em;
+    border-top: 1px solid #ddd;
+    background: #f0f0f0;
+  }
+  #column-one > div {
+    margin: 0.5em;
+  }
+
+  #column-one div ul, #column-one div li { display: inline; }
+  #column-one div li { margin-left: 1em; }
+}
+
+@media screen and (max-width: 800px) {
+  #p-logo { display: none; }
+  #topbar { background: rgb(41,56,69) url(/wikistatic/hslogo-16.png) no-repeat 5px 5px; }
+  #column-content { margin-left: 0; margin-right: 0; } 
+  .homepage .bg-image { padding: 0.5em 1em; }
+  .homepage .intro { margin-right: 1em; }
+}  
+
+@media screen and (max-width: 500px) {
+  body { font-size: 80%; }
+}
+
+.homepage #p-logo a { background-image: url(/wikistatic/haskellwiki_logo_white.png) !important; }
+
+table#sv-ext, table#sv-software, table#sv-hooks {
+  border: 1px solid #ccc;
+}
+
+/* fancy buttons for the homepage */
+/* from:  http://webdesignerwall.com/tutorials/css3-gradient-buttons */
+
+.button {
+	display: inline-block;
+	outline: none;
+	cursor: pointer;
+	text-align: center;
+	text-decoration: none;
+	font: 14px/100% Arial, Helvetica, sans-serif;
+	padding: .4em 1.5em .4em;
+	text-shadow: 0 1px 1px rgba(0,0,0,.3);
+	-webkit-border-radius: .5em; 
+	-moz-border-radius: .5em;
+	border-radius: .5em;
+	-webkit-box-shadow: 0 1px 2px rgba(0,0,0,.2);
+	-moz-box-shadow: 0 1px 2px rgba(0,0,0,.2);
+	box-shadow: 0 1px 2px rgba(0,0,0,.2);
+}
+.button:hover {
+	text-decoration: none;
+}
+.button:active {
+	position: relative;
+	top: 1px;
+}
+
+.orange {
+	color: #fef4e9;
+	border: solid 1px #da7c0c;
+	background: #f78d1d;
+	background: -webkit-gradient(linear, left top, left bottom, from(#faa51a), to(#f47a20));
+	background: -moz-linear-gradient(top,  #faa51a,  #f47a20);
+	filter:  progid:DXImageTransform.Microsoft.gradient(startColorstr='#faa51a', endColorstr='#f47a20');
+}
+.orange:hover {
+	color: white !important;
+	background: #f47c20 !important;
+	background: -webkit-gradient(linear, left top, left bottom, from(#f88e11), to(#f06015));
+	background: -moz-linear-gradient(top,  #f88e11,  #f06015);
+	filter:  progid:DXImageTransform.Microsoft.gradient(startColorstr='#f88e11', endColorstr='#f06015');
+}
+.orange:active {
+	color: #fcd3a5;
+	background: -webkit-gradient(linear, left top, left bottom, from(#f47a20), to(#faa51a));
+	background: -moz-linear-gradient(top,  #f47a20,  #faa51a);
+	filter:  progid:DXImageTransform.Microsoft.gradient(startColorstr='#f47a20', endColorstr='#faa51a');
+}
+.orange a { color:white; }
+Xtext/css‘_Chttp://www.haskell.org/wikistatic/skins//common/commonPrint.css?303Oñbplist00‘noX$versionX$objectsY$archiverT$top Ü†Ø#"()012NOPQRSTUVWXYZ[\]^_`abcdghiU$null›	
+ !R$6S$10R$2R$7R$3S$11R$8V$classR$4R$9R$0R$5R$1ÄÄÄ Ä Ä"ÄÄ!Ä”#$%&'WNS.base[NS.relativeÄ ÄÄ_Chttp://www.haskell.org/wikistatic/skins//common/commonPrint.css?303“*+,-Z$classnameX$classesUNSURL¢./UNSURLXNSObject#AπﬁTï˜üV»”345AMWNS.keysZNS.objects´6789:;<=>?@Ä	Ä
+ÄÄÄÄÄÄÄÄÄ´BCDEFGHIJKLÄÄÄÄÄÄÄÄÄÄÄÄVServer\Content-TypeTVary]Last-ModifiedTEtagTDate]Accept-Ranges_Content-Encoding^Content-LengthZKeep-AliveZConnection_Apache/2.2.22 (Debian)Xtext/css_Accept-Encoding_Sun, 14 Jul 2013 15:56:59 GMT_"9dc00f-14a9-4e17acb3ee8c0"_Fri, 03 Oct 2014 03:50:42 GMTUbytesTgzipT1741_timeout=5, max=100ZKeep-Alive“*+ef\NSDictionary¢e/ˇˇˇˇˇˇˇˇXtext/css“*+jk_NSHTTPURLResponse£lm/_NSHTTPURLResponse]NSURLResponse_NSKeyedArchiver—pq_WebResourceResponseÄ    # - 2 7 ] c ~ Å Ö à ã é í ï ú ü ¢ • ® ´ ≠ Ø ± ≥ µ ∑ π ª Ω ø ¡ √   “ ﬁ ‡ ‚ ‰*/:CILR[dfmuÄåéêíîñòöúû†¢Æ∞≤¥∂∏∫ºæ¿¬ƒ∆Õ⁄ﬂÌÚ˜'2=V_qëØœ’⁄ﬂÙˇ&+?CWewzê             r              íO©/*
+** MediaWiki Print style sheet for CSS2-capable browsers.
+** Copyright Gabriel Wicke, http://www.aulinx.de/
+**
+** Derived from the plone (http://plone.org/) styles
+** Copyright Alexander Limi
+*/
+
+/* Thanks to A List Apart (http://alistapart.com/) for useful extras */
+a.stub,
+a.new{ color:#ba0000; text-decoration:none; }
+
+#toc { 
+    /*border:1px solid #2f6fab;*/
+    border:1px solid #aaaaaa;
+    background-color:#f9f9f9;
+    padding:5px;
+}
+.tocindent {
+	margin-left: 2em;
+}
+.tocline {
+	margin-bottom: 0px;
+}
+
+/* images */
+div.floatright { 
+    float: right;
+    clear: right;
+    margin: 0;
+    position:relative;
+    border: 0.5em solid White;
+    border-width: 0.5em 0 0.8em 1.4em;
+}
+div.floatright p { font-style: italic;} 
+div.floatleft { 
+    float: left; 
+    margin: 0.3em 0.5em 0.5em 0;
+    position:relative;
+    border: 0.5em solid White;
+    border-width: 0.5em 1.4em 0.8em 0;
+}
+div.floatleft p { font-style: italic; } 
+/* thumbnails */
+div.thumb {
+    margin-bottom: 0.5em;
+    border-style: solid; border-color: White;
+    width: auto;
+    overflow: hidden;
+}
+div.thumb div {
+    border:1px solid #cccccc;
+    padding: 3px !important;
+    background-color:#f9f9f9;
+    font-size: 94%;
+    text-align: center;
+}
+div.thumb div a img {
+    border:1px solid #cccccc;
+}
+div.thumb div div.thumbcaption {
+    border: none;
+    padding: 0.3em 0 0.1em 0;
+}
+div.magnify { display: none; }
+div.tright {
+    float: right;
+    clear: right;
+    border-width: 0.5em 0 0.8em 1.4em;
+}
+div.tleft {
+    float: left;
+    margin-right:0.5em;
+    border-width: 0.5em 1.4em 0.8em 0;
+}
+img.thumbborder {
+	border: 1px solid #dddddd;
+}
+
+/* table standards */
+table.rimage {
+    float:right; 
+    width:1pt; 
+    position:relative;
+    margin-left:1em; 
+    margin-bottom:1em;
+    text-align:center;
+}
+
+body {
+    background: White;
+    /*font-size: 11pt !important;*/
+    color: Black;
+    margin: 0;
+    padding: 0;
+}
+
+.noprint,
+div#jump-to-nav,
+div.top,
+div#column-one,
+#colophon,
+.editsection,
+.toctoggle,
+.tochidden,
+div#f-poweredbyico,
+div#f-copyrightico,
+li#viewcount,
+li#about,
+li#disclaimer,
+li#privacy {
+    /* Hides all the elements irrelevant for printing */
+    display: none;
+}
+
+ul { 
+    list-style-type: square;
+}
+
+#content {
+    background: none;
+    border: none ! important;
+    padding: 0 ! important;
+    margin: 0 ! important;
+}
+#footer {
+	background : white;
+	color : black;
+    border-top: 1px solid black;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	font-weight: bold;
+}
+
+p, .documentDescription {
+    margin: 1em 0 ! important;
+    line-height: 1.2em;
+}
+
+.tocindent p {
+	margin: 0 0 0 0 ! important;
+}
+
+pre {
+    border: 1pt dashed black;
+    white-space: pre;
+    font-size: 8pt;
+    overflow: auto;
+    padding: 1em 0;
+	background : white;
+	color : black;
+}
+
+table.listing,
+table.listing td {
+    border: 1pt solid black;
+    border-collapse: collapse;
+}
+
+a {
+    color: Black !important;
+    background: none !important;
+    padding: 0 !important;
+}
+
+a:link, a:visited {
+    color: #520;
+    background: transparent;
+    text-decoration: underline;
+}
+
+#content a.external.text:after, #content a.external.autonumber:after {
+    /* Expand URLs for printing */
+    content: " (" attr(href) ") ";
+}
+
+#globalWrapper {
+    width: 100% !important;
+    min-width: 0 !important;
+}
+
+#content {
+	background : white;
+	color : black;
+}
+
+#column-content {
+    margin: 0 !important;
+}
+
+#column-content #content {
+    padding: 1em;
+    margin: 0 !important;
+}
+/* MSIE/Win doesn't understand 'inherit' */
+a, a.external, a.new, a.stub {
+	color: black ! important;
+	text-decoration: none ! important;
+}
+
+/* Continue ... */
+a, a.external, a.new, a.stub {
+	color: inherit ! important;
+	text-decoration: inherit ! important;
+}
+
+img { border: none; }
+img.tex { vertical-align: middle; }
+span.texhtml { font-family: serif; }
+
+div.townBox {
+    position:relative;
+    float:right;
+    background:White;
+    margin-left:1em;
+    border: 1px solid gray;
+    padding:0.3em;
+    width: 200px;
+    overflow: hidden;
+    clear: right;
+}
+div.townBox dl {
+    padding: 0;
+    margin: 0 0 0.3em 0; 
+    font-size: 96%;
+}
+div.townBox dl dt {
+    background: none;
+    margin: 0.4em 0 0 0;
+}
+div.townBox dl dd {
+    margin: 0.1em 0 0 1.1em;
+    background-color: #f3f3f3;
+}
+
+#siteNotice { display: none; }
+
+table.gallery {
+        border:  1px solid #cccccc;
+        margin:  2px;
+        padding: 2px;
+        background-color:#ffffff;
+}
+
+table.gallery tr { 
+        vertical-align:top;
+}
+
+div.gallerybox {
+        border: 1px solid #cccccc;
+        margin: 2px;
+        background-color:#f9f9f9;
+        width:  150px;
+}
+
+div.gallerybox div.thumb {
+        text-align: center;
+        border: 1px solid #cccccc;
+        margin: 2px;
+}       
+
+div.gallerytext {
+        font-size: 94%;
+        padding: 2px 4px;
+}       
+
+/*
+** Diff rendering
+*/
+table.diff { background:white; }
+td.diff-otitle { background:#ffffff; }
+td.diff-ntitle { background:#ffffff; }
+td.diff-addedline {
+    background:#ccffcc;
+    font-size: smaller;
+    border: solid 2px black;
+}
+td.diff-deletedline {
+    background:#ffffaa;
+    font-size: smaller;
+    border: dotted 2px black;
+}
+td.diff-context {
+    background:#eeeeee;
+    font-size: smaller;
+}
+.diffchange {
+    color: silver;
+    font-weight: bold;
+    text-decoration: underline;
+}
+Xtext/css‘ !"#_%http://www.google-analytics.com/ga.jsO∑bplist00‘rsX$versionX$objectsY$archiverT$top Ü†Ø%"()012PQRSTUVWXYZ[\]^_`abcdefghklmU$null›	
+ !R$6S$10R$2R$7R$3S$11R$8V$classR$4R$9R$0R$5R$1ÄÄÄ Ä"Ä$ÄÄ#Ä”#$%&'WNS.base[NS.relativeÄ ÄÄ_%http://www.google-analytics.com/ga.js“*+,-Z$classnameX$classesUNSURL¢./UNSURLXNSObject#AπﬁTñ£˙¬»”345BOWNS.keysZNS.objects¨6789:;<=>?@AÄ	Ä
+ÄÄÄÄÄÄÄÄÄÄ¨CDEFGHIJKLMNÄÄÄÄÄÄÄÄÄÄÄÄ Ä!\Content-TypeSAge_Content-EncodingVServer_Alternate-ProtocolWExpires]Cache-ControlTDate^Content-Length_X-Content-Type-OptionsTVary]Last-Modified_text/javascriptT6396TgzipVGolfe2^80:quic,p=0.01_Fri, 03 Oct 2014 04:04:09 GMT_public, max-age=7200_Fri, 03 Oct 2014 02:04:09 GMTU16062Wnosniff_Accept-Encoding_Thu, 25 Sep 2014 19:52:57 GMT“*+ij\NSDictionary¢i/ˇˇˇˇˇˇˇˇ_text/javascript“*+no_NSHTTPURLResponse£pq/_NSHTTPURLResponse]NSURLResponse_NSKeyedArchiver—tu_WebResourceResponseÄ    # - 2 7 _ e Ä É á ä ç ê î ó û ° § ß ™ ≠ Ø ± ≥ µ ∑ π ª Ω ø ¡ √ ≈ Ã ‘ ‡ ‚ ‰ Ê'-06?HJQYdqsuwy{}ÅÉÖáâñòöúû†¢§¶®™¨Æ∞Ω¡‘€¯38FX]bixòØœ’›Ô!$-?DX\p~êì©             v              ´OüÕ(function(){var aa=encodeURIComponent,ba=Infinity,ca=setTimeout,da=isNaN,m=Math,ea=decodeURIComponent;function Ie(a,b){return a.onload=b}function Je(a,b){return a.onerror=b}function ha(a,b){return a.name=b}
+var p="replace",la="floor",ma="charAt",oa="match",pa="port",qa="createElement",g="getTime",u="host",v="toString",y="split",ta="stopPropagation",z="location",va="search",A="protocol",xa="href",ya="apply",n="push",ia="test",ja="slice",ka="load",na="value",q="indexOf",ra="path",r="name",w="length",x="prototype",sa="clientWidth",ua="scope",wa="clientHeight",B="substring",za="navigator",C="join",D="toLowerCase",E;function Aa(a,b){switch(b){case 0:return""+a;case 1:return 1*a;case 2:return!!a;case 3:return 1E3*a}return a}function Ba(a){return"function"==typeof a}function Ca(a){return void 0!=a&&-1<(a.constructor+"")[q]("String")}function F(a,b){return void 0==a||"-"==a&&!b||""==a}function Da(a){if(!a||""==a)return"";for(;a&&-1<" \n\r\t"[q](a[ma](0));)a=a[B](1);for(;a&&-1<" \n\r\t"[q](a[ma](a[w]-1));)a=a[B](0,a[w]-1);return a}function Ea(){return m.round(2147483647*m.random())}function Fa(){}
+function G(a,b){if(aa instanceof Function)return b?encodeURI(a):aa(a);H(68);return escape(a)}function I(a){a=a[y]("+")[C](" ");if(ea instanceof Function)try{return ea(a)}catch(b){H(17)}else H(68);return unescape(a)}var Ga=function(a,b,c,d){a.addEventListener?a.addEventListener(b,c,!!d):a.attachEvent&&a.attachEvent("on"+b,c)},Ha=function(a,b,c,d){a.removeEventListener?a.removeEventListener(b,c,!!d):a.detachEvent&&a.detachEvent("on"+b,c)};
+function Ia(a,b){if(a){var c=J[qa]("script");c.type="text/javascript";c.async=!0;c.src=a;c.id=b;var d=J.getElementsByTagName("script")[0];d.parentNode.insertBefore(c,d);return c}}function K(a){return a&&0<a[w]?a[0]:""}function L(a){var b=a?a[w]:0;return 0<b?a[b-1]:""}var Ja=function(){this.prefix="ga.";this.R={}};Ja[x].set=function(a,b){this.R[this.prefix+a]=b};Ja[x].get=function(a){return this.R[this.prefix+a]};Ja[x].contains=function(a){return void 0!==this.get(a)};function Ka(a){0==a[q]("www.")&&(a=a[B](4));return a[D]()}function La(a,b){var c,d={url:a,protocol:"http",host:"",path:"",d:new Ja,anchor:""};if(!a)return d;c=a[q]("://");0<=c&&(d.protocol=a[B](0,c),a=a[B](c+3));c=a[va]("/|\\?|#");if(0<=c)d.host=a[B](0,c)[D](),a=a[B](c);else return d.host=a[D](),d;c=a[q]("#");0<=c&&(d.anchor=a[B](c+1),a=a[B](0,c));c=a[q]("?");0<=c&&(Na(d.d,a[B](c+1)),a=a[B](0,c));d.anchor&&b&&Na(d.d,d.anchor);a&&"/"==a[ma](0)&&(a=a[B](1));d.path=a;return d}
+function Oa(a,b){function c(a){var b=(a.hostname||"")[y](":")[0][D](),c=(a[A]||"")[D](),c=1*a[pa]||("http:"==c?80:"https:"==c?443:"");a=a.pathname||"";0==a[q]("/")||(a="/"+a);return[b,""+c,a]}var d=b||J[qa]("a");d.href=J[z][xa];var e=(d[A]||"")[D](),f=c(d),Be=d[va]||"",k=e+"//"+f[0]+(f[1]?":"+f[1]:"");0==a[q]("//")?a=e+a:0==a[q]("/")?a=k+a:a&&0!=a[q]("?")?0>a[y]("/")[0][q](":")&&(a=k+f[2][B](0,f[2].lastIndexOf("/"))+"/"+a):a=k+f[2]+(a||Be);d.href=a;e=c(d);return{protocol:(d[A]||"")[D](),host:e[0],
+port:e[1],path:e[2],Oa:d[va]||"",url:a||""}}function Na(a,b){function c(b,c){a.contains(b)||a.set(b,[]);a.get(b)[n](c)}for(var d=Da(b)[y]("&"),e=0;e<d[w];e++)if(d[e]){var f=d[e][q]("=");0>f?c(d[e],"1"):c(d[e][B](0,f),d[e][B](f+1))}}function Pa(a,b){if(F(a)||"["==a[ma](0)&&"]"==a[ma](a[w]-1))return"-";var c=J.domain;return a[q](c+(b&&"/"!=b?b:""))==(0==a[q]("http://")?7:0==a[q]("https://")?8:0)?"0":a};var Qa=0;function Ra(a,b,c){1<=Qa||1<=100*m.random()||ld()||(a=["utmt=error","utmerr="+a,"utmwv=5.5.9","utmn="+Ea(),"utmsp=1"],b&&a[n]("api="+b),c&&a[n]("msg="+G(c[B](0,100))),M.w&&a[n]("aip=1"),Sa(a[C]("&")),Qa++)};var Ta=0,Ua={};function N(a){return Va("x"+Ta++,a)}function Va(a,b){Ua[a]=!!b;return a}
+var Wa=N(),Xa=Va("anonymizeIp"),Ya=N(),$a=N(),ab=N(),bb=N(),O=N(),P=N(),cb=N(),db=N(),eb=N(),fb=N(),gb=N(),hb=N(),ib=N(),jb=N(),kb=N(),lb=N(),nb=N(),ob=N(),pb=N(),qb=N(),rb=N(),sb=N(),tb=N(),ub=N(),vb=N(),wb=N(),xb=N(),yb=N(),zb=N(),Ab=N(),Bb=N(),Cb=N(),Db=N(),Eb=N(),Fb=N(!0),Gb=Va("currencyCode"),Hb=Va("page"),Ib=Va("title"),Jb=N(),Kb=N(),Lb=N(),Mb=N(),Nb=N(),Ob=N(),Pb=N(),Qb=N(),Rb=N(),Q=N(!0),Sb=N(!0),Tb=N(!0),Ub=N(!0),Vb=N(!0),Wb=N(!0),Zb=N(!0),$b=N(!0),ac=N(!0),bc=N(!0),cc=N(!0),R=N(!0),dc=N(!0),
+ec=N(!0),fc=N(!0),gc=N(!0),hc=N(!0),ic=N(!0),jc=N(!0),S=N(!0),kc=N(!0),lc=N(!0),mc=N(!0),nc=N(!0),oc=N(!0),pc=N(!0),qc=N(!0),rc=Va("campaignParams"),sc=N(),tc=Va("hitCallback"),uc=N();N();var vc=N(),wc=N(),xc=N(),yc=N(),zc=N(),Ac=N(),Bc=N(),Cc=N(),Dc=N(),Ec=N(),Fc=N(),Gc=N(),Hc=N(),Ic=N();N();var Mc=N(),Nc=N(),Yb=N(),Jc=N(),Kc=N(),Lc=Va("utmtCookieName"),Cd=Va("displayFeatures"),Oc=N(),of=Va("gtmid"),Oe=Va("uaName"),Pe=Va("uaDomain"),Qe=Va("uaPath");var Re=function(){function a(a,c,d){T($[x],a,c,d)}a("_createTracker",$[x].r,55);a("_getTracker",$[x].oa,0);a("_getTrackerByName",$[x].u,51);a("_getTrackers",$[x].pa,130);a("_anonymizeIp",$[x].aa,16);a("_forceSSL",$[x].la,125);a("_getPlugin",Pc,120)},Se=function(){function a(a,c,d){T(U[x],a,c,d)}Qc("_getName",$a,58);Qc("_getAccount",Wa,64);Qc("_visitCode",Q,54);Qc("_getClientInfo",ib,53,1);Qc("_getDetectTitle",lb,56,1);Qc("_getDetectFlash",jb,65,1);Qc("_getLocalGifPath",wb,57);Qc("_getServiceMode",
+xb,59);V("_setClientInfo",ib,66,2);V("_setAccount",Wa,3);V("_setNamespace",Ya,48);V("_setAllowLinker",fb,11,2);V("_setDetectFlash",jb,61,2);V("_setDetectTitle",lb,62,2);V("_setLocalGifPath",wb,46,0);V("_setLocalServerMode",xb,92,void 0,0);V("_setRemoteServerMode",xb,63,void 0,1);V("_setLocalRemoteServerMode",xb,47,void 0,2);V("_setSampleRate",vb,45,1);V("_setCampaignTrack",kb,36,2);V("_setAllowAnchor",gb,7,2);V("_setCampNameKey",ob,41);V("_setCampContentKey",tb,38);V("_setCampIdKey",nb,39);V("_setCampMediumKey",
+rb,40);V("_setCampNOKey",ub,42);V("_setCampSourceKey",qb,43);V("_setCampTermKey",sb,44);V("_setCampCIdKey",pb,37);V("_setCookiePath",P,9,0);V("_setMaxCustomVariables",yb,0,1);V("_setVisitorCookieTimeout",cb,28,1);V("_setSessionCookieTimeout",db,26,1);V("_setCampaignCookieTimeout",eb,29,1);V("_setReferrerOverride",Jb,49);V("_setSiteSpeedSampleRate",Dc,132);a("_trackPageview",U[x].Fa,1);a("_trackEvent",U[x].F,4);a("_trackPageLoadTime",U[x].Ea,100);a("_trackSocial",U[x].Ga,104);a("_trackTrans",U[x].Ia,
+18);a("_sendXEvent",U[x].t,78);a("_createEventTracker",U[x].ia,74);a("_getVersion",U[x].qa,60);a("_setDomainName",U[x].B,6);a("_setAllowHash",U[x].va,8);a("_getLinkerUrl",U[x].na,52);a("_link",U[x].link,101);a("_linkByPost",U[x].ua,102);a("_setTrans",U[x].za,20);a("_addTrans",U[x].$,21);a("_addItem",U[x].Y,19);a("_clearTrans",U[x].ea,105);a("_setTransactionDelim",U[x].Aa,82);a("_setCustomVar",U[x].wa,10);a("_deleteCustomVar",U[x].ka,35);a("_getVisitorCustomVar",U[x].ra,50);a("_setXKey",U[x].Ca,83);
+a("_setXValue",U[x].Da,84);a("_getXKey",U[x].sa,76);a("_getXValue",U[x].ta,77);a("_clearXKey",U[x].fa,72);a("_clearXValue",U[x].ga,73);a("_createXObj",U[x].ja,75);a("_addIgnoredOrganic",U[x].W,15);a("_clearIgnoredOrganic",U[x].ba,97);a("_addIgnoredRef",U[x].X,31);a("_clearIgnoredRef",U[x].ca,32);a("_addOrganic",U[x].Z,14);a("_clearOrganic",U[x].da,70);a("_cookiePathCopy",U[x].ha,30);a("_get",U[x].ma,106);a("_set",U[x].xa,107);a("_addEventListener",U[x].addEventListener,108);a("_removeEventListener",
+U[x].removeEventListener,109);a("_addDevId",U[x].V);a("_getPlugin",Pc,122);a("_setPageGroup",U[x].ya,126);a("_trackTiming",U[x].Ha,124);a("_initData",U[x].v,2);a("_setVar",U[x].Ba,22);V("_setSessionTimeout",db,27,3);V("_setCookieTimeout",eb,25,3);V("_setCookiePersistence",cb,24,1);a("_setAutoTrackOutbound",Fa,79);a("_setTrackOutboundSubdomains",Fa,81);a("_setHrefExamineLimit",Fa,80)};function Pc(a){var b=this.plugins_;if(b)return b.get(a)}
+var T=function(a,b,c,d){a[b]=function(){try{return void 0!=d&&H(d),c[ya](this,arguments)}catch(a){throw Ra("exc",b,a&&a[r]),a;}}},Qc=function(a,b,c,d){U[x][a]=function(){try{return H(c),Aa(this.a.get(b),d)}catch(e){throw Ra("exc",a,e&&e[r]),e;}}},V=function(a,b,c,d,e){U[x][a]=function(f){try{H(c),void 0==e?this.a.set(b,Aa(f,d)):this.a.set(b,e)}catch(Be){throw Ra("exc",a,Be&&Be[r]),Be;}}},Te=function(a,b){return{type:b,target:a,stopPropagation:function(){throw"aborted";}}};var Rc=new RegExp(/(^|\.)doubleclick\.net$/i),Sc=function(a,b){return Rc[ia](J[z].hostname)?!0:"/"!==b?!1:0!=a[q]("www.google.")&&0!=a[q](".google.")&&0!=a[q]("google.")||-1<a[q]("google.org")?!1:!0},Tc=function(a){var b=a.get(bb),c=a.c(P,"/");Sc(b,c)&&a[ta]()};var Zc=function(){var a={},b={},c=new Uc;this.g=function(a,b){c.add(a,b)};var d=new Uc;this.e=function(a,b){d.add(a,b)};var e=!1,f=!1,Be=!0;this.T=function(){e=!0};this.j=function(a){this[ka]();this.set(sc,a,!0);a=new Vc(this);e=!1;d.cb(this);e=!0;b={};this.n();a.Ja()};this.load=function(){e&&(e=!1,this.Ka(),Wc(this),f||(f=!0,c.cb(this),Xc(this),Wc(this)),e=!0)};this.n=function(){if(e)if(f)e=!1,Xc(this),e=!0;else this[ka]()};this.get=function(c){Ua[c]&&this[ka]();return void 0!==b[c]?b[c]:a[c]};this.set=
+function(c,d,e){Ua[c]&&this[ka]();e?b[c]=d:a[c]=d;Ua[c]&&this.n()};this.Za=function(b){a[b]=this.b(b,0)+1};this.b=function(a,b){var c=this.get(a);return void 0==c||""===c?b:1*c};this.c=function(a,b){var c=this.get(a);return void 0==c?b:c+""};this.Ka=function(){if(Be){var b=this.c(bb,""),c=this.c(P,"/");Sc(b,c)||(a[O]=a[hb]&&""!=b?Yc(b):1,Be=!1)}}};Zc[x].stopPropagation=function(){throw"aborted";};
+var Vc=function(a){var b=this;this.q=0;var c=a.get(tc);this.Ua=function(){0<b.q&&c&&(b.q--,b.q||c())};this.Ja=function(){!b.q&&c&&ca(c,10)};a.set(uc,b,!0)};function $c(a,b){b=b||[];for(var c=0;c<b[w];c++){var d=b[c];if(""+a==d||0==d[q](a+"."))return d}return"-"}
+var bd=function(a,b,c){c=c?"":a.c(O,"1");b=b[y](".");if(6!==b[w]||ad(b[0],c))return!1;c=1*b[1];var d=1*b[2],e=1*b[3],f=1*b[4];b=1*b[5];if(!(0<=c&&0<d&&0<e&&0<f&&0<=b))return!1;a.set(Q,c);a.set(Vb,d);a.set(Wb,e);a.set(Zb,f);a.set($b,b);return!0},cd=function(a){var b=a.get(Q),c=a.get(Vb),d=a.get(Wb),e=a.get(Zb),f=a.b($b,1);return[a.b(O,1),void 0!=b?b:"-",c||"-",d||"-",e||"-",f][C](".")},dd=function(a){return[a.b(O,1),a.b(cc,0),a.b(R,1),a.b(dc,0)][C](".")},ed=function(a,b,c){c=c?"":a.c(O,"1");var d=
+b[y](".");if(4!==d[w]||ad(d[0],c))d=null;a.set(cc,d?1*d[1]:0);a.set(R,d?1*d[2]:10);a.set(dc,d?1*d[3]:a.get(ab));return null!=d||!ad(b,c)},fd=function(a,b){var c=G(a.c(Tb,"")),d=[],e=a.get(Fb);if(!b&&e){for(var f=0;f<e[w];f++){var Be=e[f];Be&&1==Be[ua]&&d[n](f+"="+G(Be[r])+"="+G(Be[na])+"=1")}0<d[w]&&(c+="|"+d[C]("^"))}return c?a.b(O,1)+"."+c:null},gd=function(a,b,c){c=c?"":a.c(O,"1");b=b[y](".");if(2>b[w]||ad(b[0],c))return!1;b=b[ja](1)[C](".")[y]("|");0<b[w]&&a.set(Tb,I(b[0]));if(1>=b[w])return!0;
+b=b[1][y](-1==b[1][q](",")?"^":",");for(c=0;c<b[w];c++){var d=b[c][y]("=");if(4==d[w]){var e={};ha(e,I(d[1]));e.value=I(d[2]);e.scope=1;a.get(Fb)[d[0]]=e}}return!0},hd=function(a,b){var c=Ue(a,b);return c?[a.b(O,1),a.b(ec,0),a.b(fc,1),a.b(gc,1),c][C]("."):""},Ue=function(a){function b(b,e){if(!F(a.get(b))){var f=a.c(b,""),f=f[y](" ")[C]("%20"),f=f[y]("+")[C]("%20");c[n](e+"="+f)}}var c=[];b(ic,"utmcid");b(nc,"utmcsr");b(S,"utmgclid");b(kc,"utmgclsrc");b(lc,"utmdclid");b(mc,"utmdsid");b(jc,"utmccn");
+b(oc,"utmcmd");b(pc,"utmctr");b(qc,"utmcct");return c[C]("|")},id=function(a,b,c){c=c?"":a.c(O,"1");b=b[y](".");if(5>b[w]||ad(b[0],c))return a.set(ec,void 0),a.set(fc,void 0),a.set(gc,void 0),a.set(ic,void 0),a.set(jc,void 0),a.set(nc,void 0),a.set(oc,void 0),a.set(pc,void 0),a.set(qc,void 0),a.set(S,void 0),a.set(kc,void 0),a.set(lc,void 0),a.set(mc,void 0),!1;a.set(ec,1*b[1]);a.set(fc,1*b[2]);a.set(gc,1*b[3]);Ve(a,b[ja](4)[C]("."));return!0},Ve=function(a,b){function c(a){return(a=b[oa](a+"=(.*?)(?:\\|utm|$)"))&&
+2==a[w]?a[1]:void 0}function d(b,c){c?(c=e?I(c):c[y]("%20")[C](" "),a.set(b,c)):a.set(b,void 0)}-1==b[q]("=")&&(b=I(b));var e="2"==c("utmcvr");d(ic,c("utmcid"));d(jc,c("utmccn"));d(nc,c("utmcsr"));d(oc,c("utmcmd"));d(pc,c("utmctr"));d(qc,c("utmcct"));d(S,c("utmgclid"));d(kc,c("utmgclsrc"));d(lc,c("utmdclid"));d(mc,c("utmdsid"))},ad=function(a,b){return b?a!=b:!/^\d+$/[ia](a)};var Uc=function(){this.filters=[]};Uc[x].add=function(a,b){this.filters[n]({name:a,s:b})};Uc[x].cb=function(a){try{for(var b=0;b<this.filters[w];b++)this.filters[b].s.call(W,a)}catch(c){}};function jd(a){100!=a.get(vb)&&a.get(Q)%1E4>=100*a.get(vb)&&a[ta]()}function kd(a){ld(a.get(Wa))&&a[ta]()}function md(a){"file:"==J[z][A]&&a[ta]()}function Ge(a){He()&&a[ta]()}function nd(a){a.get(Ib)||a.set(Ib,J.title,!0);a.get(Hb)||a.set(Hb,J[z].pathname+J[z][va],!0)}
+function lf(a){a.get(Wa)&&"UA-XXXXX-X"!=a.get(Wa)||a[ta]()};var od=new function(){var a=[];this.set=function(b){a[b]=!0};this.Xa=function(){for(var b=[],c=0;c<a[w];c++)a[c]&&(b[m[la](c/6)]=b[m[la](c/6)]^1<<c%6);for(c=0;c<b[w];c++)b[c]="ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789-_"[ma](b[c]||0);return b[C]("")+"~"}};function H(a){od.set(a)};var W=window,J=document,ld=function(a){var b=W._gaUserPrefs;if(b&&b.ioo&&b.ioo()||a&&!0===W["ga-disable-"+a])return!0;try{var c=W.external;if(c&&c._gaUserPrefs&&"oo"==c._gaUserPrefs)return!0}catch(d){}return!1},He=function(){return W[za]&&"preview"==W[za].loadPurpose},We=function(a,b){ca(a,b)},pd=function(a){var b=[],c=J.cookie[y](";");a=new RegExp("^\\s*"+a+"=\\s*(.*?)\\s*$");for(var d=0;d<c[w];d++){var e=c[d][oa](a);e&&b[n](e[1])}return b},X=function(a,b,c,d,e,f){e=ld(e)?!1:Sc(d,c)?!1:He()?!1:!0;
+e&&((b=mf(b))&&2E3<b[w]&&(b=b[B](0,2E3),H(69)),a=a+"="+b+"; path="+c+"; ",f&&(a+="expires="+(new Date((new Date)[g]()+f)).toGMTString()+"; "),d&&(a+="domain="+d+";"),J.cookie=a)},mf=function(a){if(!a)return a;var b=a[q](";");-1!=b&&(a=a[B](0,b),H(141));if(!(0<=W[za].userAgent[q]("Firefox")))return a;a=a[p](/\n|\r/g," ");for(var b=0,c=a[w];b<c;++b){var d=a.charCodeAt(b)&255;if(10==d||13==d)a=a[B](0,b)+"?"+a[B](b+1)}return a};var qd,rd,sd=function(){if(!qd){var a={},b=W[za],c=W.screen;a.Q=c?c.width+"x"+c.height:"-";a.P=c?c.colorDepth+"-bit":"-";a.language=(b&&(b.language||b.browserLanguage)||"-")[D]();a.javaEnabled=b&&b.javaEnabled()?1:0;a.characterSet=J.characterSet||J.charset||"-";try{var d;var e=J.documentElement,f=J.body,Be=f&&f[sa]&&f[wa],b=[];e&&e[sa]&&e[wa]&&("CSS1Compat"===J.compatMode||!Be)?b=[e[sa],e[wa]]:Be&&(b=[f[sa],f[wa]]);d=0>=b[0]||0>=b[1]?"":b[C]("x");a.Wa=d}catch(k){H(135)}qd=a}},td=function(){sd();for(var a=
+qd,b=W[za],a=b.appName+b.version+a.language+b.platform+b.userAgent+a.javaEnabled+a.Q+a.P+(J.cookie?J.cookie:"")+(J.referrer?J.referrer:""),b=a[w],c=W.history[w];0<c;)a+=c--^b++;return Yc(a)},ud=function(a){sd();var b=qd;a.set(Lb,b.Q);a.set(Mb,b.P);a.set(Pb,b.language);a.set(Qb,b.characterSet);a.set(Nb,b.javaEnabled);a.set(Rb,b.Wa);if(a.get(ib)&&a.get(jb)){if(!(b=rd)){var c,d,e;d="ShockwaveFlash";if((b=(b=W[za])?b.plugins:void 0)&&0<b[w])for(c=0;c<b[w]&&!e;c++)d=b[c],-1<d[r][q]("Shockwave Flash")&&
+(e=d.description[y]("Shockwave Flash ")[1]);else{d=d+"."+d;try{c=new ActiveXObject(d+".7"),e=c.GetVariable("$version")}catch(f){}if(!e)try{c=new ActiveXObject(d+".6"),e="WIN 6,0,21,0",c.AllowScriptAccess="always",e=c.GetVariable("$version")}catch(Be){}if(!e)try{c=new ActiveXObject(d),e=c.GetVariable("$version")}catch(k){}e&&(e=e[y](" ")[1][y](","),e=e[0]+"."+e[1]+" r"+e[2])}b=e?e:"-"}rd=b;a.set(Ob,rd)}else a.set(Ob,"-")};var vd=function(a){if(Ba(a))this.s=a;else{var b=a[0],c=b.lastIndexOf(":"),d=b.lastIndexOf(".");this.h=this.i=this.l="";-1==c&&-1==d?this.h=b:-1==c&&-1!=d?(this.i=b[B](0,d),this.h=b[B](d+1)):-1!=c&&-1==d?(this.l=b[B](0,c),this.h=b[B](c+1)):c>d?(this.i=b[B](0,d),this.l=b[B](d+1,c),this.h=b[B](c+1)):(this.i=b[B](0,d),this.h=b[B](d+1));this.k=a[ja](1);this.Ma=!this.l&&"_require"==this.h;this.J=!this.i&&!this.l&&"_provide"==this.h}},Y=function(){T(Y[x],"push",Y[x][n],5);T(Y[x],"_getPlugin",Pc,121);T(Y[x],
+"_createAsyncTracker",Y[x].Sa,33);T(Y[x],"_getAsyncTracker",Y[x].Ta,34);this.I=new Ja;this.p=[]};E=Y[x];E.Na=function(a,b,c){var d=this.I.get(a);if(!Ba(d))return!1;b.plugins_=b.plugins_||new Ja;b.plugins_.set(a,new d(b,c||{}));return!0};E.push=function(a){var b=Z.Va[ya](this,arguments),b=Z.p.concat(b);for(Z.p=[];0<b[w]&&!Z.O(b[0])&&!(b.shift(),0<Z.p[w]););Z.p=Z.p.concat(b);return 0};E.Va=function(a){for(var b=[],c=0;c<arguments[w];c++)try{var d=new vd(arguments[c]);d.J?this.O(d):b[n](d)}catch(e){}return b};
+E.O=function(a){try{if(a.s)a.s[ya](W);else if(a.J)this.I.set(a.k[0],a.k[1]);else{var b="_gat"==a.i?M:"_gaq"==a.i?Z:M.u(a.i);if(a.Ma){if(!this.Na(a.k[0],b,a.k[2])){if(!a.Pa){var c=Oa(""+a.k[1]);var d=c[A],e=J[z][A];var f;if(f="https:"==d||d==e?!0:"http:"!=d?!1:"http:"==e)t:{var Be=Oa(J[z][xa]);if(!(c.Oa||0<=c.url[q]("?")||0<=c[ra][q]("://")||c[u]==Be[u]&&c[pa]==Be[pa]))for(var k="http:"==c[A]?80:443,s=M.S,b=0;b<s[w];b++)if(c[u]==s[b][0]&&(c[pa]||k)==(s[b][1]||k)&&0==c[ra][q](s[b][2])){f=!0;break t}f=
+!1}f&&!ld()&&(a.Pa=Ia(c.url))}return!0}}else a.l&&(b=b.plugins_.get(a.l)),b[a.h][ya](b,a.k)}}catch(t){}};E.Sa=function(a,b){return M.r(a,b||"")};E.Ta=function(a){return M.u(a)};var yd=function(){function a(a,b,c,d){void 0==f[a]&&(f[a]={});void 0==f[a][b]&&(f[a][b]=[]);f[a][b][c]=d}function b(a,b,c){if(void 0!=f[a]&&void 0!=f[a][b])return f[a][b][c]}function c(a,b){if(void 0!=f[a]&&void 0!=f[a][b]){f[a][b]=void 0;var c=!0,d;for(d=0;d<Be[w];d++)if(void 0!=f[a][Be[d]]){c=!1;break}c&&(f[a]=void 0)}}function d(a){var b="",c=!1,d,e;for(d=0;d<Be[w];d++)if(e=a[Be[d]],void 0!=e){c&&(b+=Be[d]);for(var c=[],f=void 0,Bd=void 0,Bd=0;Bd<e[w];Bd++)if(void 0!=e[Bd]){f="";1!=Bd&&void 0==
+e[Bd-1]&&(f+=Bd[v]()+"!");for(var fa=e[Bd],Ke="",Le=void 0,Me=void 0,ga=void 0,Le=0;Le<fa[w];Le++)Me=fa[ma](Le),ga=k[Me],Ke+=void 0!=ga?ga:Me;f+=Ke;c[n](f)}b+="("+c[C]("*")+")";c=!1}else c=!0;return b}var e=this,f=[],Be=["k","v"],k={"'":"'0",")":"'1","*":"'2","!":"'3"};e.Ra=function(a){return void 0!=f[a]};e.A=function(){for(var a="",b=0;b<f[w];b++)void 0!=f[b]&&(a+=b[v]()+d(f[b]));return a};e.Qa=function(a){if(void 0==a)return e.A();for(var b=a.A(),c=0;c<f[w];c++)void 0==f[c]||a.Ra(c)||(b+=c[v]()+
+d(f[c]));return b};e.f=function(b,c,d){if(!wd(d))return!1;a(b,"k",c,d);return!0};e.o=function(b,c,d){if(!xd(d))return!1;a(b,"v",c,d[v]());return!0};e.getKey=function(a,c){return b(a,"k",c)};e.N=function(a,c){return b(a,"v",c)};e.L=function(a){c(a,"k")};e.M=function(a){c(a,"v")};T(e,"_setKey",e.f,89);T(e,"_setValue",e.o,90);T(e,"_getKey",e.getKey,87);T(e,"_getValue",e.N,88);T(e,"_clearKey",e.L,85);T(e,"_clearValue",e.M,86)};function wd(a){return"string"==typeof a}
+function xd(a){return!("number"==typeof a||void 0!=Number&&a instanceof Number)||m.round(a)!=a||da(a)||a==ba?!1:!0};var zd=function(a){var b=W.gaGlobal;a&&!b&&(W.gaGlobal=b={});return b},Ad=function(){var a=zd(!0).hid;null==a&&(a=Ea(),zd(!0).hid=a);return a},Dd=function(a){a.set(Kb,Ad());var b=zd();if(b&&b.dh==a.get(O)){var c=b.sid;c&&(a.get(ac)?H(112):H(132),a.set(Zb,c),a.get(Sb)&&a.set(Wb,c));b=b.vid;a.get(Sb)&&b&&(b=b[y]("."),a.set(Q,1*b[0]),a.set(Vb,1*b[1]))}};var Ed,Fd=function(a,b,c,d){var e=a.c(bb,""),f=a.c(P,"/");d=void 0!=d?d:a.b(cb,0);a=a.c(Wa,"");X(b,c,f,e,a,d)},Xc=function(a){var b=a.c(bb,"");a.b(O,1);var c=a.c(P,"/"),d=a.c(Wa,"");X("__utma",cd(a),c,b,d,a.get(cb));X("__utmb",dd(a),c,b,d,a.get(db));X("__utmc",""+a.b(O,1),c,b,d);var e=hd(a,!0);e?X("__utmz",e,c,b,d,a.get(eb)):X("__utmz","",c,b,"",-1);(e=fd(a,!1))?X("__utmv",e,c,b,d,a.get(cb)):X("__utmv","",c,b,"",-1)},Wc=function(a){var b=a.b(O,1);if(!bd(a,$c(b,pd("__utma"))))return a.set(Ub,!0),!1;
+var c=!ed(a,$c(b,pd("__utmb")));a.set(bc,c);id(a,$c(b,pd("__utmz")));gd(a,$c(b,pd("__utmv")));Ed=!c;return!0},Gd=function(a){Ed||0<pd("__utmb")[w]||(X("__utmd","1",a.c(P,"/"),a.c(bb,""),a.c(Wa,""),1E4),0==pd("__utmd")[w]&&a[ta]())};var h=0,Jd=function(a){void 0==a.get(Q)?Hd(a):a.get(Ub)&&!a.get(Mc)?Hd(a):a.get(bc)&&Id(a)},Kd=function(a){a.get(hc)&&!a.get(ac)&&(Id(a),a.set(fc,a.get($b)))},Hd=function(a){h++;1<h&&H(137);var b=a.get(ab);a.set(Sb,!0);a.set(Q,Ea()^td(a)&2147483647);a.set(Tb,"");a.set(Vb,b);a.set(Wb,b);a.set(Zb,b);a.set($b,1);a.set(ac,!0);a.set(cc,0);a.set(R,10);a.set(dc,b);a.set(Fb,[]);a.set(Ub,!1);a.set(bc,!1)},Id=function(a){h++;1<h&&H(137);a.set(Wb,a.get(Zb));a.set(Zb,a.get(ab));a.Za($b);a.set(ac,!0);a.set(cc,
+0);a.set(R,10);a.set(dc,a.get(ab));a.set(bc,!1)};var Ld="daum:q eniro:search_word naver:query pchome:q images.google:q google:q yahoo:p yahoo:q msn:q bing:q aol:query aol:q lycos:q lycos:query ask:q cnn:query virgilio:qs baidu:wd baidu:word alice:qs yandex:text najdi:q seznam:q rakuten:qt biglobe:q goo.ne:MT search.smt.docomo:MT onet:qt onet:q kvasir:q terra:query rambler:query conduit:q babylon:q search-results:q avg:q comcast:q incredimail:q startsiden:q go.mail.ru:q centrum.cz:q 360.cn:q sogou:query tut.by:query globo:q ukr:q so.com:q auone:q".split(" "),
+Sd=function(a){if(a.get(kb)&&!a.get(Mc)){var b;b=!F(a.get(ic))||!F(a.get(nc))||!F(a.get(S))||!F(a.get(lc));for(var c={},d=0;d<Md[w];d++){var e=Md[d];c[e]=a.get(e)}(d=a.get(rc))?(H(149),e=new Ja,Na(e,d),d=e):d=La(J[z][xa],a.get(gb)).d;if("1"!=L(d.get(a.get(ub)))||!b)if(d=Xe(a,d)||Qd(a),d||b||!a.get(ac)||(Pd(a,void 0,"(direct)",void 0,void 0,void 0,"(direct)","(none)",void 0,void 0),d=!0),d&&(a.set(hc,Rd(a,c)),b="(direct)"==a.get(nc)&&"(direct)"==a.get(jc)&&"(none)"==a.get(oc),a.get(hc)||a.get(ac)&&
+!b))a.set(ec,a.get(ab)),a.set(fc,a.get($b)),a.Za(gc)}},Xe=function(a,b){function c(c,d){d=d||"-";var e=L(b.get(a.get(c)));return e&&"-"!=e?I(e):d}var d=L(b.get(a.get(nb)))||"-",e=L(b.get(a.get(qb)))||"-",f=L(b.get(a.get(pb)))||"-",Be=L(b.get("gclsrc"))||"-",k=L(b.get("dclid"))||"-",s=c(ob,"(not set)"),t=c(rb,"(not set)"),Za=c(sb),Ma=c(tb);if(F(d)&&F(f)&&F(k)&&F(e))return!1;var mb=!F(f)&&!F(Be),mb=F(e)&&(!F(k)||mb),Xb=F(Za);if(mb||Xb){var Bd=Nd(a),Bd=La(Bd,!0);(Bd=Od(a,Bd))&&!F(Bd[1]&&!Bd[2])&&(mb&&
+(e=Bd[0]),Xb&&(Za=Bd[1]))}Pd(a,d,e,f,Be,k,s,t,Za,Ma);return!0},Qd=function(a){var b=Nd(a),c=La(b,!0);(b=!(void 0!=b&&null!=b&&""!=b&&"0"!=b&&"-"!=b&&0<=b[q]("://")))||(b=c&&-1<c[u][q]("google")&&c.d.contains("q")&&"cse"==c[ra]);if(b)return!1;if((b=Od(a,c))&&!b[2])return Pd(a,void 0,b[0],void 0,void 0,void 0,"(organic)","organic",b[1],void 0),!0;if(b||!a.get(ac))return!1;t:{for(var b=a.get(Bb),d=Ka(c[u]),e=0;e<b[w];++e)if(-1<d[q](b[e])){a=!1;break t}Pd(a,void 0,d,void 0,void 0,void 0,"(referral)",
+"referral",void 0,"/"+c[ra]);a=!0}return a},Od=function(a,b){for(var c=a.get(zb),d=0;d<c[w];++d){var e=c[d][y](":");if(-1<b[u][q](e[0][D]())){var f=b.d.get(e[1]);if(f&&(f=K(f),!f&&-1<b[u][q]("google.")&&(f="(not provided)"),!e[3]||-1<b.url[q](e[3]))){f||H(151);t:{for(var c=f,d=a.get(Ab),c=I(c)[D](),Be=0;Be<d[w];++Be)if(c==d[Be]){c=!0;break t}c=!1}return[e[2]||e[0],f,c]}}}return null},Pd=function(a,b,c,d,e,f,Be,k,s,t){a.set(ic,b);a.set(nc,c);a.set(S,d);a.set(kc,e);a.set(lc,f);a.set(jc,Be);a.set(oc,
+k);a.set(pc,s);a.set(qc,t)},Md=[jc,ic,S,lc,nc,oc,pc,qc],Rd=function(a,b){function c(a){a=(""+a)[y]("+")[C]("%20");return a=a[y](" ")[C]("%20")}function d(c){var d=""+(a.get(c)||"");c=""+(b[c]||"");return 0<d[w]&&d==c}if(d(S)||d(lc))return H(131),!1;for(var e=0;e<Md[w];e++){var f=Md[e],Be=b[f]||"-",f=a.get(f)||"-";if(c(Be)!=c(f))return!0}return!1},Td=new RegExp(/^https?:\/\/(www\.)?google(\.com?)?(\.[a-z]{2}t?)?\/?$/i),jf=/^https?:\/\/r\.search\.yahoo\.com\/[^?]*$/i,Nd=function(a){a=Pa(a.get(Jb),a.get(P));
+try{if(Td[ia](a))return H(136),a+"?q=";if(jf[ia](a))return H(150),a+"?p=(not provided)"}catch(b){H(145)}return a};var Ud,Vd,Wd=function(a){Ud=a.c(S,"");Vd=a.c(kc,"")},Xd=function(a){var b=a.c(S,""),c=a.c(kc,"");b!=Ud&&(-1<c[q]("ds")?a.set(mc,void 0):!F(Ud)&&-1<Vd[q]("ds")&&a.set(mc,Ud))};var Zd=function(a){Yd(a,J[z][xa])?(a.set(Mc,!0),H(12)):a.set(Mc,!1)},Yd=function(a,b){if(!a.get(fb))return!1;var c=La(b,a.get(gb)),d=K(c.d.get("__utma")),e=K(c.d.get("__utmb")),f=K(c.d.get("__utmc")),Be=K(c.d.get("__utmx")),k=K(c.d.get("__utmz")),s=K(c.d.get("__utmv")),c=K(c.d.get("__utmk"));if(Yc(""+d+e+f+Be+k+s)!=c){d=I(d);e=I(e);f=I(f);Be=I(Be);f=$d(d+e+f+Be,k,s,c);if(!f)return!1;k=f[0];s=f[1]}if(!bd(a,d,!0))return!1;ed(a,e,!0);id(a,k,!0);gd(a,s,!0);ae(a,Be,!0);return!0},ce=function(a,b,c){var d;
+d=cd(a)||"-";var e=dd(a)||"-",f=""+a.b(O,1)||"-",Be=be(a)||"-",k=hd(a,!1)||"-";a=fd(a,!1)||"-";var s=Yc(""+d+e+f+Be+k+a),t=[];t[n]("__utma="+d);t[n]("__utmb="+e);t[n]("__utmc="+f);t[n]("__utmx="+Be);t[n]("__utmz="+k);t[n]("__utmv="+a);t[n]("__utmk="+s);d=t[C]("&");if(!d)return b;e=b[q]("#");if(c)return 0>e?b+"#"+d:b+"&"+d;c="";f=b[q]("?");0<e&&(c=b[B](e),b=b[B](0,e));return 0>f?b+"?"+d+c:b+"&"+d+c},$d=function(a,b,c,d){for(var e=0;3>e;e++){for(var f=0;3>f;f++){if(d==Yc(a+b+c))return H(127),[b,c];
+var Be=b[p](/ /g,"%20"),k=c[p](/ /g,"%20");if(d==Yc(a+Be+k))return H(128),[Be,k];Be=Be[p](/\+/g,"%20");k=k[p](/\+/g,"%20");if(d==Yc(a+Be+k))return H(129),[Be,k];try{var s=b[oa]("utmctr=(.*?)(?:\\|utm|$)");if(s&&2==s[w]&&(Be=b[p](s[1],G(I(s[1]))),d==Yc(a+Be+c)))return H(139),[Be,c]}catch(t){}b=I(b)}c=I(c)}};var de="|",fe=function(a,b,c,d,e,f,Be,k,s){var t=ee(a,b);t||(t={},a.get(Cb)[n](t));t.id_=b;t.affiliation_=c;t.total_=d;t.tax_=e;t.shipping_=f;t.city_=Be;t.state_=k;t.country_=s;t.items_=t.items_||[];return t},ge=function(a,b,c,d,e,f,Be){a=ee(a,b)||fe(a,b,"",0,0,0,"","","");var k;t:{if(a&&a.items_){k=a.items_;for(var s=0;s<k[w];s++)if(k[s].sku_==c){k=k[s];break t}}k=null}s=k||{};s.transId_=b;s.sku_=c;s.name_=d;s.category_=e;s.price_=f;s.quantity_=Be;k||a.items_[n](s);return s},ee=function(a,b){for(var c=
+a.get(Cb),d=0;d<c[w];d++)if(c[d].id_==b)return c[d];return null};var he,ie=function(a){if(!he){var b;b=J[z].hash;var c=W[r],d=/^#?gaso=([^&]*)/;if(c=(b=(b=b&&b[oa](d)||c&&c[oa](d))?b[1]:K(pd("GASO")))&&b[oa](/^(?:!([-0-9a-z.]{1,40})!)?([-.\w]{10,1200})$/i))Fd(a,"GASO",""+b,0),M._gasoDomain=a.get(bb),M._gasoCPath=a.get(P),a=c[1],Ia("https://www.google.com/analytics/web/inpage/pub/inpage.js?"+(a?"prefix="+a+"&":"")+Ea(),"_gasojs");he=!0}};var ae=function(a,b,c){c&&(b=I(b));c=a.b(O,1);b=b[y](".");2>b[w]||!/^\d+$/[ia](b[0])||(b[0]=""+c,Fd(a,"__utmx",b[C]("."),void 0))},be=function(a,b){var c=$c(a.get(O),pd("__utmx"));"-"==c&&(c="");return b?G(c):c},Ye=function(a){try{var b=La(J[z][xa],!1),c=ea(L(b.d.get("utm_referrer")))||"";c&&a.set(Jb,c);var d=ea(K(b.d.get("utm_expid")))||"";d&&(d=d[y](".")[0],a.set(Oc,""+d))}catch(e){H(146)}},l=function(a){var b=W.gaData&&W.gaData.expId;b&&a.set(Oc,""+b)};var ke=function(a,b){var c=m.min(a.b(Dc,0),100);if(a.b(Q,0)%100>=c)return!1;c=Ze()||$e();if(void 0==c)return!1;var d=c[0];if(void 0==d||d==ba||da(d))return!1;0<d?af(c)?b(je(c)):b(je(c[ja](0,1))):Ga(W,"load",function(){ke(a,b)},!1);return!0},me=function(a,b,c,d){var e=new yd;e.f(14,90,b[B](0,500));e.f(14,91,a[B](0,150));e.f(14,92,""+le(c));void 0!=d&&e.f(14,93,d[B](0,500));e.o(14,90,c);return e},af=function(a){for(var b=1;b<a[w];b++)if(da(a[b])||a[b]==ba||0>a[b])return!1;return!0},le=function(a){return da(a)||
+0>a?0:5E3>a?10*m[la](a/10):5E4>a?100*m[la](a/100):41E5>a?1E3*m[la](a/1E3):41E5},je=function(a){for(var b=new yd,c=0;c<a[w];c++)b.f(14,c+1,""+le(a[c])),b.o(14,c+1,a[c]);return b},Ze=function(){var a=W.performance||W.webkitPerformance;if(a=a&&a.timing){var b=a.navigationStart;if(0==b)H(133);else return[a.loadEventStart-b,a.domainLookupEnd-a.domainLookupStart,a.connectEnd-a.connectStart,a.responseStart-a.requestStart,a.responseEnd-a.responseStart,a.fetchStart-b,a.domInteractive-b,a.domContentLoadedEventStart-
+b]}},$e=function(){if(W.top==W){var a=W.external,b=a&&a.onloadT;a&&!a.isValidLoadTime&&(b=void 0);2147483648<b&&(b=void 0);0<b&&a.setPageReadyTime();return void 0==b?void 0:[b]}};var cf=function(a){if(a.get(Sb))try{var b;t:{var c=pd(a.get(Oe)||"_ga");if(c&&!(1>c[w])){for(var d=[],e=0;e<c[w];e++){var f;var Be=c[e][y]("."),k=Be.shift();if(("GA1"==k||"1"==k)&&1<Be[w]){var s=Be.shift()[y]("-");1==s[w]&&(s[1]="1");s[0]*=1;s[1]*=1;f={Ya:s,$a:Be[C](".")}}else f=void 0;f&&d[n](f)}if(1==d[w]){b=d[0].$a;break t}if(0!=d[w]){var t=a.get(Pe)||a.get(bb),d=bf(d,(0==t[q](".")?t.substr(1):t)[y](".")[w],0);if(1==d[w]){b=d[0].$a;break t}var Za=a.get(Qe)||a.get(P);(c=Za)?(1<c[w]&&"/"==c[ma](c[w]-
+1)&&(c=c.substr(0,c[w]-1)),0!=c[q]("/")&&(c="/"+c),Za=c):Za="/";d=bf(d,"/"==Za?1:Za[y]("/")[w],1);b=d[0].$a;break t}}b=void 0}if(b){var Ma=(""+b)[y](".");2==Ma[w]&&/[0-9.]/[ia](Ma)&&(H(114),a.set(Q,Ma[0]),a.set(Vb,Ma[1]),a.set(Sb,!1))}}catch(mb){H(115)}},bf=function(a,b,c){for(var d=[],e=[],f=128,Be=0;Be<a[w];Be++){var k=a[Be];if(k.Ya[c]==b)d[n](k);else if(k.Ya[c]==f)e[n](k);else k.Ya[c]<f&&(e=[k],f=k.Ya[c])}return 0<d[w]?d:e};var kf=/^gtm\d+$/,hf=function(a){var b;b="page"!=a.get(sc)?!1:(b=a.b(Cd,1))?0==a.b(Q,1)%b:!1;b&&(H(140),b=a.c(Lc,""),b||(b=(b=a.c($a,""))&&"~0"!=b?kf[ia](b)?"__utmt_"+G(a.c(Wa,"")):"__utmt_"+G(b):"__utmt"),0<pd(b)[w]?a.set(Kc,"",!0):(X(b,"1",a.c(P,"/"),a.c(bb,""),a.c(Wa,""),6E5),0<pd(b)[w]&&(a.set(Kc,Ea(),!0),a.set(Yb,1,!0),a.set(Jc,Ne()+"/r/__utm.gif?",!0))))};var U=function(a,b,c){function d(a){return function(b){if((b=b.get(Nc)[a])&&b[w])for(var c=Te(e,a),d=0;d<b[w];d++)b[d].call(e,c)}}var e=this;this.a=new Zc;this.get=function(a){return this.a.get(a)};this.set=function(a,b,c){this.a.set(a,b,c)};this.set(Wa,b||"UA-XXXXX-X");this.set($a,a||"");this.set(Ya,c||"");this.set(ab,m.round((new Date)[g]()/1E3));this.set(P,"/");this.set(cb,63072E6);this.set(eb,15768E6);this.set(db,18E5);this.set(fb,!1);this.set(yb,50);this.set(gb,!1);this.set(hb,!0);this.set(ib,
+!0);this.set(jb,!0);this.set(kb,!0);this.set(lb,!0);this.set(ob,"utm_campaign");this.set(nb,"utm_id");this.set(pb,"gclid");this.set(qb,"utm_source");this.set(rb,"utm_medium");this.set(sb,"utm_term");this.set(tb,"utm_content");this.set(ub,"utm_nooverride");this.set(vb,100);this.set(Dc,1);this.set(Ec,!1);this.set(wb,"/__utm.gif");this.set(xb,1);this.set(Cb,[]);this.set(Fb,[]);this.set(zb,Ld[ja](0));this.set(Ab,[]);this.set(Bb,[]);this.B("auto");this.set(Jb,J.referrer);Ye(this.a);this.set(Nc,{hit:[],
+load:[]});this.a.g("0",Zd);this.a.g("1",Wd);this.a.g("2",Jd);this.a.g("3",cf);this.a.g("4",Sd);this.a.g("5",Xd);this.a.g("6",Kd);this.a.g("7",d("load"));this.a.g("8",ie);this.a.e("A",kd);this.a.e("B",md);this.a.e("C",Ge);this.a.e("D",Jd);this.a.e("E",jd);this.a.e("F",Tc);this.a.e("G",ne);this.a.e("H",lf);this.a.e("I",Gd);this.a.e("J",nd);this.a.e("K",ud);this.a.e("L",Dd);this.a.e("M",l);this.a.e("N",hf);this.a.e("O",d("hit"));this.a.e("P",oe);this.a.e("Q",pe);0===this.get(ab)&&H(111);this.a.T();this.H=
+void 0};E=U[x];E.m=function(){var a=this.get(Db);a||(a=new yd,this.set(Db,a));return a};E.La=function(a){for(var b in a){var c=a[b];a.hasOwnProperty(b)&&this.set(b,c,!0)}};E.K=function(a){if(this.get(Ec))return!1;var b=this,c=ke(this.a,function(c){b.set(Hb,a,!0);b.t(c)});this.set(Ec,c);return c};E.Fa=function(a){a&&Ca(a)?(H(13),this.set(Hb,a,!0)):"object"===typeof a&&null!==a&&this.La(a);this.H=a=this.get(Hb);this.a.j("page");this.K(a)};
+E.F=function(a,b,c,d,e){if(""==a||!wd(a)||""==b||!wd(b)||void 0!=c&&!wd(c)||void 0!=d&&!xd(d))return!1;this.set(wc,a,!0);this.set(xc,b,!0);this.set(yc,c,!0);this.set(zc,d,!0);this.set(vc,!!e,!0);this.a.j("event");return!0};E.Ha=function(a,b,c,d,e){var f=this.a.b(Dc,0);1*e===e&&(f=e);if(this.a.b(Q,0)%100>=f)return!1;c=1*(""+c);if(""==a||!wd(a)||""==b||!wd(b)||!xd(c)||da(c)||0>c||0>f||100<f||void 0!=d&&(""==d||!wd(d)))return!1;this.t(me(a,b,c,d));return!0};
+E.Ga=function(a,b,c,d){if(!a||!b)return!1;this.set(Ac,a,!0);this.set(Bc,b,!0);this.set(Cc,c||J[z][xa],!0);d&&this.set(Hb,d,!0);this.a.j("social");return!0};E.Ea=function(){this.set(Dc,10);this.K(this.H)};E.Ia=function(){this.a.j("trans")};E.t=function(a){this.set(Eb,a,!0);this.a.j("event")};E.ia=function(a){this.v();var b=this;return{_trackEvent:function(c,d,e){H(91);b.F(a,c,d,e)}}};E.ma=function(a){return this.get(a)};
+E.xa=function(a,b){if(a)if(Ca(a))this.set(a,b);else if("object"==typeof a)for(var c in a)a.hasOwnProperty(c)&&this.set(c,a[c])};E.addEventListener=function(a,b){var c=this.get(Nc)[a];c&&c[n](b)};E.removeEventListener=function(a,b){for(var c=this.get(Nc)[a],d=0;c&&d<c[w];d++)if(c[d]==b){c.splice(d,1);break}};E.qa=function(){return"5.5.9"};E.B=function(a){this.get(hb);a="auto"==a?Ka(J.domain):a&&"-"!=a&&"none"!=a?a[D]():"";this.set(bb,a)};E.va=function(a){this.set(hb,!!a)};
+E.na=function(a,b){return ce(this.a,a,b)};E.link=function(a,b){if(this.a.get(fb)&&a){var c=ce(this.a,a,b);J[z].href=c}};E.ua=function(a,b){this.a.get(fb)&&a&&a.action&&(a.action=ce(this.a,a.action,b))};
+E.za=function(){this.v();var a=this.a,b=J.getElementById?J.getElementById("utmtrans"):J.utmform&&J.utmform.utmtrans?J.utmform.utmtrans:null;if(b&&b[na]){a.set(Cb,[]);for(var b=b[na][y]("UTM:"),c=0;c<b[w];c++){b[c]=Da(b[c]);for(var d=b[c][y](de),e=0;e<d[w];e++)d[e]=Da(d[e]);"T"==d[0]?fe(a,d[1],d[2],d[3],d[4],d[5],d[6],d[7],d[8]):"I"==d[0]&&ge(a,d[1],d[2],d[3],d[4],d[5],d[6])}}};E.$=function(a,b,c,d,e,f,Be,k){return fe(this.a,a,b,c,d,e,f,Be,k)};E.Y=function(a,b,c,d,e,f){return ge(this.a,a,b,c,d,e,f)};
+E.Aa=function(a){de=a||"|"};E.ea=function(){this.set(Cb,[])};E.wa=function(a,b,c,d){var e=this.a;if(0>=a||a>e.get(yb))a=!1;else if(!b||!c||128<b[w]+c[w])a=!1;else{1!=d&&2!=d&&(d=3);var f={};ha(f,b);f.value=c;f.scope=d;e.get(Fb)[a]=f;a=!0}a&&this.a.n();return a};E.ka=function(a){this.a.get(Fb)[a]=void 0;this.a.n()};E.ra=function(a){return(a=this.a.get(Fb)[a])&&1==a[ua]?a[na]:void 0};E.Ca=function(a,b,c){this.m().f(a,b,c)};E.Da=function(a,b,c){this.m().o(a,b,c)};
+E.sa=function(a,b){return this.m().getKey(a,b)};E.ta=function(a,b){return this.m().N(a,b)};E.fa=function(a){this.m().L(a)};E.ga=function(a){this.m().M(a)};E.ja=function(){return new yd};E.W=function(a){a&&this.get(Ab)[n](a[D]())};E.ba=function(){this.set(Ab,[])};E.X=function(a){a&&this.get(Bb)[n](a[D]())};E.ca=function(){this.set(Bb,[])};E.Z=function(a,b,c,d,e){if(a&&b){a=[a,b[D]()][C](":");if(d||e)a=[a,d,e][C](":");d=this.get(zb);d.splice(c?0:d[w],0,a)}};E.da=function(){this.set(zb,[])};
+E.ha=function(a){this.a[ka]();var b=this.get(P),c=be(this.a);this.set(P,a);this.a.n();ae(this.a,c);this.set(P,b)};E.ya=function(a,b){if(0<a&&5>=a&&Ca(b)&&""!=b){var c=this.get(Fc)||[];c[a]=b;this.set(Fc,c)}};E.V=function(a){a=""+a;if(a[oa](/^[A-Za-z0-9]{1,5}$/)){var b=this.get(Ic)||[];b[n](a);this.set(Ic,b)}};E.v=function(){this.a[ka]()};E.Ba=function(a){a&&""!=a&&(this.set(Tb,a),this.a.j("var"))};var ne=function(a){"trans"!==a.get(sc)&&500<=a.b(cc,0)&&a[ta]();if("event"===a.get(sc)){var b=(new Date)[g](),c=a.b(dc,0),d=a.b(Zb,0),c=m[la]((b-(c!=d?c:1E3*c))/1E3*1);0<c&&(a.set(dc,b),a.set(R,m.min(10,a.b(R,0)+c)));0>=a.b(R,0)&&a[ta]()}},pe=function(a){"event"===a.get(sc)&&a.set(R,m.max(0,a.b(R,10)-1))};var qe=function(){var a=[];this.add=function(b,c,d){d&&(c=G(""+c));a[n](b+"="+c)};this.toString=function(){return a[C]("&")}},re=function(a,b){(b||2!=a.get(xb))&&a.Za(cc)},se=function(a,b){b.add("utmwv","5.5.9");b.add("utms",a.get(cc));b.add("utmn",Ea());var c=J[z].hostname;F(c)||b.add("utmhn",c,!0);c=a.get(vb);100!=c&&b.add("utmsp",c,!0)},te=function(a,b){b.add("utmht",(new Date)[g]());b.add("utmac",Da(a.get(Wa)));a.get(Oc)&&b.add("utmxkey",a.get(Oc),!0);a.get(vc)&&b.add("utmni",1);a.get(of)&&b.add("utmgtm",
+a.get(of),!0);var c=a.get(Ic);c&&0<c[w]&&b.add("utmdid",c[C]("."));ff(a,b);!1!==a.get(Xa)&&(a.get(Xa)||M.w)&&b.add("aip",1);void 0!==a.get(Kc)&&b.add("utmjid",a.c(Kc,""),!0);a.b(Yb,0)&&b.add("utmredir",a.b(Yb,0),!0);M.bb||(M.bb=a.get(Wa));(1<M.ab()||M.bb!=a.get(Wa))&&b.add("utmmt",1);b.add("utmu",od.Xa())},ue=function(a,b){for(var c=a.get(Fc)||[],d=[],e=1;e<c[w];e++)c[e]&&d[n](e+":"+G(c[e][p](/%/g,"%25")[p](/:/g,"%3A")[p](/,/g,"%2C")));d[w]&&b.add("utmpg",d[C](","))},ff=function(a,b){function c(a,
+b){b&&d[n](a+"="+b+";")}var d=[];c("__utma",cd(a));c("__utmz",hd(a,!1));c("__utmv",fd(a,!0));c("__utmx",be(a));b.add("utmcc",d[C]("+"),!0)},ve=function(a,b){a.get(ib)&&(b.add("utmcs",a.get(Qb),!0),b.add("utmsr",a.get(Lb)),a.get(Rb)&&b.add("utmvp",a.get(Rb)),b.add("utmsc",a.get(Mb)),b.add("utmul",a.get(Pb)),b.add("utmje",a.get(Nb)),b.add("utmfl",a.get(Ob),!0))},we=function(a,b){a.get(lb)&&a.get(Ib)&&b.add("utmdt",a.get(Ib),!0);b.add("utmhid",a.get(Kb));b.add("utmr",Pa(a.get(Jb),a.get(P)),!0);b.add("utmp",
+G(a.get(Hb),!0),!0)},xe=function(a,b){for(var c=a.get(Db),d=a.get(Eb),e=a.get(Fb)||[],f=0;f<e[w];f++){var Be=e[f];Be&&(c||(c=new yd),c.f(8,f,Be[r]),c.f(9,f,Be[na]),3!=Be[ua]&&c.f(11,f,""+Be[ua]))}F(a.get(wc))||F(a.get(xc),!0)||(c||(c=new yd),c.f(5,1,a.get(wc)),c.f(5,2,a.get(xc)),e=a.get(yc),void 0!=e&&c.f(5,3,e),e=a.get(zc),void 0!=e&&c.o(5,1,e));c?b.add("utme",c.Qa(d),!0):d&&b.add("utme",d.A(),!0)},ye=function(a,b,c){var d=new qe;re(a,c);se(a,d);d.add("utmt","tran");d.add("utmtid",b.id_,!0);d.add("utmtst",
+b.affiliation_,!0);d.add("utmtto",b.total_,!0);d.add("utmttx",b.tax_,!0);d.add("utmtsp",b.shipping_,!0);d.add("utmtci",b.city_,!0);d.add("utmtrg",b.state_,!0);d.add("utmtco",b.country_,!0);xe(a,d);ve(a,d);we(a,d);(b=a.get(Gb))&&d.add("utmcu",b,!0);c||(ue(a,d),te(a,d));return d[v]()},ze=function(a,b,c){var d=new qe;re(a,c);se(a,d);d.add("utmt","item");d.add("utmtid",b.transId_,!0);d.add("utmipc",b.sku_,!0);d.add("utmipn",b.name_,!0);d.add("utmiva",b.category_,!0);d.add("utmipr",b.price_,!0);d.add("utmiqt",
+b.quantity_,!0);xe(a,d);ve(a,d);we(a,d);(b=a.get(Gb))&&d.add("utmcu",b,!0);c||(ue(a,d),te(a,d));return d[v]()},Ae=function(a,b){var c=a.get(sc);if("page"==c)c=new qe,re(a,b),se(a,c),xe(a,c),ve(a,c),we(a,c),b||(ue(a,c),te(a,c)),c=[c[v]()];else if("event"==c)c=new qe,re(a,b),se(a,c),c.add("utmt","event"),xe(a,c),ve(a,c),we(a,c),b||(ue(a,c),te(a,c)),c=[c[v]()];else if("var"==c)c=new qe,re(a,b),se(a,c),c.add("utmt","var"),!b&&te(a,c),c=[c[v]()];else if("trans"==c)for(var c=[],d=a.get(Cb),e=0;e<d[w];++e){c[n](ye(a,
+d[e],b));for(var f=d[e].items_,Be=0;Be<f[w];++Be)c[n](ze(a,f[Be],b))}else"social"==c?b?c=[]:(c=new qe,re(a,b),se(a,c),c.add("utmt","social"),c.add("utmsn",a.get(Ac),!0),c.add("utmsa",a.get(Bc),!0),c.add("utmsid",a.get(Cc),!0),xe(a,c),ve(a,c),we(a,c),ue(a,c),te(a,c),c=[c[v]()]):"feedback"==c?b?c=[]:(c=new qe,re(a,b),se(a,c),c.add("utmt","feedback"),c.add("utmfbid",a.get(Gc),!0),c.add("utmfbpr",a.get(Hc),!0),xe(a,c),ve(a,c),we(a,c),ue(a,c),te(a,c),c=[c[v]()]):c=[];return c},oe=function(a){var b,c=a.get(xb),
+d=a.get(uc),e=d&&d.Ua,f=0;if(0==c||2==c){var Be=a.get(wb)+"?";b=Ae(a,!0);for(var k=0,s=b[w];k<s;k++)Sa(b[k],e,Be,!0),f++}if(1==c||2==c)for(b=Ae(a),a=a.c(Jc,""),k=0,s=b[w];k<s;k++)try{Sa(b[k],e,a),f++}catch(t){t&&Ra(t[r],void 0,t.message)}d&&(d.q=f)};var Ne=function(){return"https:"==J[z][A]||M.G?"https://ssl.google-analytics.com":"http://www.google-analytics.com"},Ce=function(a){ha(this,"len");this.message=a+"-8192"},De=function(a){ha(this,"ff2post");this.message=a+"-2036"},Sa=function(a,b,c,d){b=b||Fa;if(d||2036>=a[w])gf(a,b,c);else if(8192>=a[w]){if(0<=W[za].userAgent[q]("Firefox")&&![].reduce)throw new De(a[w]);df(a,b)||ef(a,b)||Ee(a,b)||b()}else throw new Ce(a[w]);},gf=function(a,b,c){c=c||Ne()+"/__utm.gif?";var d=new Image(1,1);d.src=c+
+a;Ie(d,function(){Ie(d,null);Je(d,null);b()});Je(d,function(){Ie(d,null);Je(d,null);b()})},ef=function(a,b){var c;c=W.XDomainRequest;if(!c)return!1;c=new c;c.open("POST",Ne()+"/p/__utm.gif");Je(c,function(){b()});Ie(c,b);c.send(a);return!0},df=function(a,b){var c=W.XMLHttpRequest;if(!c)return!1;var d=new c;if(!("withCredentials"in d))return!1;d.open("POST",Ne()+"/p/__utm.gif",!0);d.withCredentials=!0;d.setRequestHeader("Content-Type","text/plain");d.onreadystatechange=function(){4==d.readyState&&
+(b(),d=null)};d.send(a);return!0},Ee=function(a,b){if(!J.body)return We(function(){Ee(a,b)},100),!0;a=aa(a);try{var c=J[qa]('<iframe name="'+a+'"></iframe>')}catch(d){c=J[qa]("iframe"),ha(c,a)}c.height="0";c.width="0";c.style.display="none";c.style.visibility="hidden";var e=J[z],e=Ne()+"/u/post_iframe.html#"+aa(e[A]+"//"+e[u]+"/favicon.ico"),f=function(){c.src="";c.parentNode&&c.parentNode.removeChild(c)};Ga(W,"beforeunload",f);var Be=!1,k=0,s=function(){if(!Be){try{if(9<k||c.contentWindow[z][u]==
+J[z][u]){Be=!0;f();Ha(W,"beforeunload",f);b();return}}catch(a){}k++;ca(s,200)}};Ga(c,"load",s);J.body.appendChild(c);c.src=e;return!0};var $=function(){this.G=this.w=!1;this.C={};this.D=[];this.U=0;this.S=[["www.google-analytics.com","","/plugins/"]];this._gasoCPath=this._gasoDomain=this.bb=void 0;Re();Se()};E=$[x];E.oa=function(a,b){return this.r(a,void 0,b)};E.r=function(a,b,c){b&&H(23);c&&H(67);void 0==b&&(b="~"+M.U++);a=new U(b,a,c);M.C[b]=a;M.D[n](a);return a};E.u=function(a){a=a||"";return M.C[a]||M.r(void 0,a)};E.pa=function(){return M.D[ja](0)};E.ab=function(){return M.D[w]};E.aa=function(){this.w=!0};
+E.la=function(){this.G=!0};var Fe=function(a){if("prerender"==J.visibilityState)return!1;a();return!0};var M=new $;var nf=W._gat;nf&&Ba(nf._getTracker)?M=nf:W._gat=M;var Z=new Y;(function(a){if(!Fe(a)){H(123);var b=!1,c=function(){!b&&Fe(a)&&(b=!0,Ha(J,"visibilitychange",c))};Ga(J,"visibilitychange",c)}})(function(){var a=W._gaq,b=!1;if(a&&Ba(a[n])&&(b="[object Array]"==Object[x][v].call(Object(a)),!b)){Z=a;return}W._gaq=Z;b&&Z[n][ya](Z,a)});function Yc(a){var b=1,c=0,d;if(a)for(b=0,d=a[w]-1;0<=d;d--)c=a.charCodeAt(d),b=(b<<6&268435455)+c+(c<<14),c=b&266338304,b=0!=c?b^c>>21:b;return b};})();
+_text/javascript‘%&'(_?http://www.haskell.org/wikistatic/skins//common/wikibits.js?303O≥bplist00‘noX$versionX$objectsY$archiverT$top Ü†Ø#"()012NOPQRSTUVWXYZ[\]^_`abcdghiU$null›	
+ !R$6S$10R$2R$7R$3S$11R$8V$classR$4R$9R$0R$5R$1ÄÄÄ Ä Ä"ÄÄ!Ä”#$%&'WNS.base[NS.relativeÄ ÄÄ_?http://www.haskell.org/wikistatic/skins//common/wikibits.js?303“*+,-Z$classnameX$classesUNSURL¢./UNSURLXNSObject#AπﬁTïö…~»”345AMWNS.keysZNS.objects´6789:;<=>?@Ä	Ä
+ÄÄÄÄÄÄÄÄÄ´BCDEFGHIJKLÄÄÄÄÄÄÄÄÄÄÄÄVServer\Content-TypeTVary]Last-ModifiedTEtagTDate]Accept-Ranges_Content-Encoding^Content-LengthZKeep-AliveZConnection_Apache/2.2.22 (Debian)_application/javascript_Accept-Encoding_Sun, 14 Jul 2013 15:56:59 GMT_"9dc00d-9eb1-4e17acb3ee8c0"_Fri, 03 Oct 2014 03:50:42 GMTUbytesTgzipU12317_timeout=5, max=100ZKeep-Alive“*+ef\NSDictionary¢e/ˇˇˇˇˇˇˇˇ_application/javascript“*+jk_NSHTTPURLResponse£lm/_NSHTTPURLResponse]NSURLResponse_NSKeyedArchiver—pq_WebResourceResponseÄ    # - 2 7 ] c ~ Å Ö à ã é í ï ú ü ¢ • ® ´ ≠ Ø ± ≥ µ ∑ π ª Ω ø ¡ √   “ ﬁ ‡ ‚ ‰&+6?EHNW`biq|àäåéêíîñòöúû™¨Æ∞≤¥∂∏∫ºæ¿¬…÷€ÈÓÛ#.9Rk}ùª€·ÊÏ!*CH\`tÇîó≠             r              ØOû±// MediaWiki JavaScript support functions
+
+var clientPC = navigator.userAgent.toLowerCase(); // Get client info
+var is_gecko = ((clientPC.indexOf('gecko')!=-1) && (clientPC.indexOf('spoofer')==-1)
+                && (clientPC.indexOf('khtml') == -1) && (clientPC.indexOf('netscape/7.0')==-1));
+var is_safari = ((clientPC.indexOf('applewebkit')!=-1) && (clientPC.indexOf('spoofer')==-1));
+var is_khtml = (navigator.vendor == 'KDE' || ( document.childNodes && !document.all && !navigator.taintEnabled ));
+// For accesskeys
+var is_ff2_win = (clientPC.indexOf('firefox/2')!=-1 || clientPC.indexOf('minefield/3')!=-1) && clientPC.indexOf('windows')!=-1;
+var is_ff2_x11 = (clientPC.indexOf('firefox/2')!=-1 || clientPC.indexOf('minefield/3')!=-1) && clientPC.indexOf('x11')!=-1;
+if (clientPC.indexOf('opera') != -1) {
+	var is_opera = true;
+	var is_opera_preseven = (window.opera && !document.childNodes);
+	var is_opera_seven = (window.opera && document.childNodes);
+	var is_opera_95 = (clientPC.search(/opera\/(9.[5-9]|[1-9][0-9])/)!=-1);
+}
+
+// Global external objects used by this script.
+/*extern ta, stylepath, skin */
+
+// add any onload functions in this hook (please don't hard-code any events in the xhtml source)
+var doneOnloadHook;
+
+if (!window.onloadFuncts) {
+	var onloadFuncts = [];
+}
+
+function addOnloadHook(hookFunct) {
+	// Allows add-on scripts to add onload functions
+	onloadFuncts[onloadFuncts.length] = hookFunct;
+}
+
+function hookEvent(hookName, hookFunct) {
+	if (window.addEventListener) {
+		window.addEventListener(hookName, hookFunct, false);
+	} else if (window.attachEvent) {
+		window.attachEvent("on" + hookName, hookFunct);
+	}
+}
+
+// document.write special stylesheet links
+if (typeof stylepath != 'undefined' && typeof skin != 'undefined') {
+	if (is_opera_preseven) {
+		document.write('<link rel="stylesheet" type="text/css" href="'+stylepath+'/'+skin+'/Opera6Fixes.css">');
+	} else if (is_opera_seven && !is_opera_95) {
+		document.write('<link rel="stylesheet" type="text/css" href="'+stylepath+'/'+skin+'/Opera7Fixes.css">');
+	} else if (is_khtml) {
+		document.write('<link rel="stylesheet" type="text/css" href="'+stylepath+'/'+skin+'/KHTMLFixes.css">');
+	}
+}
+
+if (wgBreakFrames) {
+	// Un-trap us from framesets
+	if (window.top != window) {
+		window.top.location = window.location;
+	}
+}
+
+// for enhanced RecentChanges
+function toggleVisibility(_levelId, _otherId, _linkId) {
+	var thisLevel = document.getElementById(_levelId);
+	var otherLevel = document.getElementById(_otherId);
+	var linkLevel = document.getElementById(_linkId);
+	if (thisLevel.style.display == 'none') {
+		thisLevel.style.display = 'block';
+		otherLevel.style.display = 'none';
+		linkLevel.style.display = 'inline';
+	} else {
+		thisLevel.style.display = 'none';
+		otherLevel.style.display = 'inline';
+		linkLevel.style.display = 'none';
+	}
+}
+
+function historyRadios(parent) {
+	var inputs = parent.getElementsByTagName('input');
+	var radios = [];
+	for (var i = 0; i < inputs.length; i++) {
+		if (inputs[i].name == "diff" || inputs[i].name == "oldid") {
+			radios[radios.length] = inputs[i];
+		}
+	}
+	return radios;
+}
+
+// check selection and tweak visibility/class onclick
+function diffcheck() {
+	var dli = false; // the li where the diff radio is checked
+	var oli = false; // the li where the oldid radio is checked
+	var hf = document.getElementById('pagehistory');
+	if (!hf) {
+		return true;
+	}
+	var lis = hf.getElementsByTagName('li');
+	for (var i=0;i<lis.length;i++) {
+		var inputs = historyRadios(lis[i]);
+		if (inputs[1] && inputs[0]) {
+			if (inputs[1].checked || inputs[0].checked) { // this row has a checked radio button
+				if (inputs[1].checked && inputs[0].checked && inputs[0].value == inputs[1].value) {
+					return false;
+				}
+				if (oli) { // it's the second checked radio
+					if (inputs[1].checked) {
+						oli.className = "selected";
+						return false;
+					}
+				} else if (inputs[0].checked) {
+					return false;
+				}
+				if (inputs[0].checked) {
+					dli = lis[i];
+				}
+				if (!oli) {
+					inputs[0].style.visibility = 'hidden';
+				}
+				if (dli) {
+					inputs[1].style.visibility = 'hidden';
+				}
+				lis[i].className = "selected";
+				oli = lis[i];
+			}  else { // no radio is checked in this row
+				if (!oli) {
+					inputs[0].style.visibility = 'hidden';
+				} else {
+					inputs[0].style.visibility = 'visible';
+				}
+				if (dli) {
+					inputs[1].style.visibility = 'hidden';
+				} else {
+					inputs[1].style.visibility = 'visible';
+				}
+				lis[i].className = "";
+			}
+		}
+	}
+	return true;
+}
+
+// page history stuff
+// attach event handlers to the input elements on history page
+function histrowinit() {
+	var hf = document.getElementById('pagehistory');
+	if (!hf) {
+		return;
+	}
+	var lis = hf.getElementsByTagName('li');
+	for (var i = 0; i < lis.length; i++) {
+		var inputs = historyRadios(lis[i]);
+		if (inputs[0] && inputs[1]) {
+			inputs[0].onclick = diffcheck;
+			inputs[1].onclick = diffcheck;
+		}
+	}
+	diffcheck();
+}
+
+// generate toc from prefs form, fold sections
+// XXX: needs testing on IE/Mac and safari
+// more comments to follow
+function tabbedprefs() {
+	var prefform = document.getElementById('preferences');
+	if (!prefform || !document.createElement) {
+		return;
+	}
+	if (prefform.nodeName.toLowerCase() == 'a') {
+		return; // Occasional IE problem
+	}
+	prefform.className = prefform.className + 'jsprefs';
+	var sections = [];
+	var children = prefform.childNodes;
+	var seci = 0;
+	for (var i = 0; i < children.length; i++) {
+		if (children[i].nodeName.toLowerCase() == 'fieldset') {
+			children[i].id = 'prefsection-' + seci;
+			children[i].className = 'prefsection';
+			if (is_opera || is_khtml) {
+				children[i].className = 'prefsection operaprefsection';
+			}
+			var legends = children[i].getElementsByTagName('legend');
+			sections[seci] = {};
+			legends[0].className = 'mainLegend';
+			if (legends[0] && legends[0].firstChild.nodeValue) {
+				sections[seci].text = legends[0].firstChild.nodeValue;
+			} else {
+				sections[seci].text = '# ' + seci;
+			}
+			sections[seci].secid = children[i].id;
+			seci++;
+			if (sections.length != 1) {
+				children[i].style.display = 'none';
+			} else {
+				var selectedid = children[i].id;
+			}
+		}
+	}
+	var toc = document.createElement('ul');
+	toc.id = 'preftoc';
+	toc.selectedid = selectedid;
+	for (i = 0; i < sections.length; i++) {
+		var li = document.createElement('li');
+		if (i === 0) {
+			li.className = 'selected';
+		}
+		var a = document.createElement('a');
+		a.href = '#' + sections[i].secid;
+		a.onmousedown = a.onclick = uncoversection;
+		a.appendChild(document.createTextNode(sections[i].text));
+		a.secid = sections[i].secid;
+		li.appendChild(a);
+		toc.appendChild(li);
+	}
+	prefform.parentNode.insertBefore(toc, prefform.parentNode.childNodes[0]);
+	document.getElementById('prefsubmit').id = 'prefcontrol';
+}
+
+function uncoversection() {
+	var oldsecid = this.parentNode.parentNode.selectedid;
+	var newsec = document.getElementById(this.secid);
+	if (oldsecid != this.secid) {
+		var ul = document.getElementById('preftoc');
+		document.getElementById(oldsecid).style.display = 'none';
+		newsec.style.display = 'block';
+		ul.selectedid = this.secid;
+		var lis = ul.getElementsByTagName('li');
+		for (var i = 0; i< lis.length; i++) {
+			lis[i].className = '';
+		}
+		this.parentNode.className = 'selected';
+	}
+	return false;
+}
+
+// Timezone stuff
+// tz in format [+-]HHMM
+function checkTimezone(tz, msg) {
+	var localclock = new Date();
+	// returns negative offset from GMT in minutes
+	var tzRaw = localclock.getTimezoneOffset();
+	var tzHour = Math.floor( Math.abs(tzRaw) / 60);
+	var tzMin = Math.abs(tzRaw) % 60;
+	var tzString = ((tzRaw >= 0) ? "-" : "+") + ((tzHour < 10) ? "0" : "") + tzHour + ((tzMin < 10) ? "0" : "") + tzMin;
+	if (tz != tzString) {
+		var junk = msg.split('$1');
+		document.write(junk[0] + "UTC" + tzString + junk[1]);
+	}
+}
+
+function unhidetzbutton() {
+	var tzb = document.getElementById('guesstimezonebutton');
+	if (tzb) {
+		tzb.style.display = 'inline';
+	}
+}
+
+// in [-]HH:MM format...
+// won't yet work with non-even tzs
+function fetchTimezone() {
+	// FIXME: work around Safari bug
+	var localclock = new Date();
+	// returns negative offset from GMT in minutes
+	var tzRaw = localclock.getTimezoneOffset();
+	var tzHour = Math.floor( Math.abs(tzRaw) / 60);
+	var tzMin = Math.abs(tzRaw) % 60;
+	var tzString = ((tzRaw >= 0) ? "-" : "") + ((tzHour < 10) ? "0" : "") + tzHour +
+		":" + ((tzMin < 10) ? "0" : "") + tzMin;
+	return tzString;
+}
+
+function guessTimezone(box) {
+	document.getElementsByName("wpHourDiff")[0].value = fetchTimezone();
+}
+
+function showTocToggle() {
+	if (document.createTextNode) {
+		// Uses DOM calls to avoid document.write + XHTML issues
+
+		var linkHolder = document.getElementById('toctitle');
+		if (!linkHolder) {
+			return;
+		}
+
+		var outerSpan = document.createElement('span');
+		outerSpan.className = 'toctoggle';
+
+		var toggleLink = document.createElement('a');
+		toggleLink.id = 'togglelink';
+		toggleLink.className = 'internal';
+		toggleLink.href = 'javascript:toggleToc()';
+		toggleLink.appendChild(document.createTextNode(tocHideText));
+
+		outerSpan.appendChild(document.createTextNode('['));
+		outerSpan.appendChild(toggleLink);
+		outerSpan.appendChild(document.createTextNode(']'));
+
+		linkHolder.appendChild(document.createTextNode(' '));
+		linkHolder.appendChild(outerSpan);
+
+		var cookiePos = document.cookie.indexOf("hidetoc=");
+		if (cookiePos > -1 && document.cookie.charAt(cookiePos + 8) == 1) {
+			toggleToc();
+		}
+	}
+}
+
+function changeText(el, newText) {
+	// Safari work around
+	if (el.innerText) {
+		el.innerText = newText;
+	} else if (el.firstChild && el.firstChild.nodeValue) {
+		el.firstChild.nodeValue = newText;
+	}
+}
+
+function toggleToc() {
+	var toc = document.getElementById('toc').getElementsByTagName('ul')[0];
+	var toggleLink = document.getElementById('togglelink');
+
+	if (toc && toggleLink && toc.style.display == 'none') {
+		changeText(toggleLink, tocHideText);
+		toc.style.display = 'block';
+		document.cookie = "hidetoc=0";
+	} else {
+		changeText(toggleLink, tocShowText);
+		toc.style.display = 'none';
+		document.cookie = "hidetoc=1";
+	}
+}
+
+var mwEditButtons = [];
+var mwCustomEditButtons = []; // eg to add in MediaWiki:Common.js
+
+// this function generates the actual toolbar buttons with localized text
+// we use it to avoid creating the toolbar where javascript is not enabled
+function addButton(imageFile, speedTip, tagOpen, tagClose, sampleText, imageId) {
+	// Don't generate buttons for browsers which don't fully
+	// support it.
+	mwEditButtons[mwEditButtons.length] =
+		{"imageId": imageId,
+		 "imageFile": imageFile,
+		 "speedTip": speedTip,
+		 "tagOpen": tagOpen,
+		 "tagClose": tagClose,
+		 "sampleText": sampleText};
+}
+
+// this function generates the actual toolbar buttons with localized text
+// we use it to avoid creating the toolbar where javascript is not enabled
+function mwInsertEditButton(parent, item) {
+	var image = document.createElement("img");
+	image.width = 23;
+	image.height = 22;
+	image.className = "mw-toolbar-editbutton";
+	if (item.imageId) image.id = item.imageId;
+	image.src = item.imageFile;
+	image.border = 0;
+	image.alt = item.speedTip;
+	image.title = item.speedTip;
+	image.style.cursor = "pointer";
+	image.onclick = function() {
+		insertTags(item.tagOpen, item.tagClose, item.sampleText);
+		return false;
+	};
+
+	parent.appendChild(image);
+	return true;
+}
+
+function mwSetupToolbar() {
+	var toolbar = document.getElementById('toolbar');
+	if (!toolbar) { return false; }
+
+	var textbox = document.getElementById('wpTextbox1');
+	if (!textbox) { return false; }
+
+	// Don't generate buttons for browsers which don't fully
+	// support it.
+	if (!(document.selection && document.selection.createRange)
+		&& textbox.selectionStart === null) {
+		return false;
+	}
+
+	for (var i = 0; i < mwEditButtons.length; i++) {
+		mwInsertEditButton(toolbar, mwEditButtons[i]);
+	}
+	for (var i = 0; i < mwCustomEditButtons.length; i++) {
+		mwInsertEditButton(toolbar, mwCustomEditButtons[i]);
+	}
+	return true;
+}
+
+function escapeQuotes(text) {
+	var re = new RegExp("'","g");
+	text = text.replace(re,"\\'");
+	re = new RegExp("\\n","g");
+	text = text.replace(re,"\\n");
+	return escapeQuotesHTML(text);
+}
+
+function escapeQuotesHTML(text) {
+	var re = new RegExp('&',"g");
+	text = text.replace(re,"&amp;");
+	re = new RegExp('"',"g");
+	text = text.replace(re,"&quot;");
+	re = new RegExp('<',"g");
+	text = text.replace(re,"&lt;");
+	re = new RegExp('>',"g");
+	text = text.replace(re,"&gt;");
+	return text;
+}
+
+// apply tagOpen/tagClose to selection in textarea,
+// use sampleText instead of selection if there is none
+function insertTags(tagOpen, tagClose, sampleText) {
+	var txtarea;
+	if (document.editform) {
+		txtarea = document.editform.wpTextbox1;
+	} else {
+		// some alternate form? take the first one we can find
+		var areas = document.getElementsByTagName('textarea');
+		txtarea = areas[0];
+	}
+	var selText, isSample = false;
+
+	if (document.selection  && document.selection.createRange) { // IE/Opera
+
+		//save window scroll position
+		if (document.documentElement && document.documentElement.scrollTop)
+			var winScroll = document.documentElement.scrollTop
+		else if (document.body)
+			var winScroll = document.body.scrollTop;
+		//get current selection  
+		txtarea.focus();
+		var range = document.selection.createRange();
+		selText = range.text;
+		//insert tags
+		checkSelectedText();
+		range.text = tagOpen + selText + tagClose;
+		//mark sample text as selected
+		if (isSample && range.moveStart) {
+			if (window.opera)
+				tagClose = tagClose.replace(/\n/g,'');
+			range.moveStart('character', - tagClose.length - selText.length); 
+			range.moveEnd('character', - tagClose.length); 
+		}
+		range.select();   
+		//restore window scroll position
+		if (document.documentElement && document.documentElement.scrollTop)
+			document.documentElement.scrollTop = winScroll
+		else if (document.body)
+			document.body.scrollTop = winScroll;
+
+	} else if (txtarea.selectionStart || txtarea.selectionStart == '0') { // Mozilla
+
+		//save textarea scroll position
+		var textScroll = txtarea.scrollTop;
+		//get current selection
+		txtarea.focus();
+		var startPos = txtarea.selectionStart;
+		var endPos = txtarea.selectionEnd;
+		selText = txtarea.value.substring(startPos, endPos);
+		//insert tags
+		checkSelectedText();
+		txtarea.value = txtarea.value.substring(0, startPos)
+			+ tagOpen + selText + tagClose
+			+ txtarea.value.substring(endPos, txtarea.value.length);
+		//set new selection
+		if (isSample) {
+			txtarea.selectionStart = startPos + tagOpen.length;
+			txtarea.selectionEnd = startPos + tagOpen.length + selText.length;
+		} else {
+			txtarea.selectionStart = startPos + tagOpen.length + selText.length + tagClose.length;
+			txtarea.selectionEnd = txtarea.selectionStart;
+		}
+		//restore textarea scroll position
+		txtarea.scrollTop = textScroll;
+	} 
+
+	function checkSelectedText(){
+		if (!selText) {
+			selText = sampleText;
+			isSample = true;
+		} else if (selText.charAt(selText.length - 1) == ' ') { //exclude ending space char
+			selText = selText.substring(0, selText.length - 1);
+			tagClose += ' '
+		} 
+	}
+
+}
+
+
+/**
+ * Set the accesskey prefix based on browser detection.
+ */
+var tooltipAccessKeyPrefix = 'alt-';
+if (is_opera) {
+	tooltipAccessKeyPrefix = 'shift-esc-';
+} else if (is_safari
+	   || navigator.userAgent.toLowerCase().indexOf('mac') != -1
+	   || navigator.userAgent.toLowerCase().indexOf('konqueror') != -1 ) {
+	tooltipAccessKeyPrefix = 'ctrl-';
+} else if (is_ff2_x11 || is_ff2_win) {
+	tooltipAccessKeyPrefix = 'alt-shift-';
+}
+var tooltipAccessKeyRegexp = /\[(ctrl-)?(alt-)?(shift-)?(esc-)?.\]$/;
+
+/**
+ * Add the appropriate prefix to the accesskey shown in the tooltip.
+ * If the nodeList parameter is given, only those nodes are updated;
+ * otherwise, all the nodes that will probably have accesskeys by
+ * default are updated.
+ *
+ * @param Array nodeList -- list of elements to update
+ */
+function updateTooltipAccessKeys( nodeList ) {
+	if ( !nodeList ) {
+		// skins without a "column-one" element don't seem to have links with accesskeys either
+		var columnOne = document.getElementById("column-one");
+		if ( columnOne )
+			updateTooltipAccessKeys( columnOne.getElementsByTagName("a") );
+		// these are rare enough that no such optimization is needed
+		updateTooltipAccessKeys( document.getElementsByTagName("input") );
+		updateTooltipAccessKeys( document.getElementsByTagName("label") );
+		return;
+	}
+
+	for ( var i = 0; i < nodeList.length; i++ ) {
+		var element = nodeList[i];
+		var tip = element.getAttribute("title");
+		var key = element.getAttribute("accesskey");
+		if ( key && tooltipAccessKeyRegexp.exec(tip) ) {
+			tip = tip.replace(tooltipAccessKeyRegexp,
+					  "["+tooltipAccessKeyPrefix+key+"]");
+			element.setAttribute("title", tip );
+		}
+	}
+}
+
+/**
+ * Add a link to one of the portlet menus on the page, including:
+ *
+ * p-cactions: Content actions (shown as tabs above the main content in Monobook)
+ * p-personal: Personal tools (shown at the top right of the page in Monobook)
+ * p-navigation: Navigation
+ * p-tb: Toolbox
+ *
+ * This function exists for the convenience of custom JS authors.  All
+ * but the first three parameters are optional, though providing at
+ * least an id and a tooltip is recommended.
+ *
+ * By default the new link will be added to the end of the list.  To
+ * add the link before a given existing item, pass the DOM node of
+ * that item (easily obtained with document.getElementById()) as the
+ * nextnode parameter; to add the link _after_ an existing item, pass
+ * the node's nextSibling instead.
+ *
+ * @param String portlet -- id of the target portlet ("p-cactions", "p-personal", "p-navigation" or "p-tb")
+ * @param String href -- link URL
+ * @param String text -- link text (will be automatically lowercased by CSS for p-cactions in Monobook)
+ * @param String id -- id of the new item, should be unique and preferably have the appropriate prefix ("ca-", "pt-", "n-" or "t-")
+ * @param String tooltip -- text to show when hovering over the link, without accesskey suffix
+ * @param String accesskey -- accesskey to activate this link (one character, try to avoid conflicts)
+ * @param Node nextnode -- the DOM node before which the new item should be added, should be another item in the same list
+ *
+ * @return Node -- the DOM node of the new item (an LI element) or null
+ */
+function addPortletLink(portlet, href, text, id, tooltip, accesskey, nextnode) {
+	var node = document.getElementById(portlet);
+	if ( !node ) return null;
+	node = node.getElementsByTagName( "ul" )[0];
+	if ( !node ) return null;
+
+	var link = document.createElement( "a" );
+	link.appendChild( document.createTextNode( text ) );
+	link.href = href;
+
+	var item = document.createElement( "li" );
+	item.appendChild( link );
+	if ( id ) item.id = id;
+
+	if ( accesskey ) {
+		link.setAttribute( "accesskey", accesskey );
+		tooltip += " ["+accesskey+"]";
+	}
+	if ( tooltip ) {
+		link.setAttribute( "title", tooltip );
+	}
+	if ( accesskey && tooltip ) {
+		updateTooltipAccessKeys( new Array( link ) );
+	}
+
+	if ( nextnode && nextnode.parentNode == node )
+		node.insertBefore( item, nextnode );
+	else
+		node.appendChild( item );  // IE compatibility (?)
+
+	return item;
+}
+
+
+/**
+ * Set up accesskeys/tooltips from the deprecated ta array.  If doId
+ * is specified, only set up for that id.  Note that this function is
+ * deprecated and will not be supported indefinitely -- use
+ * updateTooltipAccessKey() instead.
+ *
+ * @param mixed doId string or null
+ */
+function akeytt( doId ) {
+	// A lot of user scripts (and some of the code below) break if
+	// ta isn't defined, so we make sure it is.  Explictly using
+	// window.ta avoids a "ta is not defined" error.
+	if (!window.ta) window.ta = new Array;
+
+	// Make a local, possibly restricted, copy to avoid clobbering
+	// the original.
+	var ta;
+	if ( doId ) {
+		ta = [doId];
+	} else {
+		ta = window.ta;
+	}
+
+	// Now deal with evil deprecated ta
+	var watchCheckboxExists = document.getElementById( 'wpWatchthis' ) ? true : false;
+	for (var id in ta) {
+		var n = document.getElementById(id);
+		if (n) {
+			var a = null;
+			var ak = '';
+			// Are we putting accesskey in it
+			if (ta[id][0].length > 0) {
+				// Is this object a object? If not assume it's the next child.
+
+				if (n.nodeName.toLowerCase() == "a") {
+					a = n;
+				} else {
+					a = n.childNodes[0];
+				}
+			 	// Don't add an accesskey for the watch tab if the watch
+			 	// checkbox is also available.
+				if (a && ((id != 'ca-watch' && id != 'ca-unwatch') || !watchCheckboxExists)) {
+					a.accessKey = ta[id][0];
+					ak = ' ['+tooltipAccessKeyPrefix+ta[id][0]+']';
+				}
+			} else {
+				// We don't care what type the object is when assigning tooltip
+				a = n;
+				ak = '';
+			}
+
+			if (a) {
+				a.title = ta[id][1]+ak;
+			}
+		}
+	}
+}
+
+function setupRightClickEdit() {
+	if (document.getElementsByTagName) {
+		var spans = document.getElementsByTagName('span');
+		for (var i = 0; i < spans.length; i++) {
+			var el = spans[i];
+			if(el.className == 'editsection') {
+				addRightClickEditHandler(el);
+			}
+		}
+	}
+}
+
+function addRightClickEditHandler(el) {
+	for (var i = 0; i < el.childNodes.length; i++) {
+		var link = el.childNodes[i];
+		if (link.nodeType == 1 && link.nodeName.toLowerCase() == 'a') {
+			var editHref = link.getAttribute('href');
+			// find the enclosing (parent) header
+			var prev = el.parentNode;
+			if (prev && prev.nodeType == 1 &&
+			prev.nodeName.match(/^[Hh][1-6]$/)) {
+				prev.oncontextmenu = function(e) {
+					if (!e) { e = window.event; }
+					// e is now the event in all browsers
+					var targ;
+					if (e.target) { targ = e.target; }
+					else if (e.srcElement) { targ = e.srcElement; }
+					if (targ.nodeType == 3) { // defeat Safari bug
+						targ = targ.parentNode;
+					}
+					// targ is now the target element
+
+					// We don't want to deprive the noble reader of a context menu
+					// for the section edit link, do we?  (Might want to extend this
+					// to all <a>'s?)
+					if (targ.nodeName.toLowerCase() != 'a'
+					|| targ.parentNode.className != 'editsection') {
+						document.location = editHref;
+						return false;
+					}
+					return true;
+				};
+			}
+		}
+	}
+}
+
+var checkboxes;
+var lastCheckbox;
+
+function setupCheckboxShiftClick() {
+	checkboxes = [];
+	lastCheckbox = null;
+	var inputs = document.getElementsByTagName('input');
+	addCheckboxClickHandlers(inputs);
+}
+
+function addCheckboxClickHandlers(inputs, start) {
+	if ( !start) start = 0;
+
+	var finish = start + 250;
+	if ( finish > inputs.length )
+		finish = inputs.length;
+
+	for ( var i = start; i < finish; i++ ) {
+		var cb = inputs[i];
+		if ( !cb.type || cb.type.toLowerCase() != 'checkbox' )
+			continue;
+		var end = checkboxes.length;
+		checkboxes[end] = cb;
+		cb.index = end;
+		cb.onclick = checkboxClickHandler;
+	}
+
+	if ( finish < inputs.length ) {
+		setTimeout( function () {
+			addCheckboxClickHandlers(inputs, finish);
+		}, 200 );
+	}
+}
+
+function checkboxClickHandler(e) {
+	if (typeof e == 'undefined') {
+		e = window.event;
+	}
+	if ( !e.shiftKey || lastCheckbox === null ) {
+		lastCheckbox = this.index;
+		return true;
+	}
+	var endState = this.checked;
+	var start, finish;
+	if ( this.index < lastCheckbox ) {
+		start = this.index + 1;
+		finish = lastCheckbox;
+	} else {
+		start = lastCheckbox;
+		finish = this.index - 1;
+	}
+	for (var i = start; i <= finish; ++i ) {
+		checkboxes[i].checked = endState;
+	}
+	lastCheckbox = this.index;
+	return true;
+}
+
+function toggle_element_activation(ida,idb) {
+	if (!document.getElementById) {
+		return;
+	}
+	document.getElementById(ida).disabled=true;
+	document.getElementById(idb).disabled=false;
+}
+
+function toggle_element_check(ida,idb) {
+	if (!document.getElementById) {
+		return;
+	}
+	document.getElementById(ida).checked=true;
+	document.getElementById(idb).checked=false;
+}
+
+/**
+ * Restore the edit box scroll state following a preview operation,
+ * and set up a form submission handler to remember this state
+ */
+function scrollEditBox() {
+	var editBox = document.getElementById( 'wpTextbox1' );
+	var scrollTop = document.getElementById( 'wpScrolltop' );
+	var editForm = document.getElementById( 'editform' );
+	if( editBox && scrollTop ) {
+		if( scrollTop.value )
+			editBox.scrollTop = scrollTop.value;
+		addHandler( editForm, 'submit', function() {
+			document.getElementById( 'wpScrolltop' ).value = document.getElementById( 'wpTextbox1' ).scrollTop; 
+		} );
+	}
+}
+hookEvent( 'load', scrollEditBox );
+
+var allmessages_nodelist = false;
+var allmessages_modified = false;
+var allmessages_timeout = false;
+var allmessages_running = false;
+
+function allmessagesmodified() {
+	allmessages_modified = !allmessages_modified;
+	allmessagesfilter();
+}
+
+function allmessagesfilter() {
+	if ( allmessages_timeout )
+		window.clearTimeout( allmessages_timeout );
+
+	if ( !allmessages_running )
+		allmessages_timeout = window.setTimeout( 'allmessagesfilter_do();', 500 );
+}
+
+function allmessagesfilter_do() {
+	if ( !allmessages_nodelist )
+		return;
+
+	var text = document.getElementById('allmessagesinput').value;
+	var nodef = allmessages_modified;
+
+	allmessages_running = true;
+
+	for ( var name in allmessages_nodelist ) {
+		var nodes = allmessages_nodelist[name];
+		var display = ( name.indexOf( text ) == -1 ? 'none' : '' );
+
+		for ( var i = 0; i < nodes.length; i++)
+			nodes[i].style.display =
+				( nodes[i].className == "def" && nodef
+				  ? 'none' : display );
+	}
+
+	if ( text != document.getElementById('allmessagesinput').value ||
+	     nodef != allmessages_modified )
+		allmessagesfilter_do();  // repeat
+
+	allmessages_running = false;
+}
+
+function allmessagesfilter_init() {
+	if ( allmessages_nodelist )
+		return;
+
+	var nodelist = new Array();
+	var templist = new Array();
+
+	var table = document.getElementById('allmessagestable');
+	if ( !table ) return;
+
+	var rows = document.getElementsByTagName('tr');
+	for ( var i = 0; i < rows.length; i++ ) {
+		var id = rows[i].getAttribute('id')
+		if ( id && id.substring(0,16) != 'sp-allmessages-r' ) continue;
+		templist[ id ] = rows[i];
+	}
+
+	var spans = table.getElementsByTagName('span');
+	for ( var i = 0; i < spans.length; i++ ) {
+		var id = spans[i].getAttribute('id')
+		if ( id && id.substring(0,17) != 'sp-allmessages-i-' ) continue;
+		if ( !spans[i].firstChild || spans[i].firstChild.nodeType != 3 ) continue;
+
+		var nodes = new Array();
+		var row1 = templist[ id.replace('i', 'r1') ];
+		var row2 = templist[ id.replace('i', 'r2') ];
+
+		if ( row1 ) nodes[nodes.length] = row1;
+		if ( row2 ) nodes[nodes.length] = row2;
+		nodelist[ spans[i].firstChild.nodeValue ] = nodes;
+	}
+
+	var k = document.getElementById('allmessagesfilter');
+	if (k) { k.style.display = ''; }
+
+	allmessages_nodelist = nodelist;
+}
+
+hookEvent( "load", allmessagesfilter_init );
+
+/*
+	Written by Jonathan Snook, http://www.snook.ca/jonathan
+	Add-ons by Robert Nyman, http://www.robertnyman.com
+	Author says "The credit comment is all it takes, no license. Go crazy with it!:-)"
+	From http://www.robertnyman.com/2005/11/07/the-ultimate-getelementsbyclassname/
+*/
+function getElementsByClassName(oElm, strTagName, oClassNames){
+	var arrElements = (strTagName == "*" && oElm.all)? oElm.all : oElm.getElementsByTagName(strTagName);
+	var arrReturnElements = new Array();
+	var arrRegExpClassNames = new Array();
+	if(typeof oClassNames == "object"){
+		for(var i=0; i<oClassNames.length; i++){
+			arrRegExpClassNames[arrRegExpClassNames.length] =
+				new RegExp("(^|\\s)" + oClassNames[i].replace(/\-/g, "\\-") + "(\\s|$)");
+		}
+	}
+	else{
+		arrRegExpClassNames[arrRegExpClassNames.length] =
+			new RegExp("(^|\\s)" + oClassNames.replace(/\-/g, "\\-") + "(\\s|$)");
+	}
+	var oElement;
+	var bMatchesAll;
+	for(var j=0; j<arrElements.length; j++){
+		oElement = arrElements[j];
+		bMatchesAll = true;
+		for(var k=0; k<arrRegExpClassNames.length; k++){
+			if(!arrRegExpClassNames[k].test(oElement.className)){
+				bMatchesAll = false;
+				break;
+			}
+		}
+		if(bMatchesAll){
+			arrReturnElements[arrReturnElements.length] = oElement;
+		}
+	}
+	return (arrReturnElements)
+}
+
+function redirectToFragment(fragment) {
+	var match = navigator.userAgent.match(/AppleWebKit\/(\d+)/);
+	if (match) {
+		var webKitVersion = parseInt(match[1]);
+		if (webKitVersion < 420) {
+			// Released Safari w/ WebKit 418.9.1 messes up horribly
+			// Nightlies of 420+ are ok
+			return;
+		}
+	}
+	if (is_gecko) {
+		// Mozilla needs to wait until after load, otherwise the window doesn't scroll
+		addOnloadHook(function () {
+			if (window.location.hash == "")
+				window.location.hash = fragment;
+		});
+	} else {
+		if (window.location.hash == "")
+			window.location.hash = fragment;
+	}
+}
+
+/*
+ * Table sorting script  by Joost de Valk, check it out at http://www.joostdevalk.nl/code/sortable-table/.
+ * Based on a script from http://www.kryogenix.org/code/browser/sorttable/.
+ * Distributed under the MIT license: http://www.kryogenix.org/code/browser/licence.html .
+ *
+ * Copyright (c) 1997-2006 Stuart Langridge, Joost de Valk.
+ *
+ * @todo don't break on colspans/rowspans (bug 8028)
+ * @todo language-specific digit grouping/decimals (bug 8063)
+ * @todo support all accepted date formats (bug 8226)
+ */
+
+var ts_image_path = stylepath+"/common/images/";
+var ts_image_up = "sort_up.gif";
+var ts_image_down = "sort_down.gif";
+var ts_image_none = "sort_none.gif";
+var ts_europeandate = wgContentLanguage != "en"; // The non-American-inclined can change to "true"
+var ts_alternate_row_colors = true;
+var SORT_COLUMN_INDEX;
+
+function sortables_init() {
+	var idnum = 0;
+	// Find all tables with class sortable and make them sortable
+	var tables = getElementsByClassName(document, "table", "sortable");
+	for (var ti = 0; ti < tables.length ; ti++) {
+		if (!tables[ti].id) {
+			tables[ti].setAttribute('id','sortable_table_id_'+idnum);
+			++idnum;
+		}
+		ts_makeSortable(tables[ti]);
+	}
+}
+
+function ts_makeSortable(table) {
+	var firstRow;
+	if (table.rows && table.rows.length > 0) {
+		if (table.tHead && table.tHead.rows.length > 0) {
+			firstRow = table.tHead.rows[table.tHead.rows.length-1];
+		} else {
+			firstRow = table.rows[0];
+		}
+	}
+	if (!firstRow) return;
+
+	// We have a first row: assume it's the header, and make its contents clickable links
+	for (var i = 0; i < firstRow.cells.length; i++) {
+		var cell = firstRow.cells[i];
+		if ((" "+cell.className+" ").indexOf(" unsortable ") == -1) {
+			cell.innerHTML += '&nbsp;&nbsp;<a href="#" class="sortheader" onclick="ts_resortTable(this);return false;"><span class="sortarrow"><img src="'+ ts_image_path + ts_image_none + '" alt="&darr;"/></span></a>';
+		}
+	}
+	if (ts_alternate_row_colors) {
+		ts_alternate(table);
+	}
+}
+
+function ts_getInnerText(el) {
+	if (typeof el == "string") return el;
+	if (typeof el == "undefined") { return el };
+	if (el.textContent) return el.textContent; // not needed but it is faster
+	if (el.innerText) return el.innerText;     // IE doesn't have textContent
+	var str = "";
+
+	var cs = el.childNodes;
+	var l = cs.length;
+	for (var i = 0; i < l; i++) {
+		switch (cs[i].nodeType) {
+			case 1: //ELEMENT_NODE
+				str += ts_getInnerText(cs[i]);
+				break;
+			case 3:	//TEXT_NODE
+				str += cs[i].nodeValue;
+				break;
+		}
+	}
+	return str;
+}
+
+function ts_resortTable(lnk) {
+	// get the span
+	var span = lnk.getElementsByTagName('span')[0];
+
+	var td = lnk.parentNode;
+	var tr = td.parentNode;
+	var column = td.cellIndex;
+
+	var table = tr.parentNode;
+	while (table && !(table.tagName && table.tagName.toLowerCase() == 'table'))
+		table = table.parentNode;
+	if (!table) return;
+
+	// Work out a type for the column
+	if (table.rows.length <= 1) return;
+
+	// Skip the first row if that's where the headings are
+	var rowStart = (table.tHead && table.tHead.rows.length > 0 ? 0 : 1);
+
+	var itm = "";
+	for (var i = rowStart; i < table.rows.length; i++) {
+		if (table.rows[i].cells.length > column) {
+			itm = ts_getInnerText(table.rows[i].cells[column]);
+			itm = itm.replace(/^[\s\xa0]+/, "").replace(/[\s\xa0]+$/, "");
+			if (itm != "") break;
+		}
+	}
+
+	sortfn = ts_sort_caseinsensitive;
+	if (itm.match(/^\d\d[\/. -][a-zA-Z]{3}[\/. -]\d\d\d\d$/))
+		sortfn = ts_sort_date;
+	if (itm.match(/^\d\d[\/.-]\d\d[\/.-]\d\d\d\d$/))
+		sortfn = ts_sort_date;
+	if (itm.match(/^\d\d[\/.-]\d\d[\/.-]\d\d$/))
+		sortfn = ts_sort_date;
+	if (itm.match(/^[\u00a3$\u20ac]/)) // pound dollar euro
+		sortfn = ts_sort_currency;
+	if (itm.match(/^[\d.,]+\%?$/))
+		sortfn = ts_sort_numeric;
+
+	var reverse = (span.getAttribute("sortdir") == 'down');
+
+	var newRows = new Array();
+	for (var j = rowStart; j < table.rows.length; j++) {
+		var row = table.rows[j];
+		var keyText = ts_getInnerText(row.cells[column]);
+		var oldIndex = (reverse ? -j : j);
+
+		newRows[newRows.length] = new Array(row, keyText, oldIndex);
+	}
+
+	newRows.sort(sortfn);
+
+	var arrowHTML;
+	if (reverse) {
+			arrowHTML = '<img src="'+ ts_image_path + ts_image_down + '" alt="&darr;"/>';
+			newRows.reverse();
+			span.setAttribute('sortdir','up');
+	} else {
+			arrowHTML = '<img src="'+ ts_image_path + ts_image_up + '" alt="&uarr;"/>';
+			span.setAttribute('sortdir','down');
+	}
+
+	// We appendChild rows that already exist to the tbody, so it moves them rather than creating new ones
+	// don't do sortbottom rows
+	for (var i = 0; i < newRows.length; i++) {
+		if ((" "+newRows[i][0].className+" ").indexOf(" sortbottom ") == -1)
+			table.tBodies[0].appendChild(newRows[i][0]);
+	}
+	// do sortbottom rows only
+	for (var i = 0; i < newRows.length; i++) {
+		if ((" "+newRows[i][0].className+" ").indexOf(" sortbottom ") != -1)
+			table.tBodies[0].appendChild(newRows[i][0]);
+	}
+
+	// Delete any other arrows there may be showing
+	var spans = getElementsByClassName(tr, "span", "sortarrow");
+	for (var i = 0; i < spans.length; i++) {
+		spans[i].innerHTML = '<img src="'+ ts_image_path + ts_image_none + '" alt="&darr;"/>';
+	}
+	span.innerHTML = arrowHTML;
+
+	ts_alternate(table);		
+}
+
+function ts_dateToSortKey(date) {	
+	// y2k notes: two digit years less than 50 are treated as 20XX, greater than 50 are treated as 19XX
+	if (date.length == 11) {
+		switch (date.substr(3,3).toLowerCase()) {
+			case "jan": var month = "01"; break;
+			case "feb": var month = "02"; break;
+			case "mar": var month = "03"; break;
+			case "apr": var month = "04"; break;
+			case "may": var month = "05"; break;
+			case "jun": var month = "06"; break;
+			case "jul": var month = "07"; break;
+			case "aug": var month = "08"; break;
+			case "sep": var month = "09"; break;
+			case "oct": var month = "10"; break;
+			case "nov": var month = "11"; break;
+			case "dec": var month = "12"; break;
+			// default: var month = "00";
+		}
+		return date.substr(7,4)+month+date.substr(0,2);
+	} else if (date.length == 10) {
+		if (ts_europeandate == false) {
+			return date.substr(6,4)+date.substr(0,2)+date.substr(3,2);
+		} else {
+			return date.substr(6,4)+date.substr(3,2)+date.substr(0,2);
+		}
+	} else if (date.length == 8) {
+		yr = date.substr(6,2);
+		if (parseInt(yr) < 50) { 
+			yr = '20'+yr; 
+		} else { 
+			yr = '19'+yr; 
+		}
+		if (ts_europeandate == true) {
+			return yr+date.substr(3,2)+date.substr(0,2);
+		} else {
+			return yr+date.substr(0,2)+date.substr(3,2);
+		}
+	}
+	return "00000000";
+}
+
+function ts_parseFloat(num) {
+	if (!num) return 0;
+	num = parseFloat(num.replace(/,/g, ""));
+	return (isNaN(num) ? 0 : num);
+}
+
+function ts_sort_date(a,b) {
+	var aa = ts_dateToSortKey(a[1]);
+	var bb = ts_dateToSortKey(b[1]);
+	return (aa < bb ? -1 : aa > bb ? 1 : a[2] - b[2]);
+}
+
+function ts_sort_currency(a,b) {
+	var aa = ts_parseFloat(a[1].replace(/[^0-9.]/g,''));
+	var bb = ts_parseFloat(b[1].replace(/[^0-9.]/g,''));
+	return (aa != bb ? aa - bb : a[2] - b[2]);
+}
+
+function ts_sort_numeric(a,b) {
+	var aa = ts_parseFloat(a[1]);
+	var bb = ts_parseFloat(b[1]);
+	return (aa != bb ? aa - bb : a[2] - b[2]);
+}
+
+function ts_sort_caseinsensitive(a,b) {
+	var aa = a[1].toLowerCase();
+	var bb = b[1].toLowerCase();
+	return (aa < bb ? -1 : aa > bb ? 1 : a[2] - b[2]);
+}
+
+function ts_sort_default(a,b) {
+	return (a[1] < b[1] ? -1 : a[1] > b[1] ? 1 : a[2] - b[2]);
+}
+
+function ts_alternate(table) {
+	// Take object table and get all it's tbodies.
+	var tableBodies = table.getElementsByTagName("tbody");
+	// Loop through these tbodies
+	for (var i = 0; i < tableBodies.length; i++) {
+		// Take the tbody, and get all it's rows
+		var tableRows = tableBodies[i].getElementsByTagName("tr");
+		// Loop through these rows
+		// Start at 1 because we want to leave the heading row untouched
+		for (var j = 0; j < tableRows.length; j++) {
+			// Check if j is even, and apply classes for both possible results
+			var oldClasses = tableRows[j].className.split(" ");
+			var newClassName = "";
+			for (var k = 0; k < oldClasses.length; k++) {
+				if (oldClasses[k] != "" && oldClasses[k] != "even" && oldClasses[k] != "odd")
+					newClassName += oldClasses[k] + " ";
+			}
+			tableRows[j].className = newClassName + (j % 2 == 0 ? "even" : "odd");
+		}
+	}
+}
+
+/*
+ * End of table sorting code
+ */
+ 
+ 
+/**
+ * Add a cute little box at the top of the screen to inform the user of
+ * something, replacing any preexisting message.
+ *
+ * @param String message HTML to be put inside the right div
+ * @param String className   Used in adding a class; should be different for each
+ *   call to allow CSS/JS to hide different boxes.  null = no class used.
+ * @return Boolean       True on success, false on failure
+ */
+function jsMsg( message, className ) {
+	if ( !document.getElementById ) {
+		return false;
+	}
+	// We special-case skin structures provided by the software.  Skins that
+	// choose to abandon or significantly modify our formatting can just define
+	// an mw-js-message div to start with.
+	var messageDiv = document.getElementById( 'mw-js-message' );
+	if ( !messageDiv ) {
+		messageDiv = document.createElement( 'div' );
+		if ( document.getElementById( 'column-content' )
+		&& document.getElementById( 'content' ) ) {
+			// MonoBook, presumably
+			document.getElementById( 'content' ).insertBefore(
+				messageDiv,
+				document.getElementById( 'content' ).firstChild
+			);
+		} else if ( document.getElementById('content')
+		&& document.getElementById( 'article' ) ) {
+			// Non-Monobook but still recognizable (old-style)
+			document.getElementById( 'article').insertBefore(
+				messageDiv,
+				document.getElementById( 'article' ).firstChild
+			);
+		} else {
+			return false;
+		}
+	}
+
+	messageDiv.setAttribute( 'id', 'mw-js-message' );
+	if( className ) {
+		messageDiv.setAttribute( 'class', 'mw-js-message-'+className );
+	}
+	messageDiv.innerHTML = message;
+	return true;
+}
+
+/**
+ * Inject a cute little progress spinner after the specified element
+ *
+ * @param element Element to inject after
+ * @param id Identifier string (for use with removeSpinner(), below)
+ */
+function injectSpinner( element, id ) {
+	var spinner = document.createElement( "img" );
+	spinner.id = "mw-spinner-" + id;
+	spinner.src = stylepath + "/common/images/spinner.gif";
+	spinner.alt = spinner.title = "...";
+	if( element.nextSibling ) {
+		element.parentNode.insertBefore( spinner, element.nextSibling );
+	} else {
+		element.parentNode.appendChild( spinner );
+	}
+}
+
+/**
+ * Remove a progress spinner added with injectSpinner()
+ *
+ * @param id Identifier string
+ */
+function removeSpinner( id ) {
+	var spinner = document.getElementById( "mw-spinner-" + id );
+	if( spinner ) {
+		spinner.parentNode.removeChild( spinner );
+	}
+}
+
+function runOnloadHook() {
+	// don't run anything below this for non-dom browsers
+	if (doneOnloadHook || !(document.getElementById && document.getElementsByTagName)) {
+		return;
+	}
+
+	// set this before running any hooks, since any errors below
+	// might cause the function to terminate prematurely
+	doneOnloadHook = true;
+
+	histrowinit();
+	unhidetzbutton();
+	tabbedprefs();
+	updateTooltipAccessKeys( null );
+	akeytt( null );
+	scrollEditBox();
+	setupCheckboxShiftClick();
+	sortables_init();
+
+	// Run any added-on functions
+	for (var i = 0; i < onloadFuncts.length; i++) {
+		onloadFuncts[i]();
+	}
+}
+
+/**
+ * Add an event handler to an element
+ *
+ * @param Element element Element to add handler to
+ * @param String attach Event to attach to
+ * @param callable handler Event handler callback
+ */
+function addHandler( element, attach, handler ) {
+	if( window.addEventListener ) {
+		element.addEventListener( attach, handler, false );
+	} else if( window.attachEvent ) {
+		element.attachEvent( 'on' + attach, handler );
+	}
+}
+
+/**
+ * Add a click event handler to an element
+ *
+ * @param Element element Element to add handler to
+ * @param callable handler Event handler callback
+ */
+function addClickHandler( element, handler ) {
+	addHandler( element, 'click', handler );
+}
+//note: all skins should call runOnloadHook() at the end of html output,
+//      so the below should be redundant. It's there just in case.
+hookEvent("load", runOnloadHook);
+hookEvent("load", mwSetupToolbar);
+_application/javascript‘*+,-_msafari-extension://com.diigo.safari.awesomeScreenshot-5DXNM3K2CT/bec3e854/javascripts/presto/prestosavings.jsOrbplist00‘67X$versionX$objectsY$archiverT$top Ü†´%&-./012U$null€	
+R$3V$classR$6R$1R$9R$4R$7R$2R$5R$0R$8ÄÄ
+Ä Ä	ÄÄ ÄÄ” 
+!#$WNS.base[NS.relativeÄ ÄÄ_msafari-extension://com.diigo.safari.awesomeScreenshot-5DXNM3K2CT/bec3e854/javascripts/presto/prestosavings.js“'()*Z$classnameX$classesUNSURL¢+,UNSURLXNSObject#AπﬁTñ·"S_application/javascript$#Ôˇˇˇˇˇˇ“'(34]NSURLResponse¢5,]NSURLResponse_NSKeyedArchiver—89_WebResourceResponseÄ    # - 2 7 C I ` c j m p s v y |  Ç Ö á â ã ç è ë ì ï ó ô õ ¢ ™ ∂ ∏ ∫ º,1<EKNT]fhÅÑçí†£±√∆‹             :              ﬁO$/*
+ * PrestoSavings namespace
+ */
+if (typeof PrestoSavingsiFrame == "undefined") {
+    var PrestoSavingsiFrame = {};
+};
+
+PrestoSavingsiFrame = {
+    partner_settings: {},
+
+    load: function() {
+        if (PrestoSavingsiFrame.partner_settings.retarget_drop == true) {
+            var pframe = document.createElement('div');
+            pframe.innerHTML = decodeURIComponent(PrestoSavingsiFrame.partner_settings.retarget_item);
+            document.getElementsByTagName("body")[0].appendChild(pframe);
+        }
+
+        //if no coupons/prices/injection stop:
+        if (!PrestoSavingsiFrame.partner_settings.coupons && !PrestoSavingsiFrame.partner_settings.price_comparison && !PrestoSavingsiFrame.partner_settings.injection)
+            return false;
+
+        var iframe = document.createElement("iframe");
+        iframe.setAttribute("src", PrestoSavingsiFrame.partner_settings.params.src + "iframe.php");
+        iframe.id = "prestosavings-ifrm-01";
+        iframe.name = "prestosavings-ifrm-01";
+        iframe.style.width = "330px";
+        iframe.style.height = "0px";
+        iframe.style.border = "0px";
+        iframe.style.position = "fixed";
+        iframe.style.bottom = "0px";
+        iframe.style.right = "0px";
+        iframe.style.padding = "0px";
+        iframe.style.lineHeight = "1em";
+        iframe.style.zIndex = "99999999999";
+        iframe.style.marginRight = "10px";
+        document.getElementsByTagName("body")[0].appendChild(iframe);
+
+        var iframe2 = document.createElement("iframe");
+        iframe2.setAttribute("src", PrestoSavingsiFrame.partner_settings.params.src + "iframe2.php");
+        iframe2.id = "prestosavings-ifrm-02";
+        iframe2.name = "prestosavings-ifrm-02";
+        iframe2.style.width = "100%";
+        iframe2.style.height = "0px";
+        iframe2.style.border = "0px";
+        iframe2.style.position = "absolute";
+        iframe2.style.top = "0px";
+        iframe2.style.left = "0px";
+        iframe2.style.padding = "0px";
+        iframe2.style.lineHeight = "1em";
+        iframe2.style.zIndex = "99999999999";
+        iframe2.style.marginRight = "10px";
+        document.getElementsByTagName("body")[0].appendChild(iframe2);
+
+        var ifrm_json = {
+            "message": "init",
+            "pc": false,
+            "cp_pop": PrestoSavingsiFrame.partner_settings.params.cppop,
+            "pc_pop": PrestoSavingsiFrame.partner_settings.params.pcpop,
+            "bar_pop": PrestoSavingsiFrame.partner_settings.params.bar,
+            "uid": PrestoSavingsiFrame.partner_settings.params.uid,
+            "pid": PrestoSavingsiFrame.partner_settings.params.pid,
+            "host": document.location.host,
+            "referer": encodeURIComponent(document.location),
+            "psize": window.innerHeight,
+            "cookie": PrestoSavingsiFrame.readCookie('prestosavings_seen'),
+            "partner_settings": PrestoSavingsiFrame.partner_settings,
+            "injectConfirm": PrestoSavingsiFrame.readCookie('injectConfirm'),
+            "prestoInject": PrestoSavingsiFrame.readCookie('prestoshopperInjected'),
+            "injectNotification": PrestoSavingsiFrame.readCookie('injectNotification'),
+            "hideBar": PrestoSavingsiFrame.readCookie('PShideBar')
+        };
+
+        if (PrestoSavingsiFrame.partner_settings.merchant != false && ifrm_json.pc_pop == true) {
+            ifrm_json['mercname'] = PrestoSavingsiFrame.partner_settings.merchant.merchantName;
+            for (var strKey in PrestoSavingsiFrame.partner_settings.merchant) {
+                if (strKey != 'merchantName') {
+                    var strXPathValue = PrestoSavingsiFrame.partner_settings.merchant[strKey];
+                    ifrm_json[strKey] = PrestoSavingsiFrame.parseXPath(strXPathValue);
+                    ifrm_json['pc'] = true;
+                }
+            }
+        }
+
+        iframe.onload = function() {
+            iframe.contentWindow.postMessage(ifrm_json, "*");
+        }
+        iframe2.onload = function() {
+            iframe2.contentWindow.postMessage(ifrm_json, "*");
+        }
+
+    },
+    affiliateNet: function() {
+        if (!PrestoSavingsiFrame.partner_settings.injection)
+            return false;
+
+        if (PrestoSavingsiFrame.partner_settings.injection_suspend == true) {
+            PrestoSavingsiFrame.createCookie('prestoshopperLoad', 1);
+            PrestoSavingsiFrame.createCookie('PShideBar', 1);
+        }
+
+        //if requires confirmation to inject, and inject cookie is not set, do not inject, popup bar instead.
+        var inj_confirm = PrestoSavingsiFrame.readCookie('injectConfirm');
+        if (inj_confirm != '1' && PrestoSavingsiFrame.partner_settings.injection_confirm == true)
+            return false;
+
+        var loaded = PrestoSavingsiFrame.readCookie('prestoshopperLoad');
+        var return_url = PrestoSavingsiFrame.readCookie('prestoshopperReturn');
+        if (return_url != undefined && return_url != null && return_url != '') {
+            PrestoSavingsiFrame.createCookie('prestoshopperReturn', '', -1);
+            PrestoSavingsiFrame.createCookie('prestoshopperInjected', 1);
+            var iframe = document.createElement("iframe");
+            iframe.setAttribute("src", return_url);
+            iframe.setAttribute("width", "0");
+            iframe.setAttribute("height", "0");
+            iframe.setAttribute("frameborder", "0");
+            iframe.id = "prestosavings-ifrm-03";
+            iframe.style.display = "none";
+            iframe.style.visibility = "hidden";
+            document.getElementsByTagName("body")[0].appendChild(iframe);
+            return true;
+        } else if (PrestoSavingsiFrame.partner_settings.inject_in.url && !loaded) {
+            if (PrestoSavingsiFrame.partner_settings.inject_in.partnerclick) {
+                PrestoSavingsiFrame.createCookie('prestoshopperLoad', 1);
+            } else if (PrestoSavingsiFrame.partner_settings.inject_in.active == 1 && PrestoSavingsiFrame.partner_settings.inject_in.url) {
+                PrestoSavingsiFrame.createCookie('prestoshopperLoad', 1);
+                PrestoSavingsiFrame.createCookie('prestoshopperInjected', 1);
+
+                if (PrestoSavingsiFrame.partner_settings.inject_in.return_needed) {
+                    PrestoSavingsiFrame.createCookie('prestoshopperReturn', document.location.href);
+                }
+                var iframe = document.createElement("iframe");
+                iframe.setAttribute("src", PrestoSavingsiFrame.partner_settings.inject_in.url);
+                iframe.setAttribute("width", "0");
+                iframe.setAttribute("height", "0");
+                iframe.setAttribute("frameborder", "0");
+                iframe.id = "prestosavings-ifrm-03";
+                iframe.style.display = "none";
+                iframe.style.visibility = "hidden";
+                document.getElementsByTagName("body")[0].appendChild(iframe);
+                return true;
+            }
+        }
+
+        return false;
+    },
+    parseXPath: function(xpath) {
+        if (xpath == undefined || xpath == "")
+            return "";
+
+        try {
+            var result = document.evaluate("normalize-space(" + xpath + ")", document, null, XPathResult.ANY_TYPE, null);
+            if (result.stringValue == undefined || result.stringValue == null || result.stringValue == "" || result.stringValue.replace(/\s/g, '') == "") return '';
+            return result.stringValue;
+        } catch (e) {
+            return "";
+        }
+    },
+    createCookie: function(name, value, days) {
+        var date, expires = '';
+        if (days) {
+            date = new Date();
+            date.setTime(date.getTime() + (days * 24 * 60 * 60 * 1000));
+            expires = "; expires=" + date.toGMTString();
+        }
+        document.cookie = name + "=" + value + expires + "; path=/";
+    },
+    readCookie: function(cName) {
+        var nameEQ = cName + "=";
+        var ca = document.cookie.split(";");
+        for (var i = 0; i < ca.length; i++) {
+            var c = ca[i];
+            while (c.charAt(0) == " ") c = c.substring(1, c.length);
+            if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length, c.length);
+        }
+        return null;
+    }
+};
+
+window.addEventListener('message', function(e) {
+    if (typeof e.data === 'object') {
+        if (e.data.message == 'psLoadSettingsStart') {
+            PrestoSavingsiFrame.partner_settings = e.data.data;
+            PrestoSavingsiFrame.affiliateNet();
+            PrestoSavingsiFrame.load();
+        } else if (e.data.message == 'sizeCh') {
+            var ifrm_prsto = document.getElementById('prestosavings-ifrm-01');
+            ifrm_prsto.style.height = e.data.height;
+        } else if (e.data.message == 'sizeCh02') {
+            var ifrm_prsto = document.getElementById('prestosavings-ifrm-02');
+            ifrm_prsto.style.height = e.data.height;
+            var body = document.getElementsByTagName("body")[0];
+            body.style.marginTop = e.data.height;
+        } else if (e.data.message == 'setCo') {
+            document.cookie = e.data.name + '=' + e.data.value + '; expires=0; path=/';
+        } else if (e.data.message == 'reload') {
+            window.location.reload();
+        }
+    }
+});
+_application/javascript‘/012_;https://prof.ti.bfh.ch/hew1/informatik3/prolog/p-99/p67.gifObplist00‘efX$versionX$objectsY$archiverT$top Ü†Ø"()012JKLMNOPQRSTUVWXYZ[\_`U$null›	
+ !R$6S$10R$2R$7R$3S$11R$8V$classR$4R$9R$0R$5R$1ÄÄÄ ÄÄÄÄÄ”#$%&'WNS.base[NS.relativeÄ ÄÄ_;https://prof.ti.bfh.ch/hew1/informatik3/prolog/p-99/p67.gif“*+,-Z$classnameX$classesUNSURL¢./UNSURLXNSObject#AπﬁTùcg»”345?IWNS.keysZNS.objects©6789:;<=>Ä	Ä
+ÄÄÄÄÄÄÄ©@BCDEFGHÄÄÄÄÄÄÄÄÄÄVServer\Content-TypeTEtag]Last-ModifiedTDate]Accept-Ranges^Content-LengthZKeep-AliveZConnectionVApacheYimage/gif_"1a5b29-4a5-372d5b5184880"_Wed, 04 Oct 2000 19:18:42 GMT_Fri, 03 Oct 2014 03:50:36 GMTUbytesT1189_timeout=15, max=100ZKeep-Alive“*+]^\NSDictionary¢]/•“*+ab_NSHTTPURLResponse£cd/_NSHTTPURLResponse]NSURLResponse_NSKeyedArchiver—gh_WebResourceResponseÄ    # - 2 7 X ^ y | Ä É Ü â ç ê ó ö ù † £ ¶ ® ™ ¨ Æ ∞ ≤ ¥ ∂ ∏ ∫ º æ ≈ Õ Ÿ € › ﬂ"-6<?ENWY`hs}ÅÉÖáâãçèôõùü°£•ß©´≠¥¡∆‘ŸÁˆ:ZzÄÖõ¶´∏ªæ√◊€Ô˝(             i              *O•GIF87aº ’ Ä     ˇˇˇ,    º ’  ˛åè©ÀÌ£ú¥⁄ã≥ﬁº˚Ü‚HñÊâ¶Í ∂Ó«ÚL◊ˆçÁ˙Œ˜˛
+áƒ¢ÒàL*óÃ¶Û	çJß‘™ıäÕj∑‹Æ˜ã«‰≤˘åN´◊Ï∂x?Ù∫=.7ﬁÈÅ=>W˜`Ë#(qXòìà»ßx√8˘3)ÈHÉâ±ôŸ“…˘Á…zQ:jrj*äz¢jÒ⁄
+KA+€ÒJa{ª°* ∫¿€*πL<ã|pwú\Úã∞,=˝Ï;˝G;l][-ªÕ›¯.Q.\m^ÃÅæ>®Ó¸bŸ?ã^èØ°{ÈŒè¡û˚v√„O‡°Çè±Ú1√Ü
+óA¨7ë"µ˛{5ûË cCë´8Ú# ‰;îXrsŸ§,ò˝dé¢yMe/úÌl*‚âÀg†à 1ZT(§‰î¶a™LÁPßÙ®éÅ:k≠Y≠z·JÏéb√ÚíJ‰‚©≤–÷™ù3–èDØ*"…ï´$a:GlQ,d®w…ÅLD;Ée‡$ãC“5ã∂Ô
+òíÉ"ÓÛò¿ ◊:æl s“†cA33Ì5Ê“§{∏≠ :ïÍ–≥ª6–ªmS◊ÿ`◊v°47;aòÔ	∑Ì8é∫„˘ngìw$◊ix<§K£›õDÏ;¢]wÃ∏w7ﬁ∑∑ÉG‚˝yÖÃ†Î—ﬁ˛|wã m1Ø
+O€o¸£˛—◊æÔ[k·	Xùj ÚÁô!¶(ÇL˙vg≤E¯ Ñ%¡YÖ˘‡¶aÉ·HòîI ÷5Ãà!.g"â‡§x¢Z,NÊbcÇ’w—jY∏h£∆uX√ã	∫'è⁄SÜè√çS‰~)(&dbM"`íiÈÛ§&U ◊úîA‡ddèW¶ÛcêJz∏‡ó¿ô9]Of†YúeIéŸÅb¯õ0¬¶öZ‚ÄUó4¯ô&ÇW·πã\MB(ùÜB—c|‡x#çı‘Ã§]≈eXçf
+!ä^…Hõù5≠XŒ`Tôöh%%n√dù¶˙…ágQi ≠ô\LeRkjºrw‰*yf7l†5≈$˛Á{…ãl∞Œ·”k@ÇôÂ≤BË∑"µÖ´^ú Ü‘Ì\àL˚—n˛.5π∆Ce~Âû[—D•§ßü∞ÂÖFÓµÀ•K€ΩÒa	%qﬂ9/∏3˚/æ‹º®9~Î/πkô0√	øK¨¡´+¬Üf®qœàÆ≈π<ä¢ΩŒ’[«Õ[ß zflm¥ZKÚÃ„úoîÍºÛ±B7À⁄–Èö“ü˝ÍÓÜn:Ìe≥æ⁄’P¥⁄ëQ˝3™z:¶√Áó1äv∂®îûmô•æ∫m 5z›™⁄˝†'ıä˜F}«˙∑f|Æv2z„S81áœì¯NçﬂÚ¯Lë∑à29*ãØ48E¡\n˘[ï/Ö)ßÅóˆËJf:‘\ßÆµÖ¨7çÎÎ⁄>+˚√D◊Óqµ∏€ntÌ¡eÓ…Ôª˜ª2Ô‚O/ª¿Síû¬ø>Ò¿#o≈”Ôû|œ¶ü¨úˆ£üÂ˝˜ÏÜ/~ºS_¨Ôõ}æï≠√ÔÂ˙˚∑.ˇ^•◊ü_å¯Ñ◊˛F  ;Yimage/gif‘4567_Thttp://www.haskell.org/wikistatic/skins//common/images/poweredby_mediawiki_88x31.pngOEbplist00‘efX$versionX$objectsY$archiverT$top Ü†Ø"()012JKLMNOPQRSTUVWXYZ[\_`U$null›	
+ !R$6S$10R$2R$7R$3S$11R$8V$classR$4R$9R$0R$5R$1ÄÄÄ ÄÄÄÄÄ”#$%&'WNS.base[NS.relativeÄ ÄÄ_Thttp://www.haskell.org/wikistatic/skins//common/images/poweredby_mediawiki_88x31.png“*+,-Z$classnameX$classesUNSURL¢./UNSURLXNSObject#AπﬁTñ°i¬»”345?IWNS.keysZNS.objects©6789:;<=>Ä	Ä
+ÄÄÄÄÄÄÄ©@BCDEFGHÄÄÄÄÄÄÄÄÄÄVServer\Content-TypeTEtag]Last-ModifiedTDate]Accept-Ranges^Content-LengthZKeep-AliveZConnection_Apache/2.2.22 (Debian)Yimage/png_"9dc049-78d-4e17acb4e2b00"_Sun, 14 Jul 2013 15:57:00 GMT_Fri, 03 Oct 2014 03:50:43 GMTUbytesT1933_timeout=5, max=99ZKeep-Alive“*+]^\NSDictionary¢]/ç“*+ab_NSHTTPURLResponse£cd/_NSHTTPURLResponse]NSURLResponse_NSKeyedArchiver—gh_WebResourceResponseÄ    # - 2 7 X ^ y | Ä É Ü â ç ê ó ö ù † £ ¶ ® ™ ¨ Æ ∞ ≤ ¥ ∂ ∏ ∫ º æ ≈ Õ Ÿ € › ﬂ6;FOUX^gpryÅåñòöúû†¢§¶®≤¥∂∏∫ºæ¿¬ƒ∆Õ⁄ﬂÌÚ %>HeÖ•´∞ƒœ‘·‰ÁÏ &8;Q             i              SOçâPNG
+
+   IHDR   X      T˙“   sBIT€·O‡  îPLTE)k™™÷Ê≈—øµ≈œÅvsî©Ñ´æ™™™Ayù«ƒzÌÏÊ[gR÷ƒM%_xqyE≥´iÿ‹ﬁVÑ£–u
+ PÑ· $∞≠6=Fîˆˆˆ∆¬§£∂ƒ«Õ–¿i
+ fôOzò LÄù£´È‘2jéËÁ€Œ‘◊–«c·Ÿxéë7äççÚÕ	÷÷…ÜïÆÏ€#^òµﬂñ:Ñ≠0;xv§ªÊÿ?ı≤Á·©Wãò±¡,vDvòNÑ¶Æ≤ï¨ÆæmùÍŸ™m÷…/!hñπƒõÖÖ∏+KÇ){•´∫≈◊“µ÷÷÷8ró¡Œ◊ﬂŸöÂ™ »∏LÖ£∑Rë±lê®“Üÿ ˝÷ï≠æƒæsÚ›5›—g!eíáßºfã¢Á÷R›≈Eåõ∂≤ø«”Õñﬁﬁ…ª√œ¿pÕ∑4[Ü&&ö2mîŒÕ≈ﬁﬁ÷û≥¿ÙÀ ·‰Ê@\ãË‰º‡◊ä‰◊4œŒæ4ÅßÎ’IdëBSZ€∫ÂŒ!ñzjù∑túµ•æÀıﬁTÜëí•≈–◊ºDä≠0NÇ_å‡ùÊ–‘â˜ËG‹‡‚L£Ë«†§ïÿŒUˇ…t°çíª¯∆Í·Œ÷‹Ë—2în[ä®y˜◊Óﬁ„◊j«πDúï-bé¨÷ŒåÊ‹ÖÏøŸŸÊ¡jöô∂Ã}8tõÂßµrùµ∆Ù‰=ÍËÕã§µÛﬂ)ƒ≈ŒbëØ’úÃÃÃﬁﬁﬁ¶ª»|ù≥"cç¨øÀü´¿Zå∆t‡œL÷Ωé´æ‡±	Mzô√¿¬ËΩRÉ£Faé\ã‹◊Æ8CgÓÿGMU]ıº˜œ{ßΩÊÊÊ)jî‘} Sâõ†¶´®≠î¥ƒ∫∞@— lïôäπµ°TYöÌ—«vÀ—‘¡æyŒÀÅ‚⁄íÎÿQ)>    	pHYs  
+  
+B¨4ò  êIDATH«Ì–˚[Su”XÃy"=4*ôÛ„OCCJ LÚÏÑçÖ\Ü∏éƒÌ;ƒç6ÊúcvF≠[ﬁ¶c‘Å3πÃK`…˙Nr]EüÈêƒıÙ<ı ?Ù<Ω8üœ˘|æﬂ◊_dÕ*YÛÕ™‰x9<˚Xj6‘‘‘ÃÆ<apÂ—˚ßèVV>_ñ®ü£b*ﬂ®‹˚errÚ£©O´5˚øâvaØuáç√·¬¬éÊ¬“Ù Ω„•è‰X	ﬁ™≈C2±ÿçª≈>±[&V˚8[pÅ[≤∞ó±≤Z{ΩﬁŸYÔçπ[xîN«„Òtçâ©ŒŒ8ÆˆzπC√íV≥Yf‰·Y>I®Kfñi[Û∂∞≠Ñ€kŸa®@köRƒª^xs}ÃëNkR=è∑’Èt^>˛€.qJìÊ!,ò5„º¿\`ŒkÌ“j[[qÆòC¯ågÖ
+∫˛Ú»I)˛ÀÌ¯;º˙È'Í==˝˝€>∆Òìw»¿^∆Cy/≥œ!!≤~0∞sÖJ∏Ω6OãgÑ¡ÜLbxÒag˙{◊n^kooœüËt÷˝_‹≈∞Ic#5p_>˜5`|)F0Ç¿∏ÇÒπ©‘`‡c	[¶iDC◊˛x˚pR“'”ß∆∆∆Œ=‡ÔÏ¶iBˇ”¯è˝.¡∑N?ﬂÿ¶€ÒŒ∆úúçÁ∑¨%küŸÚØ‡∞,¬ìÙ°µÖŒ>g«©{9--9œÂ˙Á>¨X!LQàÜ¢û˙.j–qˆﬁ•ñß[.›πËk†>Ë¶(B±1V’QW%¶˛åÁYuúù^h˝åöRfR“j•‹„â„f—Fäba  w◊ï¥%%•‰|∆>E~`kI¬Ì- h¿ff∆@ÏË® Ç‡&ì«¢NÒp¯?-Tü•n‰†æö¶•¿≥	 ÜôÑß#¨÷}G⁄ΩÅÅ˜€o≥&¨{BŸº*bËMI1;√å 02dÇ¶H±m6Ø0SMIåI˘÷àFÀiœu·&xe˝∂ÑÔ;~olO{∑˝S«ƒD…‹+Á lZÑ3&œJ]£æ2Q∆®~8ò;+ 0ÍcÉ"~Ÿ√dDª0ïB!T˝P(ZÇ˜®·πù˜KbRS˜9˙˙¶œ∂e[?˙ıÛn®ﬁ≥+GlevˆæE5d∑ÿm6ABÆÁﬂîœ§í+˝qS√PÂ˜ãDe~ªWT\≈æz©¯H_vs≥„¡Â§cŸçÈ=?«∞´<£Ïe6πÉÍ‹†!dèu©0®Pô‰z˚CF›ÑàÈ,la.PK0ä¢‹Ì¯¯˘˛ÛÈ∫˘ÒââÊ‘g∆P îÀå}M‘Î∂ÙfXÙC’¶^Uµ}4∑W>d
+
+]#’èÿî•T~ÖM QóEYò|›1è∞^)çà:Û‡Î--»Î≤®ÂGcd∆Ê*ILïBÅEzP~UUQ$AÚÀà,"A˘¡X%Y«õHrLíÒ(⁄Ÿâ6tÓx˚Jbπ≤<ì$‹]Kí∑m®%—'?π∞ã´íˇ$ºJ˘±ÈvÌcNè6    IENDÆB`ÇYimage/png            1   <   S   b   t   ä   ®   ©   Â  Ç˚  É  É  É  É  É3  Ét  à  é–  éŸ  é‚  è!  ì≥  »  »  »$  »j  Õ  ·±  ·∫  ·√  ·Î  Ê¶ Üw Üâ Üí Ü‘ ãã *@ *Y *b *“ -H QN Qg Qp QÆ UŒ Zw ZÅ Zä Z· _* fª             8             f≈

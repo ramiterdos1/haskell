@@ -1,0 +1,263 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" dir="ltr">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+		<meta name="generator" content="MediaWiki 1.19.5-1+deb7u1" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/haskellwiki/opensearch_desc.php" title="HaskellWiki (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="http://www.haskell.org/haskellwiki/api.php?action=rsd" />
+<link rel="copyright" href="/haskellwiki/HaskellWiki:Copyrights" />
+<link rel="alternate" type="application/atom+xml" title="HaskellWiki Atom feed" href="/haskellwiki/index.php?title=Special:RecentChanges&amp;feed=atom" />		<title>99 questions/Solutions/99 - HaskellWiki</title>
+		<style type="text/css" media="screen, projection">/*<![CDATA[*/
+			@import "/wikistatic/skins//common/shared.css?303";
+			@import "/wikistatic/skins//hawiki/main.css?303";
+		/*]]>*/</style>
+		<link rel="stylesheet" type="text/css" media="print" href="/wikistatic/skins//common/commonPrint.css?303" />
+		<!--[if lt IE 5.5000]><style type="text/css">@import "/wikistatic/skins//hawiki/IE50Fixes.css?303";</style><![endif]-->
+		<!--[if IE 5.5000]><style type="text/css">@import "/wikistatic/skins//hawiki/IE55Fixes.css?303";</style><![endif]-->
+		<!--[if IE 6]><style type="text/css">@import "/wikistatic/skins//hawiki/IE60Fixes.css?303";</style><![endif]-->
+		<!--[if IE 7]><style type="text/css">@import "/wikistatic/skins//hawiki/IE70Fixes.css?303";</style><![endif]-->
+		<!--[if lte IE 7]><script type="text/javascript" src="/wikistatic/skins//hawiki/IEFixes.js?303"></script>
+		<meta http-equiv="imagetoolbar" content="no" /><![endif]-->
+                                                <script type="text/javascript">
+                        var isMSIE55 = (window.showModalDialog && window.clipboardData && window.createPopup); /*alert("test: " + isMSIE55);*/</script>
+
+		<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"99_questions/Solutions/99","wgTitle":"99 questions/Solutions/99","wgCurRevisionId":36216,"wgArticleId":6520,"wgIsArticle":true,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgRelevantPageName":"99_questions/Solutions/99","wgRestrictionEdit":[],"wgRestrictionMove":[]});
+}</script>
+		<script type="text/javascript" src="/wikistatic/skins//common/wikibits.js?303"><!-- wikibits js --></script>
+		<!-- Head Scripts -->
+<script src="http://www.haskell.org/haskellwiki/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=hawiki&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"99_questions/Solutions/99","wgTitle":"99 questions/Solutions/99","wgCurRevisionId":36216,"wgArticleId":6520,"wgIsArticle":true,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgRelevantPageName":"99_questions/Solutions/99","wgRestrictionEdit":[],"wgRestrictionMove":[]});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"externaldiff":0,"externaleditor":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"highlightbroken":1,"imagesize":2,"justify":0,"math":1,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":1,"previewonfirst":0,"previewontop":1,"quickbar":5,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":0,"showjumplinks":1,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"hawiki","stubthreshold":0,"thumbsize":2,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":0,"watchdefault":0,"watchdeletion":0,
+"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"variant":"en","language":"en","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false});;},{},{});mw.loader.implement("user.tokens",function($){mw.user.tokens.set({"editToken":"+\\","watchToken":false});;},{},{});
+
+/* cache key: wikidb:resourceloader:filter:minify-js:7:befcdb5e3b24ff89f900613de9ed4ea3 */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax"]);
+}</script><style type="text/css">/*<![CDATA[*/
+.source-haskell {line-height: normal;}
+.source-haskell li, .source-haskell pre {
+	line-height: normal; border: 0px none white;
+}
+/**
+ * GeSHi Dynamically Generated Stylesheet
+ * --------------------------------------
+ * Dynamically generated stylesheet for haskell
+ * CSS class: source-haskell, CSS id: 
+ * GeSHi (C) 2004 - 2007 Nigel McNie, 2007 - 2008 Benny Baumann
+ * (http://qbnz.com/highlighter/ and http://geshi.org/)
+ * --------------------------------------
+ */
+.haskell.source-haskell .de1, .haskell.source-haskell .de2 {font: normal normal 1em/1.2em monospace; margin:0; padding:0; background:none; vertical-align:top;}
+.haskell.source-haskell  {font-family:monospace;}
+.haskell.source-haskell .imp {font-weight: bold; color: red;}
+.haskell.source-haskell li, .haskell.source-haskell .li1 {font-weight: normal; vertical-align:top;}
+.haskell.source-haskell .ln {width:1px;text-align:right;margin:0;padding:0 2px;vertical-align:top;}
+.haskell.source-haskell .li2 {font-weight: bold; vertical-align:top;}
+.haskell.source-haskell .kw1 {color: #06c; font-weight: bold;}
+.haskell.source-haskell .kw2 {color: #06c; font-weight: bold;}
+.haskell.source-haskell .kw3 {font-weight: bold;}
+.haskell.source-haskell .kw4 {color: #cccc00; font-weight: bold;}
+.haskell.source-haskell .kw5 {color: maroon;}
+.haskell.source-haskell .co1 {color: #5d478b; font-style: italic;}
+.haskell.source-haskell .co2 {color: #339933; font-weight: bold;}
+.haskell.source-haskell .coMULTI {color: #5d478b; font-style: italic;}
+.haskell.source-haskell .es0 {background-color: #3cb371; font-weight: bold;}
+.haskell.source-haskell .br0 {color: green;}
+.haskell.source-haskell .sy0 {color: #339933; font-weight: bold;}
+.haskell.source-haskell .st0 {background-color: #3cb371;}
+.haskell.source-haskell .nu0 {color: red;}
+.haskell.source-haskell .me1 {color: #060;}
+.haskell.source-haskell .ln-xtra, .haskell.source-haskell li.ln-xtra, .haskell.source-haskell div.ln-xtra {background-color: #ffc;}
+.haskell.source-haskell span.xtra { display:block; }
+
+/*]]>*/
+</style>	</head>
+<body class="mediawiki ltr ns-0 ns-subject page-99_questions_Solutions_99 skin-hawiki">
+   <div id="topbar" class="noprint">
+	<div class="portlet noprint" id="p-personal">
+		<h5>Personal tools</h5>
+		<div class="pBody">
+			<ul><li><a class="homebutton" href="/haskellwiki/Haskell">Home</a></li>
+				<li id="pt-login"><a href="/haskellwiki/index.php?title=Special:UserLogin&amp;returnto=99+questions%2FSolutions%2F99">Log in</a></li>
+			</ul>
+		</div>
+	</div>
+        	  <div id="p-search">
+	    <div id="searchBody" class="pBody">
+	       <form action="/haskellwiki/index.php" id="searchform"><div>
+	          <input type='hidden' name="title" value="Special:Search"/>
+	          <input id="searchInput" name="search" type="text" value="" />
+				<input type='submit' name="go" class="searchButton" id="searchGoButton"	value="Go" />&nbsp;
+				<input type='submit' name="fulltext" class="searchButton" id="mw-searchButton" value="Search" />
+
+	         </div></form>
+	    </div>
+	  </div>
+   </div>
+	<div id="globalWrapper">
+	<div class="portlet" id="p-logo">
+		<a style="background-image: url(/wikistatic/haskellwiki_logo.png);" href="/haskellwiki/Haskell"></a>
+	</div>
+	<div id="column-content">
+        <div id="notice-area" class="noprint">
+        <!-- ?php $this->data['sitenotice'] = 'This is a test instance.  Do not edit, your changes will be lost.'; ? -->
+			        </div>
+        <div id="content-wrapper">
+	<div id="p-cactions" class="portlet noprint">
+		<h5>Views</h5>
+		<div class="pBody">
+			<ul>
+	
+				 <li id="ca-nstab-main" class="selected"><a href="/haskellwiki/99_questions/Solutions/99">Page</a></li>
+				 <li id="ca-talk" class="new"><a href="/haskellwiki/index.php?title=Talk:99_questions/Solutions/99&amp;action=edit&amp;redlink=1">Discussion</a></li>
+				 <li id="ca-viewsource"><a href="/haskellwiki/index.php?title=99_questions/Solutions/99&amp;action=edit">View source</a></li>
+				 <li id="ca-history"><a href="/haskellwiki/index.php?title=99_questions/Solutions/99&amp;action=history">History</a></li>			</ul>
+		</div>
+	</div>
+                        <div id="content">
+		<a name="top" id="top"></a>
+                        <h1 id="firstHeading" class="firstHeading">99 questions/Solutions/99</h1>
+		<div id="bodyContent">
+			<h3 id="siteSub">From HaskellWiki</h3>
+			<div id="contentSub"><span class="subpages">&lt; <a href="/haskellwiki/99_questions" title="99 questions">99 questions</a> | <a href="/haskellwiki/99_questions/Solutions" title="99 questions/Solutions">Solutions</a></span></div>
+			<div id="jump-to-nav">Jump to: <a href="#column-one">navigation</a>, <a href="#searchInput">search</a></div>			<!-- start content -->
+			<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><p>Given an empty (or almost empty) framework of a crossword puzzle and a set of words. The problem is to place the words into the framework.
+</p><p><img src="https://prof.ti.bfh.ch/hew1/informatik3/prolog/p-99/p99.gif" alt="p99.gif" />
+</p><p>The particular crossword puzzle is specified in a text file which first lists the words (one word per line) in an arbitrary order. Then, after an empty line, the crossword framework is defined. In this framework specification, an empty character location is represented by a dot (.). In order to make the solution easier, character locations can also contain predefined character values. The puzzle above is defined in the file <a rel="nofollow" class="external text" href="http://www.hta-bi.bfh.ch/~hew/informatik3/prolog/p-99/p99a.dat">p99a.dat</a>, other examples are <a rel="nofollow" class="external text" href="http://www.hta-bi.bfh.ch/~hew/informatik3/prolog/p-99/p99b.dat">p99b.dat</a> and <a rel="nofollow" class="external text" href="http://www.hta-bi.bfh.ch/~hew/informatik3/prolog/p-99/p99d.dat">p99d.dat</a>. There is also an example of a puzzle (<a rel="nofollow" class="external text" href="http://www.hta-bi.bfh.ch/~hew/informatik3/prolog/p-99/p99c.dat">p99c.dat</a>) which does not have a solution.
+</p><p>Words are strings (character lists) of at least two characters. A horizontal or vertical sequence of character places in the crossword puzzle framework is called a site. Our problem is to find a compatible way of placing words onto sites.
+</p><p>Hints: (1) The problem is not easy. You will need some time to thoroughly understand it. So, don't give up too early! And remember that the objective is a clean solution, not just a quick-and-dirty hack!
+</p><p>(2) Reading the data file is a tricky problem for which a solution is provided in the file <a rel="nofollow" class="external text" href="http://www.hta-bi.bfh.ch/~hew/informatik3/prolog/p-99/p99-readfile.pl">p99-readfile.pl</a>. See the predicate read_lines/2.
+</p><p>(3) For efficiency reasons it is important, at least for larger puzzles, to sort the words and the sites in a particular order. For this part of the problem, the solution of P28 may be very helpful. 
+</p><p>Solution:
+</p>
+<div dir="ltr" class="mw-geshi mw-content-ltr"><div class="haskell source-haskell" style="font-family:monospace;"><pre class="de1"><span class="co1">-- import Control.Monad</span>
+<span class="co1">-- import Data.List</span>
+<span class="kw1">import</span> Data<span class="sy0">.</span><span class="kw4">Ord</span> <span class="br0">&#40;</span>comparing<span class="br0">&#41;</span>
+<span class="kw1">import</span> Data<span class="sy0">.</span>Function <span class="br0">&#40;</span>on<span class="br0">&#41;</span>
+&#160;
+<span class="kw1">type</span> Coord     <span class="sy0">=</span> <span class="br0">&#40;</span><span class="kw4">Int</span><span class="sy0">,</span><span class="kw4">Int</span><span class="br0">&#41;</span>
+<span class="kw1">type</span> Word      <span class="sy0">=</span> <span class="kw4">String</span>
+<span class="kw1">data</span> Site      <span class="sy0">=</span> Site <span class="br0">&#123;</span>siteCoords <span class="sy0">::</span> <span class="br0">&#91;</span>Coord<span class="br0">&#93;</span><span class="sy0">,</span> siteLen <span class="sy0">::</span> <span class="kw4">Int</span><span class="br0">&#125;</span> <span class="kw1">deriving</span> <span class="br0">&#40;</span><span class="kw4">Show</span><span class="sy0">,</span><span class="kw4">Eq</span><span class="br0">&#41;</span>
+<span class="kw1">data</span> Crossword <span class="sy0">=</span> Crossword <span class="br0">&#123;</span>cwWords <span class="sy0">::</span> <span class="br0">&#91;</span>Word<span class="br0">&#93;</span><span class="sy0">,</span> cwSites <span class="sy0">::</span> <span class="br0">&#91;</span>Site<span class="br0">&#93;</span><span class="br0">&#125;</span>  <span class="kw1">deriving</span> <span class="br0">&#40;</span><span class="kw4">Show</span><span class="sy0">,</span><span class="kw4">Eq</span><span class="br0">&#41;</span>
+&#160;
+equaling <span class="sy0">=</span> <span class="br0">&#40;</span><span class="br0">&#40;</span><span class="sy0">==</span><span class="br0">&#41;</span> `on`<span class="br0">&#41;</span>
+&#160;
+<span class="co1">-- convert the text lines from the file to the &quot;Site&quot; datatype, </span>
+<span class="co1">--   which contain the adjacent coordinates of the site and its length</span>
+toSites <span class="sy0">::</span> <span class="br0">&#91;</span><span class="kw4">String</span><span class="br0">&#93;</span> <span class="sy0">-&gt;</span> <span class="br0">&#91;</span>Site<span class="br0">&#93;</span>
+toSites <span class="kw3">lines</span> <span class="sy0">=</span> find <span class="br0">&#40;</span>index<span class="sy0">_</span>it <span class="kw3">lines</span><span class="br0">&#41;</span> <span class="sy0">++</span> find <span class="br0">&#40;</span>transpose <span class="sy0">.</span> index<span class="sy0">_</span>it <span class="sy0">$</span> <span class="kw3">lines</span><span class="br0">&#41;</span>
+    <span class="kw1">where</span> find       <span class="sy0">=</span> <span class="kw3">map</span> makePos <span class="sy0">.</span> <span class="kw3">concatMap</span> extractor
+          extractor  <span class="sy0">=</span> <span class="kw3">filter</span> <span class="br0">&#40;</span><span class="br0">&#40;</span><span class="sy0">&gt;</span>1<span class="br0">&#41;</span> <span class="sy0">.</span> <span class="kw3">length</span><span class="br0">&#41;</span> <span class="sy0">.</span> <span class="kw3">map</span> <span class="br0">&#40;</span><span class="kw3">filter</span> <span class="br0">&#40;</span><span class="br0">&#40;</span><span class="sy0">==</span>'<span class="sy0">.</span>'<span class="br0">&#41;</span><span class="sy0">.</span><span class="kw3">snd</span><span class="br0">&#41;</span><span class="br0">&#41;</span> <span class="sy0">.</span> groupBy <span class="br0">&#40;</span>equaling <span class="kw3">snd</span><span class="br0">&#41;</span>
+          index<span class="sy0">_</span>it   <span class="sy0">=</span> <span class="kw3">zipWith</span> <span class="br0">&#40;</span>\row <span class="sy0">-&gt;</span> <span class="kw3">zip</span> <span class="br0">&#91;</span><span class="br0">&#40;</span>col<span class="sy0">,</span>row<span class="br0">&#41;</span> <span class="sy0">|</span> col <span class="sy0">&lt;-</span> <span class="br0">&#91;</span>1<span class="sy0">..</span><span class="br0">&#93;</span><span class="br0">&#93;</span><span class="br0">&#41;</span> <span class="br0">&#91;</span>1<span class="sy0">..</span><span class="br0">&#93;</span>
+          makePos xs <span class="sy0">=</span> Site <span class="br0">&#123;</span>siteCoords <span class="sy0">=</span> <span class="kw3">map</span> <span class="kw3">fst</span> xs<span class="sy0">,</span> siteLen <span class="sy0">=</span> <span class="kw3">length</span> xs<span class="br0">&#125;</span>
+&#160;
+<span class="co1">-- test whether there exist no two different letters at the same coordinate</span>
+noCollision <span class="sy0">::</span> <span class="br0">&#91;</span><span class="br0">&#40;</span><span class="kw4">String</span><span class="sy0">,</span> Site<span class="br0">&#41;</span><span class="br0">&#93;</span> <span class="sy0">-&gt;</span> <span class="kw4">Bool</span>
+noCollision xs <span class="sy0">=</span> <span class="kw3">all</span> allEqual groupedByCoord
+    <span class="kw1">where</span> groupedByCoord <span class="sy0">=</span> <span class="kw3">map</span> <span class="br0">&#40;</span><span class="kw3">map</span> <span class="kw3">snd</span><span class="br0">&#41;</span> <span class="sy0">.</span> groupBy <span class="br0">&#40;</span>equaling <span class="kw3">fst</span><span class="br0">&#41;</span> <span class="sy0">.</span> sortBy <span class="br0">&#40;</span>comparing <span class="kw3">fst</span><span class="br0">&#41;</span> <span class="sy0">.</span> <span class="kw3">concatMap</span> together <span class="sy0">$</span> xs
+          allEqual <span class="br0">&#91;</span><span class="br0">&#93;</span>     <span class="sy0">=</span> True
+          allEqual <span class="br0">&#40;</span>x:xs<span class="br0">&#41;</span> <span class="sy0">=</span> <span class="kw3">all</span> <span class="br0">&#40;</span>x<span class="sy0">==</span><span class="br0">&#41;</span> xs
+&#160;
+<span class="co1">-- merge a word and a site by assigning each letter to its respective coordinate</span>
+together <span class="sy0">::</span> <span class="br0">&#40;</span>Word<span class="sy0">,</span> Site<span class="br0">&#41;</span> <span class="sy0">-&gt;</span> <span class="br0">&#91;</span><span class="br0">&#40;</span>Coord<span class="sy0">,</span> <span class="kw4">Char</span><span class="br0">&#41;</span><span class="br0">&#93;</span>
+together <span class="br0">&#40;</span>w<span class="sy0">,</span>s<span class="br0">&#41;</span> <span class="sy0">=</span> <span class="kw3">zip</span> <span class="br0">&#40;</span>siteCoords s<span class="br0">&#41;</span> w
+&#160;
+<span class="co1">-- returns all solutions for the crossword as lists of occupied coordinates and their respective letters</span>
+solve <span class="sy0">::</span> Crossword <span class="sy0">-&gt;</span> <span class="br0">&#91;</span><span class="br0">&#91;</span><span class="br0">&#40;</span>Coord<span class="sy0">,</span> <span class="kw4">Char</span><span class="br0">&#41;</span><span class="br0">&#93;</span><span class="br0">&#93;</span>
+solve cw <span class="sy0">=</span> <span class="kw3">map</span> <span class="br0">&#40;</span><span class="kw3">concatMap</span> together<span class="br0">&#41;</span> solution
+    <span class="kw1">where</span> solution <span class="sy0">=</span> solve' <span class="br0">&#40;</span>cwWords cw<span class="br0">&#41;</span> <span class="br0">&#40;</span>cwSites cw<span class="br0">&#41;</span>
+&#160;
+solve' <span class="sy0">::</span> <span class="br0">&#91;</span>Word<span class="br0">&#93;</span> <span class="sy0">-&gt;</span> <span class="br0">&#91;</span>Site<span class="br0">&#93;</span> <span class="sy0">-&gt;</span> <span class="br0">&#91;</span><span class="br0">&#91;</span><span class="br0">&#40;</span>Word<span class="sy0">,</span> Site<span class="br0">&#41;</span><span class="br0">&#93;</span><span class="br0">&#93;</span>
+solve' <span class="sy0">_</span>     <span class="br0">&#91;</span><span class="br0">&#93;</span>     <span class="sy0">=</span> <span class="br0">&#91;</span><span class="br0">&#91;</span><span class="br0">&#93;</span><span class="br0">&#93;</span>
+solve' <span class="kw3">words</span> <span class="br0">&#40;</span>s:ss<span class="br0">&#41;</span> <span class="sy0">=</span> <span class="kw1">if</span> <span class="kw3">null</span> possWords
+                        <span class="kw1">then</span> <span class="kw3">error</span> <span class="br0">&#40;</span><span class="st0">&quot;too few words of length &quot;</span> <span class="sy0">++</span> <span class="kw3">show</span> <span class="br0">&#40;</span>siteLen s<span class="br0">&#41;</span><span class="br0">&#41;</span>
+                        <span class="kw1">else</span> <span class="kw1">do</span> try <span class="sy0">&lt;-</span> possWords
+                                <span class="kw1">let</span> restWords <span class="sy0">=</span> Data<span class="sy0">.</span>List<span class="sy0">.</span>delete try <span class="kw3">words</span>
+                                more <span class="sy0">&lt;-</span> solve' restWords ss
+                                <span class="kw1">let</span> attempt <span class="sy0">=</span> <span class="br0">&#40;</span>try<span class="sy0">,</span>s<span class="br0">&#41;</span>:more
+                                Control<span class="sy0">.</span><span class="kw4">Monad</span><span class="sy0">.</span>guard <span class="sy0">$</span> noCollision attempt
+                                <span class="kw3">return</span> attempt
+    <span class="kw1">where</span> possWords <span class="sy0">=</span> <span class="kw3">filter</span> <span class="br0">&#40;</span>\w <span class="sy0">-&gt;</span> siteLen s <span class="sy0">==</span> <span class="kw3">length</span> w<span class="br0">&#41;</span> <span class="kw3">words</span>                       
+&#160;
+<span class="co1">-- read the content of a file into the &quot;Crossword&quot; datatype</span>
+readCrossword <span class="sy0">::</span> <span class="kw4">String</span> <span class="sy0">-&gt;</span> Crossword
+readCrossword <span class="sy0">=</span> <span class="br0">&#40;</span>\<span class="br0">&#40;</span>ws<span class="sy0">,</span>ss<span class="br0">&#41;</span> <span class="sy0">-&gt;</span> Crossword ws <span class="br0">&#40;</span>toSites <span class="br0">&#40;</span><span class="kw3">drop</span> 1 ss<span class="br0">&#41;</span><span class="br0">&#41;</span><span class="br0">&#41;</span> <span class="sy0">.</span> <span class="kw3">break</span> <span class="br0">&#40;</span><span class="st0">&quot;&quot;</span><span class="sy0">==</span><span class="br0">&#41;</span> <span class="sy0">.</span> <span class="kw3">lines</span></pre></div></div>
+<p>This is a simplistic solution with no consideration for speed. Especially sites  and words aren't ordered as propesed in (3) of the problem. Words of the correct length are naively tried for all blanks (without heuristics) and the possible solutions are then backtracked.
+</p><p>To test for collisions, all (Word, Site) pairs are merged to result in a list of (Coord, Char) elements which represent all letters placed so far. If all (two) characters of the same coordinate are identical, there exist no collisions between words.
+</p>
+<!-- 
+NewPP limit report
+Preprocessor node count: 4/1000000
+Post‐expand include size: 0/2097152 bytes
+Template argument size: 0/2097152 bytes
+Expensive parser function count: 0/100
+-->
+
+<!-- Saved in parser cache with key wikidb:pcache:idhash:6520-0!*!*!*!*!*!* and timestamp 20141002175505 -->
+</div><div class="printfooter">
+Retrieved from "<a href="http://www.haskell.org/haskellwiki/index.php?title=99_questions/Solutions/99&amp;oldid=36216">http://www.haskell.org/haskellwiki/index.php?title=99_questions/Solutions/99&amp;oldid=36216</a>"</div>
+			<div id='catlinks' class='catlinks catlinks-allhidden'></div>			<!-- end content -->
+						<div class="visualClear"></div>
+		</div>
+	</div>
+		</div></div>
+		<div id="column-one">
+	<script type="text/javascript"> if (window.isMSIE55) fixalpha(); </script>
+	<div class='generated-sidebar portlet' id='p-navigation'>
+		<h5>Navigation</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-mainpage"><a href="/haskellwiki/Haskell">Haskell</a></li>
+				<li id="n-portal"><a href="/haskellwiki/HaskellWiki:Community">Wiki community</a></li>
+				<li id="n-recentchanges"><a href="/haskellwiki/Special:RecentChanges">Recent changes</a></li>
+				<li id="n-randompage"><a href="/haskellwiki/Special:Random">Random page</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-tb">
+		<h5>Toolbox</h5>
+		<div class="pBody">
+			<ul>
+				<li id="t-whatlinkshere"><a href="/haskellwiki/Special:WhatLinksHere/99_questions/Solutions/99">What links here</a></li>
+				<li id="t-recentchangeslinked"><a href="/haskellwiki/Special:RecentChangesLinked/99_questions/Solutions/99">Related changes</a></li>
+<li id="t-specialpages"><a href="/haskellwiki/Special:SpecialPages">Special pages</a></li>
+				<li id="t-print"><a href="/haskellwiki/index.php?title=99_questions/Solutions/99&amp;printable=yes" rel="alternate">Printable version</a></li>				<li id="t-permalink"><a href="/haskellwiki/index.php?title=99_questions/Solutions/99&amp;oldid=36216">Permanent link</a></li>			</ul>
+		</div>
+	</div>
+		</div><!-- end of the left (by default at least) column -->
+			<div class="visualClear"></div>
+			<div id="footer">
+				<div id="f-poweredbyico"><a href="//www.mediawiki.org/"><img src="/wikistatic/skins//common/images/poweredby_mediawiki_88x31.png" height="31" width="88" alt="Powered by MediaWiki" /></a></div>
+			<ul id="f-list">
+					<li id="lastmod"> This page was last modified on 15 July 2010, at 17:21.</li>
+					<li id="viewcount">This page has been accessed 3,172 times.</li>
+					<li id="copyright">Recent content is available under <a href="/haskellwiki/HaskellWiki:Copyrights" title="HaskellWiki:Copyrights">a simple permissive license</a>.</li>
+					<li id="privacy"><a href="/haskellwiki/HaskellWiki:Privacy_policy" title="HaskellWiki:Privacy policy">Privacy policy</a></li>
+					<li id="about"><a href="/haskellwiki/HaskellWiki:About" title="HaskellWiki:About">About HaskellWiki</a></li>
+					<li id="disclaimer"><a href="/haskellwiki/HaskellWiki:General_disclaimer" title="HaskellWiki:General disclaimer">Disclaimers</a></li>
+			</ul>
+		</div>
+</div>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.user","mediawiki.page.ready"], null, true);
+}</script>
+<script src="http://www.haskell.org/haskellwiki/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=hawiki&amp;*"></script>
+<!-- Served in 0.096 secs. --><script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-15375175-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+</body></html>

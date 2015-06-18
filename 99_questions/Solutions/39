@@ -1,0 +1,284 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" dir="ltr">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+		<meta name="generator" content="MediaWiki 1.19.5-1+deb7u1" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/haskellwiki/opensearch_desc.php" title="HaskellWiki (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="http://www.haskell.org/haskellwiki/api.php?action=rsd" />
+<link rel="copyright" href="/haskellwiki/HaskellWiki:Copyrights" />
+<link rel="alternate" type="application/atom+xml" title="HaskellWiki Atom feed" href="/haskellwiki/index.php?title=Special:RecentChanges&amp;feed=atom" />		<title>99 questions/Solutions/39 - HaskellWiki</title>
+		<style type="text/css" media="screen, projection">/*<![CDATA[*/
+			@import "/wikistatic/skins//common/shared.css?303";
+			@import "/wikistatic/skins//hawiki/main.css?303";
+		/*]]>*/</style>
+		<link rel="stylesheet" type="text/css" media="print" href="/wikistatic/skins//common/commonPrint.css?303" />
+		<!--[if lt IE 5.5000]><style type="text/css">@import "/wikistatic/skins//hawiki/IE50Fixes.css?303";</style><![endif]-->
+		<!--[if IE 5.5000]><style type="text/css">@import "/wikistatic/skins//hawiki/IE55Fixes.css?303";</style><![endif]-->
+		<!--[if IE 6]><style type="text/css">@import "/wikistatic/skins//hawiki/IE60Fixes.css?303";</style><![endif]-->
+		<!--[if IE 7]><style type="text/css">@import "/wikistatic/skins//hawiki/IE70Fixes.css?303";</style><![endif]-->
+		<!--[if lte IE 7]><script type="text/javascript" src="/wikistatic/skins//hawiki/IEFixes.js?303"></script>
+		<meta http-equiv="imagetoolbar" content="no" /><![endif]-->
+                                                <script type="text/javascript">
+                        var isMSIE55 = (window.showModalDialog && window.clipboardData && window.createPopup); /*alert("test: " + isMSIE55);*/</script>
+
+		<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"99_questions/Solutions/39","wgTitle":"99 questions/Solutions/39","wgCurRevisionId":57446,"wgArticleId":6170,"wgIsArticle":true,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Programming exercise spoilers"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgRelevantPageName":"99_questions/Solutions/39","wgRestrictionEdit":[],"wgRestrictionMove":[]});
+}</script>
+		<script type="text/javascript" src="/wikistatic/skins//common/wikibits.js?303"><!-- wikibits js --></script>
+		<!-- Head Scripts -->
+<script src="http://www.haskell.org/haskellwiki/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=hawiki&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"99_questions/Solutions/39","wgTitle":"99 questions/Solutions/39","wgCurRevisionId":57446,"wgArticleId":6170,"wgIsArticle":true,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Programming exercise spoilers"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgRelevantPageName":"99_questions/Solutions/39","wgRestrictionEdit":[],"wgRestrictionMove":[]});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"externaldiff":0,"externaleditor":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"highlightbroken":1,"imagesize":2,"justify":0,"math":1,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":1,"previewonfirst":0,"previewontop":1,"quickbar":5,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":0,"showjumplinks":1,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"hawiki","stubthreshold":0,"thumbsize":2,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":0,"watchdefault":0,"watchdeletion":0,
+"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"variant":"en","language":"en","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false});;},{},{});mw.loader.implement("user.tokens",function($){mw.user.tokens.set({"editToken":"+\\","watchToken":false});;},{},{});
+
+/* cache key: wikidb:resourceloader:filter:minify-js:7:befcdb5e3b24ff89f900613de9ed4ea3 */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax"]);
+}</script><style type="text/css">/*<![CDATA[*/
+.source-haskell {line-height: normal;}
+.source-haskell li, .source-haskell pre {
+	line-height: normal; border: 0px none white;
+}
+/**
+ * GeSHi Dynamically Generated Stylesheet
+ * --------------------------------------
+ * Dynamically generated stylesheet for haskell
+ * CSS class: source-haskell, CSS id: 
+ * GeSHi (C) 2004 - 2007 Nigel McNie, 2007 - 2008 Benny Baumann
+ * (http://qbnz.com/highlighter/ and http://geshi.org/)
+ * --------------------------------------
+ */
+.haskell.source-haskell .de1, .haskell.source-haskell .de2 {font: normal normal 1em/1.2em monospace; margin:0; padding:0; background:none; vertical-align:top;}
+.haskell.source-haskell  {font-family:monospace;}
+.haskell.source-haskell .imp {font-weight: bold; color: red;}
+.haskell.source-haskell li, .haskell.source-haskell .li1 {font-weight: normal; vertical-align:top;}
+.haskell.source-haskell .ln {width:1px;text-align:right;margin:0;padding:0 2px;vertical-align:top;}
+.haskell.source-haskell .li2 {font-weight: bold; vertical-align:top;}
+.haskell.source-haskell .kw1 {color: #06c; font-weight: bold;}
+.haskell.source-haskell .kw2 {color: #06c; font-weight: bold;}
+.haskell.source-haskell .kw3 {font-weight: bold;}
+.haskell.source-haskell .kw4 {color: #cccc00; font-weight: bold;}
+.haskell.source-haskell .kw5 {color: maroon;}
+.haskell.source-haskell .co1 {color: #5d478b; font-style: italic;}
+.haskell.source-haskell .co2 {color: #339933; font-weight: bold;}
+.haskell.source-haskell .coMULTI {color: #5d478b; font-style: italic;}
+.haskell.source-haskell .es0 {background-color: #3cb371; font-weight: bold;}
+.haskell.source-haskell .br0 {color: green;}
+.haskell.source-haskell .sy0 {color: #339933; font-weight: bold;}
+.haskell.source-haskell .st0 {background-color: #3cb371;}
+.haskell.source-haskell .nu0 {color: red;}
+.haskell.source-haskell .me1 {color: #060;}
+.haskell.source-haskell .ln-xtra, .haskell.source-haskell li.ln-xtra, .haskell.source-haskell div.ln-xtra {background-color: #ffc;}
+.haskell.source-haskell span.xtra { display:block; }
+
+/*]]>*/
+</style>	</head>
+<body class="mediawiki ltr ns-0 ns-subject page-99_questions_Solutions_39 skin-hawiki">
+   <div id="topbar" class="noprint">
+	<div class="portlet noprint" id="p-personal">
+		<h5>Personal tools</h5>
+		<div class="pBody">
+			<ul><li><a class="homebutton" href="/haskellwiki/Haskell">Home</a></li>
+				<li id="pt-login"><a href="/haskellwiki/index.php?title=Special:UserLogin&amp;returnto=99+questions%2FSolutions%2F39">Log in</a></li>
+			</ul>
+		</div>
+	</div>
+        	  <div id="p-search">
+	    <div id="searchBody" class="pBody">
+	       <form action="/haskellwiki/index.php" id="searchform"><div>
+	          <input type='hidden' name="title" value="Special:Search"/>
+	          <input id="searchInput" name="search" type="text" value="" />
+				<input type='submit' name="go" class="searchButton" id="searchGoButton"	value="Go" />&nbsp;
+				<input type='submit' name="fulltext" class="searchButton" id="mw-searchButton" value="Search" />
+
+	         </div></form>
+	    </div>
+	  </div>
+   </div>
+	<div id="globalWrapper">
+	<div class="portlet" id="p-logo">
+		<a style="background-image: url(/wikistatic/haskellwiki_logo.png);" href="/haskellwiki/Haskell"></a>
+	</div>
+	<div id="column-content">
+        <div id="notice-area" class="noprint">
+        <!-- ?php $this->data['sitenotice'] = 'This is a test instance.  Do not edit, your changes will be lost.'; ? -->
+			        </div>
+        <div id="content-wrapper">
+	<div id="p-cactions" class="portlet noprint">
+		<h5>Views</h5>
+		<div class="pBody">
+			<ul>
+	
+				 <li id="ca-nstab-main" class="selected"><a href="/haskellwiki/99_questions/Solutions/39">Page</a></li>
+				 <li id="ca-talk" class="new"><a href="/haskellwiki/index.php?title=Talk:99_questions/Solutions/39&amp;action=edit&amp;redlink=1">Discussion</a></li>
+				 <li id="ca-viewsource"><a href="/haskellwiki/index.php?title=99_questions/Solutions/39&amp;action=edit">View source</a></li>
+				 <li id="ca-history"><a href="/haskellwiki/index.php?title=99_questions/Solutions/39&amp;action=history">History</a></li>			</ul>
+		</div>
+	</div>
+                        <div id="content">
+		<a name="top" id="top"></a>
+                        <h1 id="firstHeading" class="firstHeading">99 questions/Solutions/39</h1>
+		<div id="bodyContent">
+			<h3 id="siteSub">From HaskellWiki</h3>
+			<div id="contentSub"><span class="subpages">&lt; <a href="/haskellwiki/99_questions" title="99 questions">99 questions</a> | <a href="/haskellwiki/99_questions/Solutions" title="99 questions/Solutions">Solutions</a></span></div>
+			<div id="jump-to-nav">Jump to: <a href="#column-one">navigation</a>, <a href="#searchInput">search</a></div>			<!-- start content -->
+			<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><p>(*) A list of prime numbers.
+</p><p>Given a range of integers by its lower and upper limit, construct a list of all prime numbers in that range.
+</p>
+<table id="toc" class="toc"><tr><td><div id="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Solution_1."><span class="tocnumber">1</span> <span class="toctext"><b>Solution 1.</b></span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Solution_2."><span class="tocnumber">2</span> <span class="toctext"><b>Solution 2.</b></span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Solution_3."><span class="tocnumber">3</span> <span class="toctext"><b>Solution 3.</b></span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Solution_4."><span class="tocnumber">4</span> <span class="toctext"><b>Solution 4.</b></span></a></li>
+</ul>
+</td></tr></table>
+<h1> <span class="mw-headline" id="Solution_1.">1 <b>Solution 1.</b></span></h1>
+<div dir="ltr" class="mw-geshi mw-content-ltr"><div class="haskell source-haskell" style="font-family:monospace;"><pre class="de1">primesR <span class="sy0">::</span> <span class="kw4">Integral</span> a <span class="sy0">=&gt;</span> a <span class="sy0">-&gt;</span> a <span class="sy0">-&gt;</span> <span class="br0">&#91;</span>a<span class="br0">&#93;</span>
+primesR a b <span class="sy0">|</span> <span class="kw3">even</span> a <span class="sy0">=</span> <span class="kw3">filter</span> isPrime <span class="br0">&#91;</span>a<span class="sy0">+</span>1<span class="sy0">,</span>a<span class="sy0">+</span>3<span class="sy0">..</span>b<span class="br0">&#93;</span>
+            <span class="sy0">|</span> True   <span class="sy0">=</span> <span class="kw3">filter</span> isPrime <span class="br0">&#91;</span>a<span class="sy0">,</span>a<span class="sy0">+</span>2<span class="sy0">..</span>b<span class="br0">&#93;</span></pre></div></div>
+<p>If we are challenged to give all primes in the range between a and b we simply take all numbers from a up to b and filter all the primes through. 
+</p><p>This is good for <i>very narrow ranges</i> as Q.31's <code>isPrime</code> tests numbers by <i>trial division</i> using (up to<img class="tex" alt="\textstyle\sqrt b" src="/wikiupload/math/a/d/c/adc214a4bfea8edf1e2708772d868c5d.png" />) a memoized primes list produced by sieve of Eratosthenes to which it refers internally. So it'll be slower, but immediate, testing the numbers one by one.
+</p>
+<h1> <span class="mw-headline" id="Solution_2.">2 <b>Solution 2.</b></span></h1>
+<p>For <i>very wide</i> ranges, specifically when <img class="tex" alt="\textstyle a &lt; \sqrt{b}" src="/wikiupload/math/6/1/9/61936de56b827c67e0dfc692cafb239e.png" />, we're better off just using the primes sequence itself, without any post-processing:
+</p>
+<div dir="ltr" class="mw-geshi mw-content-ltr"><div class="haskell source-haskell" style="font-family:monospace;"><pre class="de1">primes <span class="sy0">::</span> <span class="kw4">Integral</span> a <span class="sy0">=&gt;</span> <span class="br0">&#91;</span>a<span class="br0">&#93;</span>
+primes <span class="sy0">=</span> primesTME               <span class="co1">-- of Q.31</span>
+&#160;
+primesR <span class="sy0">::</span> <span class="kw4">Integral</span> a <span class="sy0">=&gt;</span> a <span class="sy0">-&gt;</span> a <span class="sy0">-&gt;</span> <span class="br0">&#91;</span>a<span class="br0">&#93;</span>
+primesR a b <span class="sy0">=</span> takeWhile <span class="br0">&#40;</span><span class="sy0">&lt;=</span> b<span class="br0">&#41;</span> <span class="sy0">$</span> <span class="kw3">dropWhile</span> <span class="br0">&#40;</span><span class="sy0">&lt;</span> a<span class="br0">&#41;</span> primes</pre></div></div>
+<h1> <span class="mw-headline" id="Solution_3.">3 <b>Solution 3.</b></span></h1>
+<p>Another way to compute the claimed list is done by using the <i>Sieve of Eratosthenes</i>. 
+</p>
+<div dir="ltr" class="mw-geshi mw-content-ltr"><div class="haskell source-haskell" style="font-family:monospace;"><pre class="de1">primesR <span class="sy0">::</span> <span class="kw4">Integral</span> a <span class="sy0">=&gt;</span> a <span class="sy0">-&gt;</span> a <span class="sy0">-&gt;</span> <span class="br0">&#91;</span>a<span class="br0">&#93;</span>
+primesR a b <span class="sy0">=</span> takeWhile <span class="br0">&#40;</span><span class="sy0">&lt;=</span> b<span class="br0">&#41;</span> <span class="sy0">$</span> <span class="kw3">dropWhile</span> <span class="br0">&#40;</span><span class="sy0">&lt;</span> a<span class="br0">&#41;</span> <span class="sy0">$</span> sieve <span class="br0">&#91;</span>2<span class="sy0">..</span><span class="br0">&#93;</span>
+  <span class="kw1">where</span> sieve <span class="br0">&#40;</span>n:ns<span class="br0">&#41;</span> <span class="sy0">=</span> n:sieve <span class="br0">&#91;</span> m <span class="sy0">|</span> m <span class="sy0">&lt;-</span> ns<span class="sy0">,</span> m `<span class="kw3">mod</span>` n <span class="sy0">/=</span> <span class="nu0">0</span> <span class="br0">&#93;</span></pre></div></div>
+<p>The <code>sieve [2..]</code> function call generates a list of all (!) prime numbers using this algorithm and <code>primesR</code> filters the relevant range out. [But this way is very slow and I only presented it because I wanted to show how nicely the <i>Sieve of Eratosthenes</i> can be implemented in Haskell&#160;:)] 
+</p><p><i>this is of course the famous case of (mislabeled) executable specification, with all the implied pitfalls of inefficiency when (ab)used as if it were an actual code</i>. 
+</p>
+<h1> <span class="mw-headline" id="Solution_4.">4 <b>Solution 4.</b></span></h1>
+<p>Use the <i>proper</i> Sieve of Eratosthenes from e.g. <a rel="nofollow" class="external text" href="http://www.haskell.org/haskellwiki/99_questions/Solutions/31">31st question's solution</a> (instead of the above sieve of Turner), adjusted to start its multiples production from the given starting point:
+</p>
+<div dir="ltr" class="mw-geshi mw-content-ltr"><div class="haskell source-haskell" style="font-family:monospace;"><pre class="de1"><span class="co1">-- tree-merging Eratosthenes sieve, primesTME of Q.31, </span>
+<span class="co1">--  adjusted to produce primes in a given range (inclusive)</span>
+primesR a b <span class="sy0">|</span> b <span class="sy0">&lt;</span> a <span class="sy0">||</span> b <span class="sy0">&lt;</span> 2 <span class="sy0">=</span> <span class="br0">&#91;</span><span class="br0">&#93;</span>
+            <span class="sy0">|</span> <span class="kw3">otherwise</span>      <span class="sy0">=</span> takeWhile <span class="br0">&#40;</span><span class="sy0">&lt;=</span> b<span class="br0">&#41;</span> <span class="sy0">$</span> primesFrom a
+&#160;
+primesFrom a0 <span class="sy0">=</span> <span class="br0">&#40;</span><span class="kw1">if</span> a0 <span class="sy0">&lt;=</span> 2 <span class="kw1">then</span> <span class="br0">&#91;</span>2<span class="br0">&#93;</span> <span class="kw1">else</span> <span class="br0">&#91;</span><span class="br0">&#93;</span><span class="br0">&#41;</span> <span class="sy0">++</span> 
+                <span class="br0">&#40;</span>gaps a <span class="sy0">$</span> mults <span class="sy0">$</span> <span class="kw3">span</span> <span class="br0">&#40;</span><span class="sy0">&lt;</span> z<span class="br0">&#41;</span> <span class="sy0">$</span> <span class="kw3">tail</span> primesTME<span class="br0">&#41;</span>
+  <span class="kw1">where</span>
+    a <span class="sy0">=</span> snap <span class="br0">&#40;</span><span class="kw3">max</span> 3 a0<span class="br0">&#41;</span> 3 2
+    z <span class="sy0">=</span> <span class="kw3">ceiling</span> <span class="sy0">$</span> <span class="kw3">sqrt</span> <span class="sy0">$</span> <span class="kw3">fromIntegral</span> a <span class="sy0">+</span> <span class="nu0">1</span>       <span class="co1">-- p&lt;z =&gt; p*p&lt;=a</span>
+    snap v origin step <span class="sy0">=</span> <span class="kw1">if</span> r<span class="sy0">==</span>0 <span class="kw1">then</span> v <span class="kw1">else</span> v<span class="sy0">+</span><span class="br0">&#40;</span>step<span class="sy0">-</span>r<span class="br0">&#41;</span>
+        <span class="kw1">where</span> r <span class="sy0">=</span> <span class="kw3">rem</span> <span class="br0">&#40;</span>v<span class="sy0">-</span>origin<span class="br0">&#41;</span> step   <span class="co1">-- NB: origin &lt;= v&#160;; else use MOD</span>
+&#160;
+    mults <span class="br0">&#40;</span>h<span class="sy0">,</span>p':t<span class="br0">&#41;</span> <span class="sy0">=</span>                              <span class="co1">-- p'&gt;=z =&gt; p'*p'&gt;a</span>
+      join union <span class="br0">&#40;</span> <span class="br0">&#91;</span><span class="br0">&#91;</span>x<span class="sy0">,</span>x<span class="sy0">+</span>s<span class="sy0">..</span><span class="br0">&#93;</span> <span class="sy0">|</span> p <span class="sy0">&lt;-</span> h<span class="sy0">,</span>           <span class="co1">-- heads unordered  </span>
+                            <span class="kw1">let</span> s<span class="sy0">=</span>2<span class="sy0">*</span>p; x<span class="sy0">=</span>snap a <span class="br0">&#40;</span>p<span class="sy0">*</span>p<span class="br0">&#41;</span> s<span class="br0">&#93;</span>
+                   <span class="sy0">++</span> <span class="br0">&#91;</span><span class="br0">&#91;</span>p'<span class="sy0">*</span>p'<span class="sy0">,</span>p'<span class="sy0">*</span>p'<span class="sy0">+</span>2<span class="sy0">*</span>p'<span class="sy0">..</span><span class="br0">&#93;</span><span class="br0">&#93;</span> <span class="br0">&#41;</span>
+      `union'` join union' <span class="br0">&#91;</span><span class="br0">&#91;</span>p<span class="sy0">*</span>p<span class="sy0">,</span>p<span class="sy0">*</span>p<span class="sy0">+</span>2<span class="sy0">*</span>p<span class="sy0">..</span><span class="br0">&#93;</span> <span class="sy0">|</span> p <span class="sy0">&lt;-</span> t<span class="br0">&#93;</span>
+&#160;
+    join  f <span class="br0">&#40;</span>xs:t<span class="br0">&#41;</span>    <span class="sy0">=</span> f xs <span class="br0">&#40;</span>join f <span class="br0">&#40;</span>pairs f t<span class="br0">&#41;</span><span class="br0">&#41;</span>
+    join  f <span class="br0">&#91;</span><span class="br0">&#93;</span>        <span class="sy0">=</span> <span class="br0">&#91;</span><span class="br0">&#93;</span>
+    pairs f <span class="br0">&#40;</span>xs:ys:t<span class="br0">&#41;</span> <span class="sy0">=</span> f xs ys&#160;: pairs f t
+    pairs f t         <span class="sy0">=</span> t
+    union' <span class="br0">&#40;</span>x:xs<span class="br0">&#41;</span> ys  <span class="sy0">=</span> x&#160;: union xs ys           <span class="co1">-- `union` of Q.31</span>
+    gaps k xs<span class="sy0">@</span><span class="br0">&#40;</span>x:t<span class="br0">&#41;</span> <span class="sy0">|</span> k<span class="sy0">==</span>x  <span class="sy0">=</span> gaps <span class="br0">&#40;</span>k<span class="sy0">+</span>2<span class="br0">&#41;</span> t 
+                    <span class="sy0">|</span> True  <span class="sy0">=</span> k&#160;: gaps <span class="br0">&#40;</span>k<span class="sy0">+</span><span class="nu0">2</span><span class="br0">&#41;</span> xs</pre></div></div>
+<p>It should be much better then taking a slice of a full sequential list of primes, as it won't try to generate any primes between the <i>square root of b</i> and <i>a</i>. To wit,
+</p>
+<div dir="ltr" class="mw-geshi mw-content-ltr"><div class="haskell source-haskell" style="font-family:monospace;"><pre class="de1"><span class="sy0">&gt;</span> primesR <span class="nu0">10100</span> <span class="nu0">10200</span>                                            <span class="co1">-- Sol.4</span>
+<span class="br0">&#91;</span>10103<span class="sy0">,</span>10111<span class="sy0">,</span>10133<span class="sy0">,</span>10139<span class="sy0">,</span>10141<span class="sy0">,</span>10151<span class="sy0">,</span>10159<span class="sy0">,</span>10163<span class="sy0">,</span>10169<span class="sy0">,</span>10177<span class="sy0">,</span>10181<span class="sy0">,</span>10193<span class="br0">&#93;</span>
+<span class="br0">&#40;</span>4<span class="sy0">,</span>776 reductions<span class="sy0">,</span> 11<span class="sy0">,</span>559 cells<span class="br0">&#41;</span>
+&#160;
+<span class="sy0">&gt;</span> takeWhile <span class="br0">&#40;</span><span class="sy0">&lt;=</span> 10200<span class="br0">&#41;</span> <span class="sy0">$</span> <span class="kw3">dropWhile</span> <span class="br0">&#40;</span><span class="sy0">&lt;</span> <span class="nu0">10100</span><span class="br0">&#41;</span> <span class="sy0">$</span> primesTME         <span class="co1">-- Sol.2</span>
+<span class="br0">&#91;</span>10103<span class="sy0">,</span>10111<span class="sy0">,</span>10133<span class="sy0">,</span>10139<span class="sy0">,</span>10141<span class="sy0">,</span>10151<span class="sy0">,</span>10159<span class="sy0">,</span>10163<span class="sy0">,</span>10169<span class="sy0">,</span>10177<span class="sy0">,</span>10181<span class="sy0">,</span>10193<span class="br0">&#93;</span>
+<span class="br0">&#40;</span>140<span class="sy0">,</span>313 reductions<span class="sy0">,</span> 381<span class="sy0">,</span>058 cells<span class="br0">&#41;</span>
+&#160;
+<span class="sy0">&gt;</span> takeWhile <span class="br0">&#40;</span><span class="sy0">&lt;=</span> 10200<span class="br0">&#41;</span> <span class="sy0">$</span> <span class="kw3">dropWhile</span> <span class="br0">&#40;</span><span class="sy0">&lt;</span> <span class="nu0">10100</span><span class="br0">&#41;</span> <span class="sy0">$</span> sieve <span class="br0">&#91;</span>2<span class="sy0">..</span><span class="br0">&#93;</span>       <span class="co1">-- Sol.3</span>
+     <span class="kw1">where</span> sieve <span class="br0">&#40;</span>n:ns<span class="br0">&#41;</span> <span class="sy0">=</span> n:sieve <span class="br0">&#91;</span> m <span class="sy0">|</span> m <span class="sy0">&lt;-</span> ns<span class="sy0">,</span> m `<span class="kw3">mod</span>` n <span class="sy0">/=</span> 0 <span class="br0">&#93;</span>
+<span class="br0">&#91;</span>10103<span class="sy0">,</span>10111<span class="sy0">,</span>10133<span class="sy0">,</span>10139<span class="sy0">,</span>10141<span class="sy0">,</span>10151<span class="sy0">,</span>10159<span class="sy0">,</span>10163<span class="sy0">,</span>10169<span class="sy0">,</span>10177<span class="sy0">,</span>10181<span class="sy0">,</span>10193<span class="br0">&#93;</span>
+<span class="br0">&#40;</span>54<span class="sy0">,</span>893<span class="sy0">,</span>566 reductions<span class="sy0">,</span> 79<span class="sy0">,</span>935<span class="sy0">,</span>263 cells<span class="sy0">,</span> 6 garbage collections<span class="br0">&#41;</span>
+&#160;
+<span class="sy0">&gt;</span> <span class="kw3">filter</span> isPrime <span class="br0">&#91;</span><span class="nu0">10101</span><span class="sy0">,</span>10103<span class="sy0">..</span>10200<span class="br0">&#93;</span>                            <span class="co1">-- Sol.1</span>
+<span class="br0">&#91;</span><span class="nu0">10103</span><span class="sy0">,</span><span class="nu0">10111</span><span class="sy0">,</span><span class="nu0">10133</span><span class="sy0">,</span><span class="nu0">10139</span><span class="sy0">,</span><span class="nu0">10141</span><span class="sy0">,</span><span class="nu0">10151</span><span class="sy0">,</span><span class="nu0">10159</span><span class="sy0">,</span><span class="nu0">10163</span><span class="sy0">,</span><span class="nu0">10169</span><span class="sy0">,</span><span class="nu0">10177</span><span class="sy0">,</span><span class="nu0">10181</span><span class="sy0">,</span><span class="nu0">10193</span><span class="br0">&#93;</span>
+<span class="br0">&#40;</span><span class="nu0">12</span><span class="sy0">,</span><span class="nu0">927</span> reductions<span class="sy0">,</span> <span class="nu0">24</span><span class="sy0">,</span><span class="nu0">703</span> cells<span class="br0">&#41;</span>                        <span class="co1">-- isPrime: Q.31</span></pre></div></div>
+<p>(testing with Hugs of Nov 2002).
+</p><p>This solution is potentially much faster but not immediate. It has a certain preprocessing stage but then goes on fast to produce the whole range. To illustrate, it takes about 18 seconds on my oldish notebook for the 1st version to produce the 49 primes in 1000-wide range above 120200300100, with the first number produced almost immediately (~ 0.4 sec); but <i>this</i> version spews out all 49 primes at once after just under 1 sec.
+</p>
+<!-- 
+NewPP limit report
+Preprocessor node count: 66/1000000
+Post‐expand include size: 0/2097152 bytes
+Template argument size: 0/2097152 bytes
+Expensive parser function count: 0/100
+-->
+
+<!-- Saved in parser cache with key wikidb:pcache:idhash:6170-0!1!*!1!en!*!* and timestamp 20141003040947 -->
+</div><div class="printfooter">
+Retrieved from "<a href="http://www.haskell.org/haskellwiki/index.php?title=99_questions/Solutions/39&amp;oldid=57446">http://www.haskell.org/haskellwiki/index.php?title=99_questions/Solutions/39&amp;oldid=57446</a>"</div>
+			<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/haskellwiki/Special:Categories" title="Special:Categories">Category</a>: <ul><li><a href="/haskellwiki/Category:Programming_exercise_spoilers" title="Category:Programming exercise spoilers">Programming exercise spoilers</a></li></ul></div></div>			<!-- end content -->
+						<div class="visualClear"></div>
+		</div>
+	</div>
+		</div></div>
+		<div id="column-one">
+	<script type="text/javascript"> if (window.isMSIE55) fixalpha(); </script>
+	<div class='generated-sidebar portlet' id='p-navigation'>
+		<h5>Navigation</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-mainpage"><a href="/haskellwiki/Haskell">Haskell</a></li>
+				<li id="n-portal"><a href="/haskellwiki/HaskellWiki:Community">Wiki community</a></li>
+				<li id="n-recentchanges"><a href="/haskellwiki/Special:RecentChanges">Recent changes</a></li>
+				<li id="n-randompage"><a href="/haskellwiki/Special:Random">Random page</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-tb">
+		<h5>Toolbox</h5>
+		<div class="pBody">
+			<ul>
+				<li id="t-whatlinkshere"><a href="/haskellwiki/Special:WhatLinksHere/99_questions/Solutions/39">What links here</a></li>
+				<li id="t-recentchangeslinked"><a href="/haskellwiki/Special:RecentChangesLinked/99_questions/Solutions/39">Related changes</a></li>
+<li id="t-specialpages"><a href="/haskellwiki/Special:SpecialPages">Special pages</a></li>
+				<li id="t-print"><a href="/haskellwiki/index.php?title=99_questions/Solutions/39&amp;printable=yes" rel="alternate">Printable version</a></li>				<li id="t-permalink"><a href="/haskellwiki/index.php?title=99_questions/Solutions/39&amp;oldid=57446">Permanent link</a></li>			</ul>
+		</div>
+	</div>
+		</div><!-- end of the left (by default at least) column -->
+			<div class="visualClear"></div>
+			<div id="footer">
+				<div id="f-poweredbyico"><a href="//www.mediawiki.org/"><img src="/wikistatic/skins//common/images/poweredby_mediawiki_88x31.png" height="31" width="88" alt="Powered by MediaWiki" /></a></div>
+			<ul id="f-list">
+					<li id="lastmod"> This page was last modified on 18 January 2014, at 19:46.</li>
+					<li id="viewcount">This page has been accessed 10,096 times.</li>
+					<li id="copyright">Recent content is available under <a href="/haskellwiki/HaskellWiki:Copyrights" title="HaskellWiki:Copyrights">a simple permissive license</a>.</li>
+					<li id="privacy"><a href="/haskellwiki/HaskellWiki:Privacy_policy" title="HaskellWiki:Privacy policy">Privacy policy</a></li>
+					<li id="about"><a href="/haskellwiki/HaskellWiki:About" title="HaskellWiki:About">About HaskellWiki</a></li>
+					<li id="disclaimer"><a href="/haskellwiki/HaskellWiki:General_disclaimer" title="HaskellWiki:General disclaimer">Disclaimers</a></li>
+			</ul>
+		</div>
+</div>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.user","mediawiki.page.ready"], null, true);
+}</script>
+<script src="http://www.haskell.org/haskellwiki/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=hawiki&amp;*"></script>
+<!-- Served in 0.414 secs. --><script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-15375175-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+</body></html>

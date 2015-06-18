@@ -1,0 +1,328 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" dir="ltr">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+		<meta name="generator" content="MediaWiki 1.19.5-1+deb7u1" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/haskellwiki/opensearch_desc.php" title="HaskellWiki (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="http://www.haskell.org/haskellwiki/api.php?action=rsd" />
+<link rel="copyright" href="/haskellwiki/HaskellWiki:Copyrights" />
+<link rel="alternate" type="application/atom+xml" title="HaskellWiki Atom feed" href="/haskellwiki/index.php?title=Special:RecentChanges&amp;feed=atom" />		<title>99 questions/Solutions/70 - HaskellWiki</title>
+		<style type="text/css" media="screen, projection">/*<![CDATA[*/
+			@import "/wikistatic/skins//common/shared.css?303";
+			@import "/wikistatic/skins//hawiki/main.css?303";
+		/*]]>*/</style>
+		<link rel="stylesheet" type="text/css" media="print" href="/wikistatic/skins//common/commonPrint.css?303" />
+		<!--[if lt IE 5.5000]><style type="text/css">@import "/wikistatic/skins//hawiki/IE50Fixes.css?303";</style><![endif]-->
+		<!--[if IE 5.5000]><style type="text/css">@import "/wikistatic/skins//hawiki/IE55Fixes.css?303";</style><![endif]-->
+		<!--[if IE 6]><style type="text/css">@import "/wikistatic/skins//hawiki/IE60Fixes.css?303";</style><![endif]-->
+		<!--[if IE 7]><style type="text/css">@import "/wikistatic/skins//hawiki/IE70Fixes.css?303";</style><![endif]-->
+		<!--[if lte IE 7]><script type="text/javascript" src="/wikistatic/skins//hawiki/IEFixes.js?303"></script>
+		<meta http-equiv="imagetoolbar" content="no" /><![endif]-->
+                                                <script type="text/javascript">
+                        var isMSIE55 = (window.showModalDialog && window.clipboardData && window.createPopup); /*alert("test: " + isMSIE55);*/</script>
+
+		<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"99_questions/Solutions/70","wgTitle":"99 questions/Solutions/70","wgCurRevisionId":57134,"wgArticleId":6508,"wgIsArticle":true,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgRelevantPageName":"99_questions/Solutions/70","wgRestrictionEdit":[],"wgRestrictionMove":[]});
+}</script>
+		<script type="text/javascript" src="/wikistatic/skins//common/wikibits.js?303"><!-- wikibits js --></script>
+		<!-- Head Scripts -->
+<script src="http://www.haskell.org/haskellwiki/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=hawiki&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"99_questions/Solutions/70","wgTitle":"99 questions/Solutions/70","wgCurRevisionId":57134,"wgArticleId":6508,"wgIsArticle":true,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgRelevantPageName":"99_questions/Solutions/70","wgRestrictionEdit":[],"wgRestrictionMove":[]});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"externaldiff":0,"externaleditor":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"highlightbroken":1,"imagesize":2,"justify":0,"math":1,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":1,"previewonfirst":0,"previewontop":1,"quickbar":5,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":0,"showjumplinks":1,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"hawiki","stubthreshold":0,"thumbsize":2,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":0,"watchdefault":0,"watchdeletion":0,
+"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"variant":"en","language":"en","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false});;},{},{});mw.loader.implement("user.tokens",function($){mw.user.tokens.set({"editToken":"+\\","watchToken":false});;},{},{});
+
+/* cache key: wikidb:resourceloader:filter:minify-js:7:befcdb5e3b24ff89f900613de9ed4ea3 */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax"]);
+}</script><style type="text/css">/*<![CDATA[*/
+.source-haskell {line-height: normal;}
+.source-haskell li, .source-haskell pre {
+	line-height: normal; border: 0px none white;
+}
+/**
+ * GeSHi Dynamically Generated Stylesheet
+ * --------------------------------------
+ * Dynamically generated stylesheet for haskell
+ * CSS class: source-haskell, CSS id: 
+ * GeSHi (C) 2004 - 2007 Nigel McNie, 2007 - 2008 Benny Baumann
+ * (http://qbnz.com/highlighter/ and http://geshi.org/)
+ * --------------------------------------
+ */
+.haskell.source-haskell .de1, .haskell.source-haskell .de2 {font: normal normal 1em/1.2em monospace; margin:0; padding:0; background:none; vertical-align:top;}
+.haskell.source-haskell  {font-family:monospace;}
+.haskell.source-haskell .imp {font-weight: bold; color: red;}
+.haskell.source-haskell li, .haskell.source-haskell .li1 {font-weight: normal; vertical-align:top;}
+.haskell.source-haskell .ln {width:1px;text-align:right;margin:0;padding:0 2px;vertical-align:top;}
+.haskell.source-haskell .li2 {font-weight: bold; vertical-align:top;}
+.haskell.source-haskell .kw1 {color: #06c; font-weight: bold;}
+.haskell.source-haskell .kw2 {color: #06c; font-weight: bold;}
+.haskell.source-haskell .kw3 {font-weight: bold;}
+.haskell.source-haskell .kw4 {color: #cccc00; font-weight: bold;}
+.haskell.source-haskell .kw5 {color: maroon;}
+.haskell.source-haskell .co1 {color: #5d478b; font-style: italic;}
+.haskell.source-haskell .co2 {color: #339933; font-weight: bold;}
+.haskell.source-haskell .coMULTI {color: #5d478b; font-style: italic;}
+.haskell.source-haskell .es0 {background-color: #3cb371; font-weight: bold;}
+.haskell.source-haskell .br0 {color: green;}
+.haskell.source-haskell .sy0 {color: #339933; font-weight: bold;}
+.haskell.source-haskell .st0 {background-color: #3cb371;}
+.haskell.source-haskell .nu0 {color: red;}
+.haskell.source-haskell .me1 {color: #060;}
+.haskell.source-haskell .ln-xtra, .haskell.source-haskell li.ln-xtra, .haskell.source-haskell div.ln-xtra {background-color: #ffc;}
+.haskell.source-haskell span.xtra { display:block; }
+
+/*]]>*/
+</style>	</head>
+<body class="mediawiki ltr ns-0 ns-subject page-99_questions_Solutions_70 skin-hawiki">
+   <div id="topbar" class="noprint">
+	<div class="portlet noprint" id="p-personal">
+		<h5>Personal tools</h5>
+		<div class="pBody">
+			<ul><li><a class="homebutton" href="/haskellwiki/Haskell">Home</a></li>
+				<li id="pt-login"><a href="/haskellwiki/index.php?title=Special:UserLogin&amp;returnto=99+questions%2FSolutions%2F70">Log in</a></li>
+			</ul>
+		</div>
+	</div>
+        	  <div id="p-search">
+	    <div id="searchBody" class="pBody">
+	       <form action="/haskellwiki/index.php" id="searchform"><div>
+	          <input type='hidden' name="title" value="Special:Search"/>
+	          <input id="searchInput" name="search" type="text" value="" />
+				<input type='submit' name="go" class="searchButton" id="searchGoButton"	value="Go" />&nbsp;
+				<input type='submit' name="fulltext" class="searchButton" id="mw-searchButton" value="Search" />
+
+	         </div></form>
+	    </div>
+	  </div>
+   </div>
+	<div id="globalWrapper">
+	<div class="portlet" id="p-logo">
+		<a style="background-image: url(/wikistatic/haskellwiki_logo.png);" href="/haskellwiki/Haskell"></a>
+	</div>
+	<div id="column-content">
+        <div id="notice-area" class="noprint">
+        <!-- ?php $this->data['sitenotice'] = 'This is a test instance.  Do not edit, your changes will be lost.'; ? -->
+			        </div>
+        <div id="content-wrapper">
+	<div id="p-cactions" class="portlet noprint">
+		<h5>Views</h5>
+		<div class="pBody">
+			<ul>
+	
+				 <li id="ca-nstab-main" class="selected"><a href="/haskellwiki/99_questions/Solutions/70">Page</a></li>
+				 <li id="ca-talk" class="new"><a href="/haskellwiki/index.php?title=Talk:99_questions/Solutions/70&amp;action=edit&amp;redlink=1">Discussion</a></li>
+				 <li id="ca-viewsource"><a href="/haskellwiki/index.php?title=99_questions/Solutions/70&amp;action=edit">View source</a></li>
+				 <li id="ca-history"><a href="/haskellwiki/index.php?title=99_questions/Solutions/70&amp;action=history">History</a></li>			</ul>
+		</div>
+	</div>
+                        <div id="content">
+		<a name="top" id="top"></a>
+                        <h1 id="firstHeading" class="firstHeading">99 questions/Solutions/70</h1>
+		<div id="bodyContent">
+			<h3 id="siteSub">From HaskellWiki</h3>
+			<div id="contentSub"><span class="subpages">&lt; <a href="/haskellwiki/99_questions" title="99 questions">99 questions</a> | <a href="/haskellwiki/99_questions/Solutions" title="99 questions/Solutions">Solutions</a></span></div>
+			<div id="jump-to-nav">Jump to: <a href="#column-one">navigation</a>, <a href="#searchInput">search</a></div>			<!-- start content -->
+			<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><p>(**) Tree construction from a node string.
+</p><p>We suppose that the nodes of a multiway tree contain single characters. In the depth-first order sequence of its nodes, a special character ^ has been inserted whenever, during the tree traversal, the move is a backtrack to the previous level.
+</p><p>By this rule, the tree below (<tt>tree5</tt>) is represented as: <tt>afg^^c^bd^e^^^</tt>
+</p><p><img src="https://prof.ti.bfh.ch/hew1/informatik3/prolog/p-99/p70.gif" alt="p70.gif" />
+</p><p>Define the syntax of the string and write a predicate tree(String,Tree) to construct the Tree when the String is given.
+Make your predicate work in both directions.
+</p><p>We could write separate printing and parsing functions, but the problem statement asks for a bidirectional function.
+</p><p>First we need a parser monad, with some primitives:
+</p>
+<div dir="ltr" class="mw-geshi mw-content-ltr"><div class="haskell source-haskell" style="font-family:monospace;"><pre class="de1"><span class="kw1">newtype</span> P a <span class="sy0">=</span> P <span class="br0">&#123;</span> runP <span class="sy0">::</span> <span class="kw4">String</span> <span class="sy0">-&gt;</span> <span class="kw4">Maybe</span> <span class="br0">&#40;</span>a<span class="sy0">,</span> <span class="kw4">String</span><span class="br0">&#41;</span> <span class="br0">&#125;</span>
+&#160;
+<span class="kw1">instance</span> <span class="kw4">Monad</span> P <span class="kw1">where</span>
+        <span class="kw3">return</span> x <span class="sy0">=</span> P <span class="sy0">$</span> \ s <span class="sy0">-&gt;</span> Just <span class="br0">&#40;</span>x<span class="sy0">,</span> s<span class="br0">&#41;</span>
+        P v <span class="sy0">&gt;&gt;=</span> f <span class="sy0">=</span> P <span class="sy0">$</span> \ s <span class="sy0">-&gt;</span> <span class="kw1">do</span>
+                <span class="br0">&#40;</span>x<span class="sy0">,</span> s'<span class="br0">&#41;</span> <span class="sy0">&lt;-</span> v s
+                runP <span class="br0">&#40;</span>f x<span class="br0">&#41;</span> s'
+&#160;
+<span class="kw1">instance</span> MonadPlus P <span class="kw1">where</span>
+        mzero <span class="sy0">=</span> P <span class="sy0">$</span> \ <span class="sy0">_</span> <span class="sy0">-&gt;</span> Nothing
+        P u `mplus` P v <span class="sy0">=</span> P <span class="sy0">$</span> \ s <span class="sy0">-&gt;</span> u s `mplus` v s
+&#160;
+charP <span class="sy0">::</span> P <span class="kw4">Char</span>
+charP <span class="sy0">=</span> P view<span class="sy0">_</span>list
+  <span class="kw1">where</span> view<span class="sy0">_</span>list <span class="br0">&#91;</span><span class="br0">&#93;</span> <span class="sy0">=</span> Nothing
+        view<span class="sy0">_</span>list <span class="br0">&#40;</span>c:cs<span class="br0">&#41;</span> <span class="sy0">=</span> Just <span class="br0">&#40;</span>c<span class="sy0">,</span> cs<span class="br0">&#41;</span>
+&#160;
+literalP <span class="sy0">::</span> <span class="kw4">Char</span> <span class="sy0">-&gt;</span> P <span class="br0">&#40;</span><span class="br0">&#41;</span>
+literalP c <span class="sy0">=</span> <span class="kw1">do</span> <span class="br0">&#123;</span> c' <span class="sy0">&lt;-</span> charP; guard <span class="br0">&#40;</span>c <span class="sy0">==</span> c'<span class="br0">&#41;</span> <span class="br0">&#125;</span>
+&#160;
+spaceP <span class="sy0">::</span> P <span class="br0">&#40;</span><span class="br0">&#41;</span>
+spaceP <span class="sy0">=</span> P <span class="br0">&#40;</span>\ s <span class="sy0">-&gt;</span> Just <span class="br0">&#40;</span><span class="br0">&#40;</span><span class="br0">&#41;</span><span class="sy0">,</span> <span class="kw3">dropWhile</span> isSpace s<span class="br0">&#41;</span><span class="br0">&#41;</span></pre></div></div>
+<p>Next a <tt>Syntax</tt> type, combining printing and parsing functions:
+</p>
+<div dir="ltr" class="mw-geshi mw-content-ltr"><div class="haskell source-haskell" style="font-family:monospace;"><pre class="de1"><span class="kw1">data</span> Syntax a <span class="sy0">=</span> Syntax <span class="br0">&#123;</span>
+                display <span class="sy0">::</span> a <span class="sy0">-&gt;</span> <span class="kw4">String</span><span class="sy0">,</span>
+                parse <span class="sy0">::</span> P a
+        <span class="br0">&#125;</span></pre></div></div>
+<p>(We don't use a class, because we want multiple syntaxes for a given type.)
+Some combinators for building syntaxes:
+</p>
+<div dir="ltr" class="mw-geshi mw-content-ltr"><div class="haskell source-haskell" style="font-family:monospace;"><pre class="de1"><span class="co1">-- concatenation</span>
+<span class="br0">&#40;</span><span class="sy0">&lt;*&gt;</span><span class="br0">&#41;</span> <span class="sy0">::</span> Syntax a <span class="sy0">-&gt;</span> Syntax b <span class="sy0">-&gt;</span> Syntax <span class="br0">&#40;</span>a<span class="sy0">,</span>b<span class="br0">&#41;</span>
+a <span class="sy0">&lt;*&gt;</span> b <span class="sy0">=</span> Syntax <span class="br0">&#123;</span>
+                display <span class="sy0">=</span> \ <span class="br0">&#40;</span>va<span class="sy0">,</span>vb<span class="br0">&#41;</span> <span class="sy0">-&gt;</span> display a va <span class="sy0">++</span> display b vb<span class="sy0">,</span>
+                parse <span class="sy0">=</span> liftM2 <span class="br0">&#40;</span><span class="sy0">,</span><span class="br0">&#41;</span> <span class="br0">&#40;</span>parse a<span class="br0">&#41;</span> <span class="br0">&#40;</span>parse b<span class="br0">&#41;</span>
+        <span class="br0">&#125;</span>
+&#160;
+<span class="co1">-- alternatives</span>
+<span class="br0">&#40;</span><span class="sy0">&lt;|&gt;</span><span class="br0">&#41;</span> <span class="sy0">::</span> Syntax a <span class="sy0">-&gt;</span> Syntax b <span class="sy0">-&gt;</span> Syntax <span class="br0">&#40;</span><span class="kw4">Either</span> a b<span class="br0">&#41;</span>
+a <span class="sy0">&lt;|&gt;</span> b <span class="sy0">=</span> Syntax <span class="br0">&#123;</span>
+                display <span class="sy0">=</span> <span class="kw3">either</span> <span class="br0">&#40;</span>display a<span class="br0">&#41;</span> <span class="br0">&#40;</span>display b<span class="br0">&#41;</span><span class="sy0">,</span>
+                parse <span class="sy0">=</span> liftM Left <span class="br0">&#40;</span>parse a<span class="br0">&#41;</span> `mplus` liftM Right <span class="br0">&#40;</span>parse b<span class="br0">&#41;</span>
+        <span class="br0">&#125;</span>
+&#160;
+char <span class="sy0">::</span> Syntax <span class="kw4">Char</span>
+char <span class="sy0">=</span> Syntax <span class="kw3">return</span> charP
+&#160;
+literal <span class="sy0">::</span> <span class="kw4">Char</span> <span class="sy0">-&gt;</span> Syntax <span class="br0">&#40;</span><span class="br0">&#41;</span>
+literal c <span class="sy0">=</span> Syntax <span class="br0">&#40;</span><span class="kw3">const</span> <span class="br0">&#91;</span>c<span class="br0">&#93;</span><span class="br0">&#41;</span> <span class="br0">&#40;</span>literalP c<span class="br0">&#41;</span>
+&#160;
+space <span class="sy0">::</span> Syntax <span class="br0">&#40;</span><span class="br0">&#41;</span>
+space <span class="sy0">=</span> Syntax <span class="br0">&#40;</span><span class="kw3">const</span> <span class="st0">&quot; &quot;</span><span class="br0">&#41;</span> spaceP
+&#160;
+iso <span class="sy0">::</span> <span class="br0">&#40;</span>a <span class="sy0">-&gt;</span> b<span class="br0">&#41;</span> <span class="sy0">-&gt;</span> <span class="br0">&#40;</span>b <span class="sy0">-&gt;</span> a<span class="br0">&#41;</span> <span class="sy0">-&gt;</span> Syntax a <span class="sy0">-&gt;</span> Syntax b
+iso a<span class="sy0">_</span>to<span class="sy0">_</span>b b<span class="sy0">_</span>to<span class="sy0">_</span>a a <span class="sy0">=</span> Syntax <span class="br0">&#123;</span>
+                display <span class="sy0">=</span> display a <span class="sy0">.</span> b<span class="sy0">_</span>to<span class="sy0">_</span>a<span class="sy0">,</span>
+                parse <span class="sy0">=</span> liftM a<span class="sy0">_</span>to<span class="sy0">_</span>b <span class="br0">&#40;</span>parse a<span class="br0">&#41;</span>
+        <span class="br0">&#125;</span></pre></div></div>
+<p>The last one maps a syntax using an isomorphism between types.
+Some uses of this function:
+</p>
+<div dir="ltr" class="mw-geshi mw-content-ltr"><div class="haskell source-haskell" style="font-family:monospace;"><pre class="de1"><span class="co1">-- concatenation, with no value in the first part</span>
+<span class="br0">&#40;</span><span class="sy0">*&gt;</span><span class="br0">&#41;</span> <span class="sy0">::</span> Syntax <span class="br0">&#40;</span><span class="br0">&#41;</span> <span class="sy0">-&gt;</span> Syntax a <span class="sy0">-&gt;</span> Syntax a
+p <span class="sy0">*&gt;</span> q <span class="sy0">=</span> iso <span class="kw3">snd</span> <span class="br0">&#40;</span><span class="br0">&#40;</span><span class="sy0">,</span><span class="br0">&#41;</span> <span class="br0">&#40;</span><span class="br0">&#41;</span><span class="br0">&#41;</span> <span class="br0">&#40;</span>p <span class="sy0">&lt;*&gt;</span> q<span class="br0">&#41;</span>
+&#160;
+<span class="co1">-- list of a's, followed by finish</span>
+list <span class="sy0">::</span> Syntax a <span class="sy0">-&gt;</span> Syntax <span class="br0">&#40;</span><span class="br0">&#41;</span> <span class="sy0">-&gt;</span> Syntax <span class="br0">&#91;</span>a<span class="br0">&#93;</span>
+list a finish <span class="sy0">=</span> iso toList fromList <span class="br0">&#40;</span>finish <span class="sy0">&lt;|&gt;</span> <span class="br0">&#40;</span>a <span class="sy0">&lt;*&gt;</span> list a finish<span class="br0">&#41;</span><span class="br0">&#41;</span>
+  <span class="kw1">where</span> toList <span class="br0">&#40;</span>Left <span class="sy0">_</span><span class="br0">&#41;</span> <span class="sy0">=</span> <span class="br0">&#91;</span><span class="br0">&#93;</span>
+        toList <span class="br0">&#40;</span>Right <span class="br0">&#40;</span>x<span class="sy0">,</span> xs<span class="br0">&#41;</span><span class="br0">&#41;</span> <span class="sy0">=</span> x:xs
+        fromList <span class="br0">&#91;</span><span class="br0">&#93;</span> <span class="sy0">=</span> Left <span class="br0">&#40;</span><span class="br0">&#41;</span>
+        fromList <span class="br0">&#40;</span>x:xs<span class="br0">&#41;</span> <span class="sy0">=</span> Right <span class="br0">&#40;</span>x<span class="sy0">,</span> xs<span class="br0">&#41;</span></pre></div></div>
+<p>Now we can define the syntax of depth-first presentations:
+</p>
+<div dir="ltr" class="mw-geshi mw-content-ltr"><div class="haskell source-haskell" style="font-family:monospace;"><pre class="de1">df <span class="sy0">::</span> Syntax <span class="br0">&#40;</span>Tree <span class="kw4">Char</span><span class="br0">&#41;</span>
+df <span class="sy0">=</span> iso toTree fromTree <span class="br0">&#40;</span>char <span class="sy0">&lt;*&gt;</span> list df <span class="br0">&#40;</span>literal '<span class="sy0">^</span>'<span class="br0">&#41;</span><span class="br0">&#41;</span>
+  <span class="kw1">where</span> toTree <span class="br0">&#40;</span>x<span class="sy0">,</span> ts<span class="br0">&#41;</span> <span class="sy0">=</span> Node x ts
+        fromTree <span class="br0">&#40;</span>Node x ts<span class="br0">&#41;</span> <span class="sy0">=</span> <span class="br0">&#40;</span>x<span class="sy0">,</span> ts<span class="br0">&#41;</span></pre></div></div>
+<p>We are using the isomorphism between <tt>Tree a</tt> and <tt>(a, [Tree a])</tt>.
+Some examples:
+</p>
+<div dir="ltr" class="mw-geshi mw-content-ltr"><div class="haskell source-haskell" style="font-family:monospace;"><pre class="de1">Tree<span class="sy0">&gt;</span> display df tree5
+<span class="st0">&quot;afg^^c^bd^e^^^&quot;</span>
+Tree<span class="sy0">&gt;</span> runP <span class="br0">&#40;</span>parse df<span class="br0">&#41;</span> <span class="st0">&quot;afg^^c^bd^e^^^&quot;</span>
+Just <span class="br0">&#40;</span>Node 'a' <span class="br0">&#91;</span>Node 'f' <span class="br0">&#91;</span>Node 'g' <span class="br0">&#91;</span><span class="br0">&#93;</span><span class="br0">&#93;</span><span class="sy0">,</span>Node 'c' <span class="br0">&#91;</span><span class="br0">&#93;</span><span class="sy0">,</span>Node 'b' <span class="br0">&#91;</span>Node 'd' <span class="br0">&#91;</span><span class="br0">&#93;</span><span class="sy0">,</span>Node 'e' <span class="br0">&#91;</span><span class="br0">&#93;</span><span class="br0">&#93;</span><span class="br0">&#93;</span><span class="sy0">,</span><span class="st0">&quot;&quot;</span><span class="br0">&#41;</span></pre></div></div>
+<hr />
+<p>A more naive solution, trying to split the string with stack
+</p>
+<div dir="ltr" class="mw-geshi mw-content-ltr"><div class="haskell source-haskell" style="font-family:monospace;"><pre class="de1">stringToTree <span class="sy0">::</span> <span class="kw4">String</span> <span class="sy0">-&gt;</span> Tree <span class="kw4">Char</span>
+stringToTree <span class="br0">&#40;</span>x:xs<span class="sy0">@</span><span class="br0">&#40;</span>y:ys<span class="br0">&#41;</span><span class="br0">&#41;</span> 
+     <span class="sy0">|</span> y <span class="sy0">==</span> '<span class="sy0">^</span>'  <span class="sy0">=</span> Node x <span class="br0">&#91;</span><span class="br0">&#93;</span>
+     <span class="sy0">|</span> <span class="kw3">otherwise</span> <span class="sy0">=</span> Node x <span class="br0">&#40;</span><span class="kw3">map</span> stringToTree subs<span class="br0">&#41;</span>
+               <span class="kw1">where</span> subs <span class="sy0">=</span> <span class="kw3">snd</span> <span class="sy0">$</span> <span class="kw3">foldl</span> parse <span class="br0">&#40;</span><span class="br0">&#91;</span><span class="br0">&#93;</span><span class="sy0">,</span><span class="br0">&#91;</span><span class="br0">&#93;</span><span class="br0">&#41;</span> <span class="sy0">$</span> <span class="kw3">init</span> xs
+	             parse <span class="br0">&#40;</span><span class="br0">&#91;</span><span class="br0">&#93;</span><span class="sy0">,</span><span class="br0">&#91;</span><span class="br0">&#93;</span><span class="br0">&#41;</span>      z <span class="sy0">=</span> <span class="br0">&#40;</span><span class="br0">&#91;</span>z<span class="br0">&#93;</span><span class="sy0">,</span> <span class="br0">&#91;</span><span class="br0">&#91;</span>z<span class="br0">&#93;</span><span class="br0">&#93;</span><span class="br0">&#41;</span>
+	             parse <span class="br0">&#40;</span>stack<span class="sy0">,</span> acc<span class="br0">&#41;</span> z <span class="sy0">=</span> <span class="br0">&#40;</span>stack'<span class="sy0">,</span> acc'<span class="br0">&#41;</span>
+			       <span class="kw1">where</span> stack' 
+			               <span class="sy0">|</span> z <span class="sy0">==</span> '<span class="sy0">^</span>'  <span class="sy0">=</span> <span class="kw3">init</span> stack
+				       <span class="sy0">|</span> <span class="kw3">otherwise</span> <span class="sy0">=</span> stack <span class="sy0">++</span> <span class="br0">&#91;</span>z<span class="br0">&#93;</span>
+			             acc'   <span class="sy0">=</span> <span class="kw1">if</span> stack <span class="sy0">==</span> <span class="br0">&#91;</span><span class="br0">&#93;</span>
+				                <span class="kw1">then</span> acc <span class="sy0">++</span> <span class="br0">&#91;</span><span class="br0">&#91;</span>z<span class="br0">&#93;</span><span class="br0">&#93;</span>
+						<span class="kw1">else</span> <span class="br0">&#40;</span><span class="kw3">init</span> acc<span class="br0">&#41;</span> <span class="sy0">++</span> <span class="br0">&#91;</span><span class="br0">&#40;</span><span class="kw3">last</span> acc<span class="br0">&#41;</span> <span class="sy0">++</span> <span class="br0">&#91;</span>z<span class="br0">&#93;</span><span class="br0">&#93;</span></pre></div></div>
+<hr />
+<p>A simple solution that uses Standard Prelude functions:
+</p>
+<div dir="ltr" class="mw-geshi mw-content-ltr"><div class="haskell source-haskell" style="font-family:monospace;"><pre class="de1">stringToTree <span class="sy0">::</span> <span class="kw4">String</span> <span class="sy0">-&gt;</span> Tree <span class="kw4">Char</span>
+stringToTree <span class="br0">&#40;</span>x:'<span class="sy0">^</span>':<span class="st0">&quot;&quot;</span><span class="br0">&#41;</span>	<span class="sy0">=</span> Node  x  <span class="br0">&#91;</span><span class="br0">&#93;</span>
+stringToTree <span class="br0">&#40;</span>x:xs<span class="br0">&#41;</span>     <span class="sy0">=</span> Node  x  ys
+   <span class="kw1">where</span> 
+      z <span class="sy0">=</span> <span class="kw3">map</span> <span class="kw3">fst</span> <span class="sy0">$</span> <span class="kw3">filter</span> <span class="br0">&#40;</span><span class="br0">&#40;</span><span class="sy0">==</span><span class="br0">&#41;</span> 0 <span class="sy0">.</span> <span class="kw3">snd</span><span class="br0">&#41;</span> <span class="sy0">$</span> <span class="kw3">zip</span> <span class="br0">&#91;</span>0<span class="sy0">..</span><span class="br0">&#93;</span> <span class="sy0">$</span> 
+          <span class="kw3">scanl</span> <span class="br0">&#40;</span><span class="sy0">+</span><span class="br0">&#41;</span> 0 <span class="sy0">$</span> <span class="kw3">map</span> <span class="br0">&#40;</span>\x <span class="sy0">-&gt;</span> <span class="kw1">if</span> x <span class="sy0">==</span> '<span class="sy0">^</span>' <span class="kw1">then</span> <span class="sy0">-</span>1 <span class="kw1">else</span> 1<span class="br0">&#41;</span> xs
+      ys <span class="sy0">=</span> <span class="kw3">map</span> <span class="br0">&#40;</span>stringToTree <span class="sy0">.</span> <span class="kw3">uncurry</span> <span class="br0">&#40;</span>sub xs<span class="br0">&#41;</span><span class="br0">&#41;</span> <span class="sy0">$</span> <span class="kw3">zip</span> <span class="br0">&#40;</span><span class="kw3">init</span> z<span class="br0">&#41;</span> <span class="br0">&#40;</span><span class="kw3">tail</span> z<span class="br0">&#41;</span>
+      sub s a b <span class="sy0">=</span> <span class="kw3">take</span> <span class="br0">&#40;</span>b <span class="sy0">-</span> a<span class="br0">&#41;</span> <span class="sy0">$</span> <span class="kw3">drop</span> a s</pre></div></div>
+<hr />
+<p>It's more direct to convert Tree back to string
+</p>
+<div dir="ltr" class="mw-geshi mw-content-ltr"><div class="haskell source-haskell" style="font-family:monospace;"><pre class="de1">treeToString <span class="sy0">::</span> Tree <span class="kw4">Char</span> <span class="sy0">-&gt;</span> <span class="kw4">String</span>
+treeToString <span class="br0">&#40;</span>Node x ts<span class="br0">&#41;</span> 
+	  <span class="sy0">=</span> <span class="br0">&#91;</span>x<span class="br0">&#93;</span> <span class="sy0">++</span> <span class="kw3">concatMap</span> treeToString ts <span class="sy0">++</span> <span class="st0">&quot;^&quot;</span></pre></div></div>
+
+<!-- 
+NewPP limit report
+Preprocessor node count: 28/1000000
+Post‐expand include size: 0/2097152 bytes
+Template argument size: 0/2097152 bytes
+Expensive parser function count: 0/100
+-->
+
+<!-- Saved in parser cache with key wikidb:pcache:idhash:6508-0!*!*!*!*!*!* and timestamp 20141003015503 -->
+</div><div class="printfooter">
+Retrieved from "<a href="http://www.haskell.org/haskellwiki/index.php?title=99_questions/Solutions/70&amp;oldid=57134">http://www.haskell.org/haskellwiki/index.php?title=99_questions/Solutions/70&amp;oldid=57134</a>"</div>
+			<div id='catlinks' class='catlinks catlinks-allhidden'></div>			<!-- end content -->
+						<div class="visualClear"></div>
+		</div>
+	</div>
+		</div></div>
+		<div id="column-one">
+	<script type="text/javascript"> if (window.isMSIE55) fixalpha(); </script>
+	<div class='generated-sidebar portlet' id='p-navigation'>
+		<h5>Navigation</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-mainpage"><a href="/haskellwiki/Haskell">Haskell</a></li>
+				<li id="n-portal"><a href="/haskellwiki/HaskellWiki:Community">Wiki community</a></li>
+				<li id="n-recentchanges"><a href="/haskellwiki/Special:RecentChanges">Recent changes</a></li>
+				<li id="n-randompage"><a href="/haskellwiki/Special:Random">Random page</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-tb">
+		<h5>Toolbox</h5>
+		<div class="pBody">
+			<ul>
+				<li id="t-whatlinkshere"><a href="/haskellwiki/Special:WhatLinksHere/99_questions/Solutions/70">What links here</a></li>
+				<li id="t-recentchangeslinked"><a href="/haskellwiki/Special:RecentChangesLinked/99_questions/Solutions/70">Related changes</a></li>
+<li id="t-specialpages"><a href="/haskellwiki/Special:SpecialPages">Special pages</a></li>
+				<li id="t-print"><a href="/haskellwiki/index.php?title=99_questions/Solutions/70&amp;printable=yes" rel="alternate">Printable version</a></li>				<li id="t-permalink"><a href="/haskellwiki/index.php?title=99_questions/Solutions/70&amp;oldid=57134">Permanent link</a></li>			</ul>
+		</div>
+	</div>
+		</div><!-- end of the left (by default at least) column -->
+			<div class="visualClear"></div>
+			<div id="footer">
+				<div id="f-poweredbyico"><a href="//www.mediawiki.org/"><img src="/wikistatic/skins//common/images/poweredby_mediawiki_88x31.png" height="31" width="88" alt="Powered by MediaWiki" /></a></div>
+			<ul id="f-list">
+					<li id="lastmod"> This page was last modified on 22 November 2013, at 18:57.</li>
+					<li id="viewcount">This page has been accessed 3,501 times.</li>
+					<li id="copyright">Recent content is available under <a href="/haskellwiki/HaskellWiki:Copyrights" title="HaskellWiki:Copyrights">a simple permissive license</a>.</li>
+					<li id="privacy"><a href="/haskellwiki/HaskellWiki:Privacy_policy" title="HaskellWiki:Privacy policy">Privacy policy</a></li>
+					<li id="about"><a href="/haskellwiki/HaskellWiki:About" title="HaskellWiki:About">About HaskellWiki</a></li>
+					<li id="disclaimer"><a href="/haskellwiki/HaskellWiki:General_disclaimer" title="HaskellWiki:General disclaimer">Disclaimers</a></li>
+			</ul>
+		</div>
+</div>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.user","mediawiki.page.ready"], null, true);
+}</script>
+<script src="http://www.haskell.org/haskellwiki/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=hawiki&amp;*"></script>
+<!-- Served in 0.127 secs. --><script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-15375175-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+</body></html>

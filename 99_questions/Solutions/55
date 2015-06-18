@@ -1,0 +1,266 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" dir="ltr">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+		<meta name="generator" content="MediaWiki 1.19.5-1+deb7u1" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/haskellwiki/opensearch_desc.php" title="HaskellWiki (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="http://www.haskell.org/haskellwiki/api.php?action=rsd" />
+<link rel="copyright" href="/haskellwiki/HaskellWiki:Copyrights" />
+<link rel="alternate" type="application/atom+xml" title="HaskellWiki Atom feed" href="/haskellwiki/index.php?title=Special:RecentChanges&amp;feed=atom" />		<title>99 questions/Solutions/55 - HaskellWiki</title>
+		<style type="text/css" media="screen, projection">/*<![CDATA[*/
+			@import "/wikistatic/skins//common/shared.css?303";
+			@import "/wikistatic/skins//hawiki/main.css?303";
+		/*]]>*/</style>
+		<link rel="stylesheet" type="text/css" media="print" href="/wikistatic/skins//common/commonPrint.css?303" />
+		<!--[if lt IE 5.5000]><style type="text/css">@import "/wikistatic/skins//hawiki/IE50Fixes.css?303";</style><![endif]-->
+		<!--[if IE 5.5000]><style type="text/css">@import "/wikistatic/skins//hawiki/IE55Fixes.css?303";</style><![endif]-->
+		<!--[if IE 6]><style type="text/css">@import "/wikistatic/skins//hawiki/IE60Fixes.css?303";</style><![endif]-->
+		<!--[if IE 7]><style type="text/css">@import "/wikistatic/skins//hawiki/IE70Fixes.css?303";</style><![endif]-->
+		<!--[if lte IE 7]><script type="text/javascript" src="/wikistatic/skins//hawiki/IEFixes.js?303"></script>
+		<meta http-equiv="imagetoolbar" content="no" /><![endif]-->
+                                                <script type="text/javascript">
+                        var isMSIE55 = (window.showModalDialog && window.clipboardData && window.createPopup); /*alert("test: " + isMSIE55);*/</script>
+
+		<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"99_questions/Solutions/55","wgTitle":"99 questions/Solutions/55","wgCurRevisionId":50110,"wgArticleId":6366,"wgIsArticle":true,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgRelevantPageName":"99_questions/Solutions/55","wgRestrictionEdit":[],"wgRestrictionMove":[]});
+}</script>
+		<script type="text/javascript" src="/wikistatic/skins//common/wikibits.js?303"><!-- wikibits js --></script>
+		<!-- Head Scripts -->
+<script src="http://www.haskell.org/haskellwiki/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=hawiki&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"99_questions/Solutions/55","wgTitle":"99 questions/Solutions/55","wgCurRevisionId":50110,"wgArticleId":6366,"wgIsArticle":true,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgRelevantPageName":"99_questions/Solutions/55","wgRestrictionEdit":[],"wgRestrictionMove":[]});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"externaldiff":0,"externaleditor":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"highlightbroken":1,"imagesize":2,"justify":0,"math":1,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":1,"previewonfirst":0,"previewontop":1,"quickbar":5,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":0,"showjumplinks":1,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"hawiki","stubthreshold":0,"thumbsize":2,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":0,"watchdefault":0,"watchdeletion":0,
+"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"variant":"en","language":"en","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false});;},{},{});mw.loader.implement("user.tokens",function($){mw.user.tokens.set({"editToken":"+\\","watchToken":false});;},{},{});
+
+/* cache key: wikidb:resourceloader:filter:minify-js:7:befcdb5e3b24ff89f900613de9ed4ea3 */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax"]);
+}</script><style type="text/css">/*<![CDATA[*/
+.source-haskell {line-height: normal;}
+.source-haskell li, .source-haskell pre {
+	line-height: normal; border: 0px none white;
+}
+/**
+ * GeSHi Dynamically Generated Stylesheet
+ * --------------------------------------
+ * Dynamically generated stylesheet for haskell
+ * CSS class: source-haskell, CSS id: 
+ * GeSHi (C) 2004 - 2007 Nigel McNie, 2007 - 2008 Benny Baumann
+ * (http://qbnz.com/highlighter/ and http://geshi.org/)
+ * --------------------------------------
+ */
+.haskell.source-haskell .de1, .haskell.source-haskell .de2 {font: normal normal 1em/1.2em monospace; margin:0; padding:0; background:none; vertical-align:top;}
+.haskell.source-haskell  {font-family:monospace;}
+.haskell.source-haskell .imp {font-weight: bold; color: red;}
+.haskell.source-haskell li, .haskell.source-haskell .li1 {font-weight: normal; vertical-align:top;}
+.haskell.source-haskell .ln {width:1px;text-align:right;margin:0;padding:0 2px;vertical-align:top;}
+.haskell.source-haskell .li2 {font-weight: bold; vertical-align:top;}
+.haskell.source-haskell .kw1 {color: #06c; font-weight: bold;}
+.haskell.source-haskell .kw2 {color: #06c; font-weight: bold;}
+.haskell.source-haskell .kw3 {font-weight: bold;}
+.haskell.source-haskell .kw4 {color: #cccc00; font-weight: bold;}
+.haskell.source-haskell .kw5 {color: maroon;}
+.haskell.source-haskell .co1 {color: #5d478b; font-style: italic;}
+.haskell.source-haskell .co2 {color: #339933; font-weight: bold;}
+.haskell.source-haskell .coMULTI {color: #5d478b; font-style: italic;}
+.haskell.source-haskell .es0 {background-color: #3cb371; font-weight: bold;}
+.haskell.source-haskell .br0 {color: green;}
+.haskell.source-haskell .sy0 {color: #339933; font-weight: bold;}
+.haskell.source-haskell .st0 {background-color: #3cb371;}
+.haskell.source-haskell .nu0 {color: red;}
+.haskell.source-haskell .me1 {color: #060;}
+.haskell.source-haskell .ln-xtra, .haskell.source-haskell li.ln-xtra, .haskell.source-haskell div.ln-xtra {background-color: #ffc;}
+.haskell.source-haskell span.xtra { display:block; }
+
+/*]]>*/
+</style>	</head>
+<body class="mediawiki ltr ns-0 ns-subject page-99_questions_Solutions_55 skin-hawiki">
+   <div id="topbar" class="noprint">
+	<div class="portlet noprint" id="p-personal">
+		<h5>Personal tools</h5>
+		<div class="pBody">
+			<ul><li><a class="homebutton" href="/haskellwiki/Haskell">Home</a></li>
+				<li id="pt-login"><a href="/haskellwiki/index.php?title=Special:UserLogin&amp;returnto=99+questions%2FSolutions%2F55">Log in</a></li>
+			</ul>
+		</div>
+	</div>
+        	  <div id="p-search">
+	    <div id="searchBody" class="pBody">
+	       <form action="/haskellwiki/index.php" id="searchform"><div>
+	          <input type='hidden' name="title" value="Special:Search"/>
+	          <input id="searchInput" name="search" type="text" value="" />
+				<input type='submit' name="go" class="searchButton" id="searchGoButton"	value="Go" />&nbsp;
+				<input type='submit' name="fulltext" class="searchButton" id="mw-searchButton" value="Search" />
+
+	         </div></form>
+	    </div>
+	  </div>
+   </div>
+	<div id="globalWrapper">
+	<div class="portlet" id="p-logo">
+		<a style="background-image: url(/wikistatic/haskellwiki_logo.png);" href="/haskellwiki/Haskell"></a>
+	</div>
+	<div id="column-content">
+        <div id="notice-area" class="noprint">
+        <!-- ?php $this->data['sitenotice'] = 'This is a test instance.  Do not edit, your changes will be lost.'; ? -->
+			        </div>
+        <div id="content-wrapper">
+	<div id="p-cactions" class="portlet noprint">
+		<h5>Views</h5>
+		<div class="pBody">
+			<ul>
+	
+				 <li id="ca-nstab-main" class="selected"><a href="/haskellwiki/99_questions/Solutions/55">Page</a></li>
+				 <li id="ca-talk" class="new"><a href="/haskellwiki/index.php?title=Talk:99_questions/Solutions/55&amp;action=edit&amp;redlink=1">Discussion</a></li>
+				 <li id="ca-viewsource"><a href="/haskellwiki/index.php?title=99_questions/Solutions/55&amp;action=edit">View source</a></li>
+				 <li id="ca-history"><a href="/haskellwiki/index.php?title=99_questions/Solutions/55&amp;action=history">History</a></li>			</ul>
+		</div>
+	</div>
+                        <div id="content">
+		<a name="top" id="top"></a>
+                        <h1 id="firstHeading" class="firstHeading">99 questions/Solutions/55</h1>
+		<div id="bodyContent">
+			<h3 id="siteSub">From HaskellWiki</h3>
+			<div id="contentSub"><span class="subpages">&lt; <a href="/haskellwiki/99_questions" title="99 questions">99 questions</a> | <a href="/haskellwiki/99_questions/Solutions" title="99 questions/Solutions">Solutions</a></span></div>
+			<div id="jump-to-nav">Jump to: <a href="#column-one">navigation</a>, <a href="#searchInput">search</a></div>			<!-- start content -->
+			<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><p>(**) Construct completely balanced binary trees
+</p><p>In a completely balanced binary tree, the following property holds for every node: The number of nodes in its left subtree and the number of nodes in its right subtree are almost equal, which means their difference is not greater than one.
+</p><p>Write a function cbal-tree to construct completely balanced binary trees for a given number of nodes. The predicate should generate all solutions via backtracking. Put the letter 'x' as information into all nodes of the tree.
+</p>
+<div dir="ltr" class="mw-geshi mw-content-ltr"><div class="haskell source-haskell" style="font-family:monospace;"><pre class="de1">cbalTree <span class="sy0">::</span> <span class="kw4">Int</span> <span class="sy0">-&gt;</span> <span class="br0">&#91;</span>Tree <span class="kw4">Char</span><span class="br0">&#93;</span>
+cbalTree 0 <span class="sy0">=</span> <span class="br0">&#91;</span>Empty<span class="br0">&#93;</span>
+cbalTree n <span class="sy0">=</span> <span class="kw1">let</span> <span class="br0">&#40;</span>q<span class="sy0">,</span> r<span class="br0">&#41;</span> <span class="sy0">=</span> <span class="br0">&#40;</span>n <span class="sy0">-</span> 1<span class="br0">&#41;</span> `<span class="kw3">quotRem</span>` 2
+    <span class="kw1">in</span> <span class="br0">&#91;</span>Branch 'x' left right <span class="sy0">|</span> i     <span class="sy0">&lt;-</span> <span class="br0">&#91;</span>q <span class="sy0">..</span> q <span class="sy0">+</span> r<span class="br0">&#93;</span><span class="sy0">,</span>
+                                left  <span class="sy0">&lt;-</span> cbalTree i<span class="sy0">,</span>
+                                right <span class="sy0">&lt;-</span> cbalTree <span class="br0">&#40;</span>n <span class="sy0">-</span> i <span class="sy0">-</span> <span class="nu0">1</span><span class="br0">&#41;</span><span class="br0">&#93;</span></pre></div></div>
+<p>This solution uses a list comprehension to enumerate all the trees, in a style that is more natural than standard backtracking.
+</p><p>The base case is a tree of size 0, for which <tt>Empty</tt> is the only possibility. Trees of size <tt>n == 1</tt> or larger consist of a branch, having left and right subtrees with sizes that sum up to <tt>n - 1</tt>. This is accomplished by getting the quotient and remainder of <tt>(n - 1)</tt> divided by two; the remainder will be 0 if <tt>n</tt> is odd, and 1 if <tt>n</tt> is even. For <tt>n == 4</tt>, <tt>(q, r) = (1, 1)</tt>.
+</p><p>Inside the list comprehension, <tt>i</tt> varies from <tt>q</tt> to <tt>q + r</tt>. In our <tt>n == 4</tt> example, <tt>i</tt> will vary from 1 to 2. We recursively get all possible left subtrees of size <tt>[1..2]</tt>, and all right subtrees with the remaining elements.
+</p><p>When we recursively call <tt>cbalTree 1</tt>, <tt>q</tt> and <tt>r</tt> will both be 0, thus <tt>i</tt> will be 0, and the left subtree will simply be <tt>Empty</tt>. The same goes for the right subtree, since <tt>n - i - 1</tt> is 0. This gives back a branch with no children--a "leaf" node:
+</p>
+<div dir="ltr" class="mw-geshi mw-content-ltr"><div class="haskell source-haskell" style="font-family:monospace;"><pre class="de1"><span class="sy0">&gt;</span> cbalTree <span class="nu0">1</span>
+<span class="br0">&#91;</span>Branch 'x' Empty Empty<span class="br0">&#93;</span></pre></div></div>
+<p>The call to <tt>cbalTree 2</tt> sets <tt>(q, r) = (0, 1)</tt>, so we'll get back a list of two possible subtrees. One has an empty left branch, the other an empty right branch:
+</p>
+<div dir="ltr" class="mw-geshi mw-content-ltr"><div class="haskell source-haskell" style="font-family:monospace;"><pre class="de1"><span class="sy0">&gt;</span> cbalTree <span class="nu0">2</span>
+<span class="br0">&#91;</span>
+  Branch 'x' Empty <span class="br0">&#40;</span>Branch 'x' Empty Empty<span class="br0">&#41;</span><span class="sy0">,</span>
+  Branch 'x' <span class="br0">&#40;</span>Branch 'x' Empty Empty<span class="br0">&#41;</span> Empty
+<span class="br0">&#93;</span></pre></div></div>
+<p>In this way, balances trees of any size can be built recursively from smaller trees.
+</p><p>A slightly more efficient version of this solution, which never creates the same tree twice: 
+</p>
+<div dir="ltr" class="mw-geshi mw-content-ltr"><div class="haskell source-haskell" style="font-family:monospace;"><pre class="de1">cbalTree 0 <span class="sy0">=</span> <span class="br0">&#91;</span>Empty<span class="br0">&#93;</span>
+cbalTree 1 <span class="sy0">=</span> <span class="br0">&#91;</span>leaf 'x'<span class="br0">&#93;</span>
+cbalTree n <span class="sy0">=</span> <span class="kw1">if</span> n `<span class="kw3">mod</span>` 2 <span class="sy0">==</span> 1 <span class="kw1">then</span> 
+             <span class="br0">&#91;</span> Branch 'x' l r <span class="sy0">|</span> l <span class="sy0">&lt;-</span> cbalTree <span class="br0">&#40;</span><span class="br0">&#40;</span>n <span class="sy0">-</span> 1<span class="br0">&#41;</span> `<span class="kw3">div</span>` 2<span class="br0">&#41;</span><span class="sy0">,</span> 
+                                r <span class="sy0">&lt;-</span> cbalTree <span class="br0">&#40;</span><span class="br0">&#40;</span>n <span class="sy0">-</span> 1<span class="br0">&#41;</span> `<span class="kw3">div</span>` 2<span class="br0">&#41;</span> <span class="br0">&#93;</span> 
+             <span class="kw1">else</span> 
+             <span class="kw3">concat</span> <span class="br0">&#91;</span> <span class="br0">&#91;</span>Branch 'x' l r<span class="sy0">,</span> Branch 'x' r l<span class="br0">&#93;</span> <span class="sy0">|</span> l <span class="sy0">&lt;-</span> cbalTree <span class="br0">&#40;</span><span class="br0">&#40;</span>n <span class="sy0">-</span> 1<span class="br0">&#41;</span> `<span class="kw3">div</span>` 2<span class="br0">&#41;</span><span class="sy0">,</span> 
+                                                         r <span class="sy0">&lt;-</span> cbalTree <span class="br0">&#40;</span>n `<span class="kw3">div</span>` <span class="nu0">2</span><span class="br0">&#41;</span> <span class="br0">&#93;</span></pre></div></div>
+<hr />
+<p>Another approach is to create a list of all possible tree structures with a given number of nodes, and then filter that list on whether or not the tree is balanced.
+</p>
+<div dir="ltr" class="mw-geshi mw-content-ltr"><div class="haskell source-haskell" style="font-family:monospace;"><pre class="de1"><span class="kw1">data</span> Tree a <span class="sy0">=</span> Empty <span class="sy0">|</span> Branch a <span class="br0">&#40;</span>Tree a<span class="br0">&#41;</span> <span class="br0">&#40;</span>Tree a<span class="br0">&#41;</span> <span class="kw1">deriving</span> <span class="br0">&#40;</span><span class="kw4">Show</span><span class="sy0">,</span> <span class="kw4">Eq</span><span class="br0">&#41;</span>
+leaf x <span class="sy0">=</span> Branch x Empty Empty
+&#160;
+main <span class="sy0">=</span> <span class="kw3">putStrLn</span> <span class="sy0">$</span> <span class="kw3">concatMap</span> <span class="br0">&#40;</span>\t <span class="sy0">-&gt;</span> <span class="kw3">show</span> t <span class="sy0">++</span> <span class="st0">&quot;<span class="es0">\n</span>&quot;</span><span class="br0">&#41;</span> balTrees
+    <span class="kw1">where</span> balTrees <span class="sy0">=</span> <span class="kw3">filter</span> isBalancedTree <span class="br0">&#40;</span>makeTrees 'x' 4<span class="br0">&#41;</span>
+&#160;
+isBalancedTree <span class="sy0">::</span> Tree a <span class="sy0">-&gt;</span> <span class="kw4">Bool</span>
+isBlanacedTree Empty <span class="sy0">=</span> True
+isBalancedTree <span class="br0">&#40;</span>Branch <span class="sy0">_</span> l r<span class="br0">&#41;</span> <span class="sy0">=</span> <span class="kw3">abs</span> <span class="br0">&#40;</span>countBranches l <span class="sy0">-</span> countBranches r<span class="br0">&#41;</span> ≤ 1
+                                <span class="sy0">&amp;&amp;</span> isBalancedTree l <span class="sy0">&amp;&amp;</span> isBalancedTree r
+isBalancedTree <span class="sy0">_</span> <span class="sy0">=</span> False
+&#160;
+countBranches <span class="sy0">::</span> Tree a <span class="sy0">-&gt;</span> <span class="kw4">Int</span>
+countBranches Empty <span class="sy0">=</span> <span class="nu0">0</span>
+countBranches <span class="br0">&#40;</span>Branch <span class="sy0">_</span> l r<span class="br0">&#41;</span> <span class="sy0">=</span> <span class="nu0">1</span> <span class="sy0">+</span> countBranches l <span class="sy0">+</span> countBranches r
+&#160;
+<span class="co1">-- makes all possible trees filled with the given number of nodes</span>
+<span class="co1">-- and fill them with the given value</span>
+makeTrees <span class="sy0">::</span> a <span class="sy0">-&gt;</span> <span class="kw4">Int</span> <span class="sy0">-&gt;</span> <span class="br0">&#91;</span>Tree a<span class="br0">&#93;</span>
+makeTrees <span class="sy0">_</span> 0 <span class="sy0">=</span> <span class="br0">&#91;</span><span class="br0">&#93;</span>
+makeTrees c 1 <span class="sy0">=</span> <span class="br0">&#91;</span>leaf c<span class="br0">&#93;</span>
+makeTrees c n <span class="sy0">=</span> lonly <span class="sy0">++</span> ronly <span class="sy0">++</span> landr
+    <span class="kw1">where</span> lonly  <span class="sy0">=</span> <span class="br0">&#91;</span>Branch c t Empty <span class="sy0">|</span> t <span class="sy0">&lt;-</span> smallerTree<span class="br0">&#93;</span>
+          ronly <span class="sy0">=</span> <span class="br0">&#91;</span>Branch c Empty t <span class="sy0">|</span> t <span class="sy0">&lt;-</span> smallerTree<span class="br0">&#93;</span>
+          landr <span class="sy0">=</span> <span class="kw3">concat</span> <span class="br0">&#91;</span><span class="br0">&#91;</span>Branch c l r <span class="sy0">|</span> l <span class="sy0">&lt;-</span> <span class="kw3">fst</span> lrtrees<span class="sy0">,</span> r <span class="sy0">&lt;-</span> <span class="kw3">snd</span> lrtrees<span class="br0">&#93;</span> <span class="sy0">|</span> lrtrees <span class="sy0">&lt;-</span> treeMinusTwo<span class="br0">&#93;</span>
+          smallerTree <span class="sy0">=</span> makeTrees c <span class="br0">&#40;</span>n<span class="sy0">-</span>1<span class="br0">&#41;</span>
+          treeMinusTwo <span class="sy0">=</span> <span class="br0">&#91;</span><span class="br0">&#40;</span>makeTrees c num<span class="sy0">,</span> makeTrees c <span class="br0">&#40;</span>n<span class="sy0">-</span>1<span class="sy0">-</span>num<span class="br0">&#41;</span><span class="br0">&#41;</span> <span class="sy0">|</span> num <span class="sy0">&lt;-</span> <span class="br0">&#91;</span>0<span class="sy0">..</span>n<span class="sy0">-</span><span class="nu0">2</span><span class="br0">&#93;</span><span class="br0">&#93;</span></pre></div></div>
+<p>While not nearly as neat as the previous solution, this solution uses some generic binary tree methods that could be useful in other contexts.
+</p>
+<!-- 
+NewPP limit report
+Preprocessor node count: 16/1000000
+Post‐expand include size: 0/2097152 bytes
+Template argument size: 0/2097152 bytes
+Expensive parser function count: 0/100
+-->
+
+<!-- Saved in parser cache with key wikidb:pcache:idhash:6366-0!*!*!*!*!*!* and timestamp 20141003041017 -->
+</div><div class="printfooter">
+Retrieved from "<a href="http://www.haskell.org/haskellwiki/index.php?title=99_questions/Solutions/55&amp;oldid=50110">http://www.haskell.org/haskellwiki/index.php?title=99_questions/Solutions/55&amp;oldid=50110</a>"</div>
+			<div id='catlinks' class='catlinks catlinks-allhidden'></div>			<!-- end content -->
+						<div class="visualClear"></div>
+		</div>
+	</div>
+		</div></div>
+		<div id="column-one">
+	<script type="text/javascript"> if (window.isMSIE55) fixalpha(); </script>
+	<div class='generated-sidebar portlet' id='p-navigation'>
+		<h5>Navigation</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-mainpage"><a href="/haskellwiki/Haskell">Haskell</a></li>
+				<li id="n-portal"><a href="/haskellwiki/HaskellWiki:Community">Wiki community</a></li>
+				<li id="n-recentchanges"><a href="/haskellwiki/Special:RecentChanges">Recent changes</a></li>
+				<li id="n-randompage"><a href="/haskellwiki/Special:Random">Random page</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-tb">
+		<h5>Toolbox</h5>
+		<div class="pBody">
+			<ul>
+				<li id="t-whatlinkshere"><a href="/haskellwiki/Special:WhatLinksHere/99_questions/Solutions/55">What links here</a></li>
+				<li id="t-recentchangeslinked"><a href="/haskellwiki/Special:RecentChangesLinked/99_questions/Solutions/55">Related changes</a></li>
+<li id="t-specialpages"><a href="/haskellwiki/Special:SpecialPages">Special pages</a></li>
+				<li id="t-print"><a href="/haskellwiki/index.php?title=99_questions/Solutions/55&amp;printable=yes" rel="alternate">Printable version</a></li>				<li id="t-permalink"><a href="/haskellwiki/index.php?title=99_questions/Solutions/55&amp;oldid=50110">Permanent link</a></li>			</ul>
+		</div>
+	</div>
+		</div><!-- end of the left (by default at least) column -->
+			<div class="visualClear"></div>
+			<div id="footer">
+				<div id="f-poweredbyico"><a href="//www.mediawiki.org/"><img src="/wikistatic/skins//common/images/poweredby_mediawiki_88x31.png" height="31" width="88" alt="Powered by MediaWiki" /></a></div>
+			<ul id="f-list">
+					<li id="lastmod"> This page was last modified on 25 August 2012, at 04:16.</li>
+					<li id="viewcount">This page has been accessed 5,819 times.</li>
+					<li id="copyright">Recent content is available under <a href="/haskellwiki/HaskellWiki:Copyrights" title="HaskellWiki:Copyrights">a simple permissive license</a>.</li>
+					<li id="privacy"><a href="/haskellwiki/HaskellWiki:Privacy_policy" title="HaskellWiki:Privacy policy">Privacy policy</a></li>
+					<li id="about"><a href="/haskellwiki/HaskellWiki:About" title="HaskellWiki:About">About HaskellWiki</a></li>
+					<li id="disclaimer"><a href="/haskellwiki/HaskellWiki:General_disclaimer" title="HaskellWiki:General disclaimer">Disclaimers</a></li>
+			</ul>
+		</div>
+</div>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.user","mediawiki.page.ready"], null, true);
+}</script>
+<script src="http://www.haskell.org/haskellwiki/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=hawiki&amp;*"></script>
+<!-- Served in 0.196 secs. --><script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-15375175-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+</body></html>

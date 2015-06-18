@@ -1,0 +1,3 @@
+:set editor vi
+:set prompt "ghci>"
+:set +m +t +s

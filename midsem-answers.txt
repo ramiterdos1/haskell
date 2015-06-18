@@ -1,0 +1,150 @@
+======================================================================
+            Introduction to Programming, Aug-Dec 2008
+              Solutions to Midsemester Examination
+======================================================================
+
+1. (a) applyEach :: [(a->b)] -> a -> [b]
+       applyEach [] v = []
+       applyEach (f:fs) v = (f v):(applyEach fs v)
+
+       OR
+
+       applyEach l v = [f v | f <- l]
+
+   (b) applyAll :: [(a->a)] -> a -> a
+       applyAll [] v = v
+       applyAll (f:fs) v = f (applyAll fs v)
+
+2. findunique :: (Ord a) => [a] -> [a] -> [a]
+
+   findunique l1 l2 = uniquemerge (mergesort l1) (mergesort l2)
+     where
+       uniquemerge :: (Ord a) => [a] -> [a] -> [a]
+       uniquemerge l1 [] = l1
+       uniquemerge [] l2 = l2
+       uniquemerge (x:xs) (y:ys)
+         | (x < y)   = x:(uniquemerge xs (y:ys))
+         | (y < x)   = y:(uniquemerge (x:xs) ys)
+         | otherwise = uniquemerge xs ys
+
+       mergesort :: (Ord a) => [a] -> [a] 
+       mergesort []  = []
+       mergesort [x] = [x]
+       mergesort l   = merge (mergersort front) (mergesort back)
+         where
+           half  = (length l) `div` 2
+           front = take half l
+           back  = drop half l
+
+           merge :: (Ord a) => [a] -> [a] -> [a]
+           merge l1 [] = l1
+           merge [] l2 = l2
+           merge (x:xs) (y:ys)
+            | (x <= y)   = x:(merge xs (y:ys))
+            | otherwise  = y:(merge (x:xs) ys)
+
+   Can also mergesort (l1++l2) and observe that any value that is
+   in both l1 and l2 will appear exactly twice consecutively in
+   the resulting list since l1 and l2 are promised to not have
+   duplicates internally.  Can then write a function to strip off
+   all such duplicate pairs in one scan:
+
+   findunique l1 l2 = remdup (mergesort (l1++l2)) 
+     where
+       remdup :: (Eq a) => [a] -> [a]
+       remdup []  = []
+       remdup [x] = [x]
+       remdup (x:y:ys)
+           | x == y    = remdup ys
+           | otherwise = x:(remdup (y:ys))
+
+3. (a) fastpower :: Float -> Int -> Float
+       fastpower x 0 = 1.0
+       fastpower x n
+         | (n `mod` 2 == 0) = fastpower (x*x) (n `div` 2)
+         | otherwise        = x*(fastpower (x*x) (n `div` 2))
+
+   (b) Let F(n) be the number of times fastpower calls itself
+       with argument n.
+
+       Then 
+         F(0) = 1
+         F(n) = 1 + F(n/2)
+
+      After log n steps we get to F(0) so fastpower makes log n
+      recursive calls.
+
+4. The function cannot be defined in Haskell because the output
+   of the function does not have a uniform type.
+
+5. Many possible solutions, here is one:
+
+   pseudorandom :: Int -> Int -> Int -> Int -> [Int]
+   pseudorandom a b c x0 = generate a b c x0 [x0]
+     where
+       generate :: Int -> Int -> Int -> Int -> [Int] -> [Int]
+       generate a b c z l 
+         | elem next l  =  l ++ [next]
+         | otherwise    =  generate a b c next (l ++ [next])
+         where
+           next = mod (a*z + b) c
+
+   In generate, l is the current sequence and z is the last
+   element of l (so z is not needed as a separarte input,
+   strictly speaking).  Compute the next element with respect to
+   z and check whether to continue or stop based on whether new
+   value is a repeated value.
+
+6. (a) table is an infinite list of infinite lists:
+
+       [[2,3,4,5,...], [4,6,8,10,...], [6,9,12,15,...],...]
+
+   (b) hugs/ghci will print [[2,3,4,5,.....
+
+   (c) Here is one possible solution:
+
+         [ x!!3 | take 4 table ]
+
+       That is, print the fourth entry (index 3) from
+       [2,3,4,5,...], [4,6,8,10,...], [6,9,12,15,...] and
+       [8,12,16,20,...].
+
+7. (a) data Duallist a b = Nil | 
+                           Lista a (Duallist a b) | 
+                           Listb b (Duallist a b)
+
+       Need two constructors for two different element types
+
+   (b) census :: (Duallist a b) -> (Int,Int)
+       census l = (m,n)
+         where
+           m = counta l
+           n = countb l
+
+           counta :: (Duallist a b) -> Int
+           counta Nil = 0
+           counta (Lista x l) = 1 + counta l
+           counta (Listb x l) = counta l
+
+           countb :: (Duallist a b) -> Int
+           countb Nil = 0
+           countb (Listb x l) = 1 + countb l
+           countb (Lista x l) = countb l
+
+       Cannot check types in conditions, but constructors tell us
+       which type we are dealing with.
+
+   (c) instance (Eq a,Eq b) => Eq (Duallist a b) where
+         l1 == l2 = (alist l1 == alist l2) && (blist l1 == blist l2)
+           where
+             alist :: (Duallist a b ) -> [a]
+             alist Nil = []
+             alist (Lista x l) = x:(alist l)
+             alist (Listb x l) = alist l
+
+             blist :: (Duallist a b ) -> [b]
+             blist Nil = []
+             blist (Listb x l) = x:(blist l)
+             blist (Lista x l) = blist l
+
+======================================================================

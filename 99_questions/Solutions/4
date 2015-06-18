@@ -1,0 +1,245 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" dir="ltr">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+		<meta name="generator" content="MediaWiki 1.19.5-1+deb7u1" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/haskellwiki/opensearch_desc.php" title="HaskellWiki (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="http://www.haskell.org/haskellwiki/api.php?action=rsd" />
+<link rel="copyright" href="/haskellwiki/HaskellWiki:Copyrights" />
+<link rel="alternate" type="application/atom+xml" title="HaskellWiki Atom feed" href="/haskellwiki/index.php?title=Special:RecentChanges&amp;feed=atom" />		<title>99 questions/Solutions/4 - HaskellWiki</title>
+		<style type="text/css" media="screen, projection">/*<![CDATA[*/
+			@import "/wikistatic/skins//common/shared.css?303";
+			@import "/wikistatic/skins//hawiki/main.css?303";
+		/*]]>*/</style>
+		<link rel="stylesheet" type="text/css" media="print" href="/wikistatic/skins//common/commonPrint.css?303" />
+		<!--[if lt IE 5.5000]><style type="text/css">@import "/wikistatic/skins//hawiki/IE50Fixes.css?303";</style><![endif]-->
+		<!--[if IE 5.5000]><style type="text/css">@import "/wikistatic/skins//hawiki/IE55Fixes.css?303";</style><![endif]-->
+		<!--[if IE 6]><style type="text/css">@import "/wikistatic/skins//hawiki/IE60Fixes.css?303";</style><![endif]-->
+		<!--[if IE 7]><style type="text/css">@import "/wikistatic/skins//hawiki/IE70Fixes.css?303";</style><![endif]-->
+		<!--[if lte IE 7]><script type="text/javascript" src="/wikistatic/skins//hawiki/IEFixes.js?303"></script>
+		<meta http-equiv="imagetoolbar" content="no" /><![endif]-->
+                                                <script type="text/javascript">
+                        var isMSIE55 = (window.showModalDialog && window.clipboardData && window.createPopup); /*alert("test: " + isMSIE55);*/</script>
+
+		<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"99_questions/Solutions/4","wgTitle":"99 questions/Solutions/4","wgCurRevisionId":58091,"wgArticleId":6076,"wgIsArticle":true,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Programming exercise spoilers"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgRelevantPageName":"99_questions/Solutions/4","wgRestrictionEdit":[],"wgRestrictionMove":[]});
+}</script>
+		<script type="text/javascript" src="/wikistatic/skins//common/wikibits.js?303"><!-- wikibits js --></script>
+		<!-- Head Scripts -->
+<script src="http://www.haskell.org/haskellwiki/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=hawiki&amp;*"></script>
+<script>if(window.mw){
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"99_questions/Solutions/4","wgTitle":"99 questions/Solutions/4","wgCurRevisionId":58091,"wgArticleId":6076,"wgIsArticle":true,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Programming exercise spoilers"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgRelevantPageName":"99_questions/Solutions/4","wgRestrictionEdit":[],"wgRestrictionMove":[]});
+}</script><script>if(window.mw){
+mw.loader.implement("user.options",function($){mw.user.options.set({"ccmeonemails":0,"cols":80,"date":"default","diffonly":0,"disablemail":0,"disablesuggest":0,"editfont":"default","editondblclick":0,"editsection":1,"editsectiononrightclick":0,"enotifminoredits":0,"enotifrevealaddr":0,"enotifusertalkpages":1,"enotifwatchlistpages":0,"extendwatchlist":0,"externaldiff":0,"externaleditor":0,"fancysig":0,"forceeditsummary":0,"gender":"unknown","hideminor":0,"hidepatrolled":0,"highlightbroken":1,"imagesize":2,"justify":0,"math":1,"minordefault":0,"newpageshidepatrolled":0,"nocache":0,"noconvertlink":0,"norollbackdiff":0,"numberheadings":1,"previewonfirst":0,"previewontop":1,"quickbar":5,"rcdays":7,"rclimit":50,"rememberpassword":0,"rows":25,"searchlimit":20,"showhiddencats":0,"showjumplinks":1,"shownumberswatching":1,"showtoc":1,"showtoolbar":1,"skin":"hawiki","stubthreshold":0,"thumbsize":2,"underline":2,"uselivepreview":0,"usenewrc":0,"watchcreations":0,"watchdefault":0,"watchdeletion":0,
+"watchlistdays":3,"watchlisthideanons":0,"watchlisthidebots":0,"watchlisthideliu":0,"watchlisthideminor":0,"watchlisthideown":0,"watchlisthidepatrolled":0,"watchmoves":0,"wllimit":250,"variant":"en","language":"en","searchNs0":true,"searchNs1":false,"searchNs2":false,"searchNs3":false,"searchNs4":false,"searchNs5":false,"searchNs6":false,"searchNs7":false,"searchNs8":false,"searchNs9":false,"searchNs10":false,"searchNs11":false,"searchNs12":false,"searchNs13":false,"searchNs14":false,"searchNs15":false});;},{},{});mw.loader.implement("user.tokens",function($){mw.user.tokens.set({"editToken":"+\\","watchToken":false});;},{},{});
+
+/* cache key: wikidb:resourceloader:filter:minify-js:7:befcdb5e3b24ff89f900613de9ed4ea3 */
+}</script>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","mediawiki.legacy.ajax"]);
+}</script><style type="text/css">/*<![CDATA[*/
+.source-haskell {line-height: normal;}
+.source-haskell li, .source-haskell pre {
+	line-height: normal; border: 0px none white;
+}
+/**
+ * GeSHi Dynamically Generated Stylesheet
+ * --------------------------------------
+ * Dynamically generated stylesheet for haskell
+ * CSS class: source-haskell, CSS id: 
+ * GeSHi (C) 2004 - 2007 Nigel McNie, 2007 - 2008 Benny Baumann
+ * (http://qbnz.com/highlighter/ and http://geshi.org/)
+ * --------------------------------------
+ */
+.haskell.source-haskell .de1, .haskell.source-haskell .de2 {font: normal normal 1em/1.2em monospace; margin:0; padding:0; background:none; vertical-align:top;}
+.haskell.source-haskell  {font-family:monospace;}
+.haskell.source-haskell .imp {font-weight: bold; color: red;}
+.haskell.source-haskell li, .haskell.source-haskell .li1 {font-weight: normal; vertical-align:top;}
+.haskell.source-haskell .ln {width:1px;text-align:right;margin:0;padding:0 2px;vertical-align:top;}
+.haskell.source-haskell .li2 {font-weight: bold; vertical-align:top;}
+.haskell.source-haskell .kw1 {color: #06c; font-weight: bold;}
+.haskell.source-haskell .kw2 {color: #06c; font-weight: bold;}
+.haskell.source-haskell .kw3 {font-weight: bold;}
+.haskell.source-haskell .kw4 {color: #cccc00; font-weight: bold;}
+.haskell.source-haskell .kw5 {color: maroon;}
+.haskell.source-haskell .co1 {color: #5d478b; font-style: italic;}
+.haskell.source-haskell .co2 {color: #339933; font-weight: bold;}
+.haskell.source-haskell .coMULTI {color: #5d478b; font-style: italic;}
+.haskell.source-haskell .es0 {background-color: #3cb371; font-weight: bold;}
+.haskell.source-haskell .br0 {color: green;}
+.haskell.source-haskell .sy0 {color: #339933; font-weight: bold;}
+.haskell.source-haskell .st0 {background-color: #3cb371;}
+.haskell.source-haskell .nu0 {color: red;}
+.haskell.source-haskell .me1 {color: #060;}
+.haskell.source-haskell .ln-xtra, .haskell.source-haskell li.ln-xtra, .haskell.source-haskell div.ln-xtra {background-color: #ffc;}
+.haskell.source-haskell span.xtra { display:block; }
+
+/*]]>*/
+</style>	</head>
+<body class="mediawiki ltr ns-0 ns-subject page-99_questions_Solutions_4 skin-hawiki">
+   <div id="topbar" class="noprint">
+	<div class="portlet noprint" id="p-personal">
+		<h5>Personal tools</h5>
+		<div class="pBody">
+			<ul><li><a class="homebutton" href="/haskellwiki/Haskell">Home</a></li>
+				<li id="pt-login"><a href="/haskellwiki/index.php?title=Special:UserLogin&amp;returnto=99+questions%2FSolutions%2F4">Log in</a></li>
+			</ul>
+		</div>
+	</div>
+        	  <div id="p-search">
+	    <div id="searchBody" class="pBody">
+	       <form action="/haskellwiki/index.php" id="searchform"><div>
+	          <input type='hidden' name="title" value="Special:Search"/>
+	          <input id="searchInput" name="search" type="text" value="" />
+				<input type='submit' name="go" class="searchButton" id="searchGoButton"	value="Go" />&nbsp;
+				<input type='submit' name="fulltext" class="searchButton" id="mw-searchButton" value="Search" />
+
+	         </div></form>
+	    </div>
+	  </div>
+   </div>
+	<div id="globalWrapper">
+	<div class="portlet" id="p-logo">
+		<a style="background-image: url(/wikistatic/haskellwiki_logo.png);" href="/haskellwiki/Haskell"></a>
+	</div>
+	<div id="column-content">
+        <div id="notice-area" class="noprint">
+        <!-- ?php $this->data['sitenotice'] = 'This is a test instance.  Do not edit, your changes will be lost.'; ? -->
+			        </div>
+        <div id="content-wrapper">
+	<div id="p-cactions" class="portlet noprint">
+		<h5>Views</h5>
+		<div class="pBody">
+			<ul>
+	
+				 <li id="ca-nstab-main" class="selected"><a href="/haskellwiki/99_questions/Solutions/4">Page</a></li>
+				 <li id="ca-talk" class="new"><a href="/haskellwiki/index.php?title=Talk:99_questions/Solutions/4&amp;action=edit&amp;redlink=1">Discussion</a></li>
+				 <li id="ca-viewsource"><a href="/haskellwiki/index.php?title=99_questions/Solutions/4&amp;action=edit">View source</a></li>
+				 <li id="ca-history"><a href="/haskellwiki/index.php?title=99_questions/Solutions/4&amp;action=history">History</a></li>			</ul>
+		</div>
+	</div>
+                        <div id="content">
+		<a name="top" id="top"></a>
+                        <h1 id="firstHeading" class="firstHeading">99 questions/Solutions/4</h1>
+		<div id="bodyContent">
+			<h3 id="siteSub">From HaskellWiki</h3>
+			<div id="contentSub"><span class="subpages">&lt; <a href="/haskellwiki/99_questions" title="99 questions">99 questions</a> | <a href="/haskellwiki/99_questions/Solutions" title="99 questions/Solutions">Solutions</a></span></div>
+			<div id="jump-to-nav">Jump to: <a href="#column-one">navigation</a>, <a href="#searchInput">search</a></div>			<!-- start content -->
+			<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><p>(*) Find the number of elements of a list.
+</p>
+<table id="toc" class="toc"><tr><td><div id="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#The_simple.2C_recursive_solution"><span class="tocnumber">1</span> <span class="toctext">The simple, recursive solution</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Same.2C_but_using_an_.22accumulator.22"><span class="tocnumber">2</span> <span class="toctext">Same, but using an "accumulator"</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Using_foldl.2Ffoldr"><span class="tocnumber">3</span> <span class="toctext">Using foldl/foldr</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Zipping_with_an_infinite_list"><span class="tocnumber">4</span> <span class="toctext">Zipping with an infinite list</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Mapping_all_elements_to_.221.22"><span class="tocnumber">5</span> <span class="toctext">Mapping all elements to "1"</span></a></li>
+</ul>
+</td></tr></table>
+<h2> <span class="mw-headline" id="The_simple.2C_recursive_solution">1  The simple, recursive solution </span></h2>
+This is similar to the <div class="inline-code"><div dir="ltr" class="mw-geshi mw-content-ltr"><div class="haskell source-haskell" style="font-family:monospace;"><span class="kw3">length</span></div></div></div> from <div class="inline-code"><div dir="ltr" class="mw-geshi mw-content-ltr"><div class="haskell source-haskell" style="font-family:monospace;"><span class="kw2">Prelude</span></div></div></div>:
+<div dir="ltr" class="mw-geshi mw-content-ltr"><div class="haskell source-haskell" style="font-family:monospace;"><pre class="de1">myLength           <span class="sy0">::</span> <span class="br0">&#91;</span>a<span class="br0">&#93;</span> <span class="sy0">-&gt;</span> <span class="kw4">Int</span>
+myLength <span class="br0">&#91;</span><span class="br0">&#93;</span>        <span class="sy0">=</span>  <span class="nu0">0</span>
+myLength <span class="br0">&#40;</span><span class="sy0">_</span>:xs<span class="br0">&#41;</span>    <span class="sy0">=</span>  <span class="nu0">1</span> <span class="sy0">+</span> myLength xs</pre></div></div>
+<p>The prelude for haskell 2010 can be found <a rel="nofollow" class="external text" href="http://www.haskell.org/onlinereport/haskell2010/haskellch9.html#x16-1710009">here.</a>
+</p>
+<h2> <span class="mw-headline" id="Same.2C_but_using_an_.22accumulator.22">2  Same, but using an "accumulator" </span></h2>
+<div dir="ltr" class="mw-geshi mw-content-ltr"><div class="haskell source-haskell" style="font-family:monospace;"><pre class="de1">myLength <span class="sy0">::</span> <span class="br0">&#91;</span>a<span class="br0">&#93;</span> <span class="sy0">-&gt;</span> <span class="kw4">Int</span>
+myLength list <span class="sy0">=</span> myLength<span class="sy0">_</span>acc list 0
+	<span class="kw1">where</span>
+		myLength<span class="sy0">_</span>acc <span class="br0">&#91;</span><span class="br0">&#93;</span> n <span class="sy0">=</span> n
+		myLength<span class="sy0">_</span>acc <span class="br0">&#40;</span><span class="sy0">_</span>:xs<span class="br0">&#41;</span> n <span class="sy0">=</span> myLength<span class="sy0">_</span>acc xs <span class="br0">&#40;</span>n <span class="sy0">+</span> <span class="nu0">1</span><span class="br0">&#41;</span></pre></div></div>
+<h2> <span class="mw-headline" id="Using_foldl.2Ffoldr">3  Using foldl/foldr </span></h2>
+<div dir="ltr" class="mw-geshi mw-content-ltr"><div class="haskell source-haskell" style="font-family:monospace;"><pre class="de1">myLength <span class="sy0">::</span> <span class="br0">&#91;</span>a<span class="br0">&#93;</span> <span class="sy0">-&gt;</span> <span class="kw4">Int</span>
+myLength1 <span class="sy0">=</span>  <span class="kw3">foldl</span> <span class="br0">&#40;</span>\n <span class="sy0">_</span> <span class="sy0">-&gt;</span> n <span class="sy0">+</span> 1<span class="br0">&#41;</span> 0
+myLength2 <span class="sy0">=</span>  <span class="kw3">foldr</span> <span class="br0">&#40;</span>\<span class="sy0">_</span> n <span class="sy0">-&gt;</span> n <span class="sy0">+</span> 1<span class="br0">&#41;</span> 0
+myLength3 <span class="sy0">=</span>  <span class="kw3">foldr</span> <span class="br0">&#40;</span>\<span class="sy0">_</span> <span class="sy0">-&gt;</span> <span class="br0">&#40;</span><span class="sy0">+</span>1<span class="br0">&#41;</span><span class="br0">&#41;</span> 0
+myLength4 <span class="sy0">=</span>  <span class="kw3">foldr</span> <span class="br0">&#40;</span><span class="br0">&#40;</span><span class="sy0">+</span><span class="br0">&#41;</span> <span class="sy0">.</span> <span class="br0">&#40;</span><span class="kw3">const</span> 1<span class="br0">&#41;</span><span class="br0">&#41;</span> 0
+myLength5 <span class="sy0">=</span>  <span class="kw3">foldr</span> <span class="br0">&#40;</span><span class="kw3">const</span> <span class="br0">&#40;</span><span class="sy0">+</span>1<span class="br0">&#41;</span><span class="br0">&#41;</span> 0
+myLength6 <span class="sy0">=</span>  <span class="kw3">foldl</span> <span class="br0">&#40;</span><span class="kw3">const</span> <span class="sy0">.</span> <span class="br0">&#40;</span><span class="sy0">+</span><span class="nu0">1</span><span class="br0">&#41;</span><span class="br0">&#41;</span> <span class="nu0">0</span></pre></div></div>
+<h2> <span class="mw-headline" id="Zipping_with_an_infinite_list">4  Zipping with an infinite list </span></h2>
+<p>We can also create an infinite list starting from 1.
+Then we "zip" the two lists together and take the last element (which is a pair) from the result:
+</p>
+<div dir="ltr" class="mw-geshi mw-content-ltr"><div class="haskell source-haskell" style="font-family:monospace;"><pre class="de1">myLength <span class="sy0">::</span> <span class="br0">&#91;</span>a<span class="br0">&#93;</span> <span class="sy0">-&gt;</span> <span class="kw4">Int</span>
+myLength1 xs <span class="sy0">=</span> <span class="kw3">snd</span> <span class="sy0">$</span> <span class="kw3">last</span> <span class="sy0">$</span> <span class="kw3">zip</span> xs <span class="br0">&#91;</span>1<span class="sy0">..</span><span class="br0">&#93;</span> <span class="co1">-- Just for fun</span>
+myLength2 <span class="sy0">=</span> <span class="kw3">snd</span> <span class="sy0">.</span> <span class="kw3">last</span> <span class="sy0">.</span> <span class="br0">&#40;</span><span class="kw3">flip</span> <span class="kw3">zip</span> <span class="br0">&#91;</span>1<span class="sy0">..</span><span class="br0">&#93;</span><span class="br0">&#41;</span> <span class="co1">-- Because point-free is also fun</span>
+myLength3 <span class="sy0">=</span> <span class="kw3">fst</span> <span class="sy0">.</span> <span class="kw3">last</span> <span class="sy0">.</span> <span class="kw3">zip</span> <span class="br0">&#91;</span>1<span class="sy0">..</span><span class="br0">&#93;</span> <span class="co1">-- same, but easier</span></pre></div></div>
+<h2> <span class="mw-headline" id="Mapping_all_elements_to_.221.22">5  Mapping all elements to "1" </span></h2>
+<p>We can also change each element into our list into a "1" and then add them all together.
+</p>
+<div dir="ltr" class="mw-geshi mw-content-ltr"><div class="haskell source-haskell" style="font-family:monospace;"><pre class="de1">myLength <span class="sy0">::</span> <span class="br0">&#91;</span>a<span class="br0">&#93;</span> <span class="sy0">-&gt;</span> <span class="kw4">Int</span>
+myLength <span class="sy0">=</span> <span class="kw3">sum</span> <span class="sy0">.</span> <span class="kw3">map</span> <span class="br0">&#40;</span>\<span class="sy0">_-&gt;</span><span class="nu0">1</span><span class="br0">&#41;</span></pre></div></div>
+
+<!-- 
+NewPP limit report
+Preprocessor node count: 76/1000000
+Post‐expand include size: 0/2097152 bytes
+Template argument size: 0/2097152 bytes
+Expensive parser function count: 0/100
+-->
+
+<!-- Saved in parser cache with key wikidb:pcache:idhash:6076-0!*!*!1!en!*!* and timestamp 20141002060842 -->
+</div><div class="printfooter">
+Retrieved from "<a href="http://www.haskell.org/haskellwiki/index.php?title=99_questions/Solutions/4&amp;oldid=58091">http://www.haskell.org/haskellwiki/index.php?title=99_questions/Solutions/4&amp;oldid=58091</a>"</div>
+			<div id='catlinks' class='catlinks'><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/haskellwiki/Special:Categories" title="Special:Categories">Category</a>: <ul><li><a href="/haskellwiki/Category:Programming_exercise_spoilers" title="Category:Programming exercise spoilers">Programming exercise spoilers</a></li></ul></div></div>			<!-- end content -->
+						<div class="visualClear"></div>
+		</div>
+	</div>
+		</div></div>
+		<div id="column-one">
+	<script type="text/javascript"> if (window.isMSIE55) fixalpha(); </script>
+	<div class='generated-sidebar portlet' id='p-navigation'>
+		<h5>Navigation</h5>
+		<div class='pBody'>
+			<ul>
+				<li id="n-mainpage"><a href="/haskellwiki/Haskell">Haskell</a></li>
+				<li id="n-portal"><a href="/haskellwiki/HaskellWiki:Community">Wiki community</a></li>
+				<li id="n-recentchanges"><a href="/haskellwiki/Special:RecentChanges">Recent changes</a></li>
+				<li id="n-randompage"><a href="/haskellwiki/Special:Random">Random page</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="portlet" id="p-tb">
+		<h5>Toolbox</h5>
+		<div class="pBody">
+			<ul>
+				<li id="t-whatlinkshere"><a href="/haskellwiki/Special:WhatLinksHere/99_questions/Solutions/4">What links here</a></li>
+				<li id="t-recentchangeslinked"><a href="/haskellwiki/Special:RecentChangesLinked/99_questions/Solutions/4">Related changes</a></li>
+<li id="t-specialpages"><a href="/haskellwiki/Special:SpecialPages">Special pages</a></li>
+				<li id="t-print"><a href="/haskellwiki/index.php?title=99_questions/Solutions/4&amp;printable=yes" rel="alternate">Printable version</a></li>				<li id="t-permalink"><a href="/haskellwiki/index.php?title=99_questions/Solutions/4&amp;oldid=58091">Permanent link</a></li>			</ul>
+		</div>
+	</div>
+		</div><!-- end of the left (by default at least) column -->
+			<div class="visualClear"></div>
+			<div id="footer">
+				<div id="f-poweredbyico"><a href="//www.mediawiki.org/"><img src="/wikistatic/skins//common/images/poweredby_mediawiki_88x31.png" height="31" width="88" alt="Powered by MediaWiki" /></a></div>
+			<ul id="f-list">
+					<li id="lastmod"> This page was last modified on 15 May 2014, at 13:21.</li>
+					<li id="viewcount">This page has been accessed 18,377 times.</li>
+					<li id="copyright">Recent content is available under <a href="/haskellwiki/HaskellWiki:Copyrights" title="HaskellWiki:Copyrights">a simple permissive license</a>.</li>
+					<li id="privacy"><a href="/haskellwiki/HaskellWiki:Privacy_policy" title="HaskellWiki:Privacy policy">Privacy policy</a></li>
+					<li id="about"><a href="/haskellwiki/HaskellWiki:About" title="HaskellWiki:About">About HaskellWiki</a></li>
+					<li id="disclaimer"><a href="/haskellwiki/HaskellWiki:General_disclaimer" title="HaskellWiki:General disclaimer">Disclaimers</a></li>
+			</ul>
+		</div>
+</div>
+<script>if(window.mw){
+mw.loader.load(["mediawiki.user","mediawiki.page.ready"], null, true);
+}</script>
+<script src="http://www.haskell.org/haskellwiki/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=scripts&amp;skin=hawiki&amp;*"></script>
+<!-- Served in 0.095 secs. --><script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-15375175-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+</body></html>

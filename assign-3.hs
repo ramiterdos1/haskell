@@ -1,0 +1,10 @@
+wordbuilding :: [String] -> [[String]]
+wordbuilding l = [c | b <- l,c<-(g (norepeat b l) b)]
+f :: String -> [String] -> [String]
+f m l = [e | e <- l , last m==head e]   
+g :: [String] -> String -> [[String]] 
+g l p |(f p l == [ ]) = [[p]]
+      |otherwise  = [(p:b)| c <- f p l , b <- (g (norepeat c l)c)]
+norepeat :: String -> [String] -> [String]
+norepeat m xs = [y|y <-  xs , y /= m]
+          
